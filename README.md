@@ -16,8 +16,15 @@ and combat methods — hosted on GitHub Pages.
 Prices come from the [OSRS Wiki real-time price API](https://prices.runescape.wiki).
 `data.json` is regenerated and pushed automatically every ~4 hours (the GE
 buy-limit window) by a self-hosted advisor pipeline; the page refetches it
-every 10 minutes. The Money Makers and Combat sections are filtered to what a
-mid-level member account can actually do.
+every 10 minutes.
+
+**Filter to your own account:** enter your RSN and the Money Makers / Combat
+sections narrow to what *your* stats and quest log allow. This uses the
+[RuneLite WikiSync plugin](https://runelite.net/plugin-hub/show/wiki-sync)'s
+public endpoint (install the plugin, log in once) — levels and quest states
+in one call, no passwords, nothing stored. Because WikiSync only answers
+wiki-origin browsers, `worker/` contains a small Cloudflare Worker CORS relay
+the page calls instead (5-minute edge cache).
 
 Rates are estimates, not guarantees — the GE moves. Old School RuneScape is a
 trademark of Jagex Ltd; this project is unaffiliated.
