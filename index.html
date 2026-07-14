@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>OSRS Money Advisor</title>
+<meta name="description" content="Old School RuneScape gold-making intelligence: GE flips, decants, set arbitrage, high-alch and money makers — refreshed automatically from live prices.">
+<meta property="og:title" content="OSRS Money Advisor">
+<meta property="og:description" content="Gold-making intelligence, refreshed automatically from live GE prices.">
+<meta property="og:type" content="website">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🧭</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: radial-gradient(ellipse 1200px 600px at 50% -10%, oklch(22% 0.03 80 / 0.5), transparent), oklch(14% 0.016 70);
+    min-height: 100vh;
+    font-family: 'Inter', sans-serif;
+    color: oklch(90% 0.02 70);
+    padding-bottom: 40px;
+  }
+  ::selection { background: oklch(78% 0.15 85 / 0.3); }
+  a { color: oklch(78% 0.12 85); }
+
+  .header { max-width: 1400px; margin: 0 auto; padding: 56px 40px 32px; text-align: center; }
+  .title-row { display: inline-flex; align-items: center; gap: 14px; margin-bottom: 14px; }
+  .title-row .compass { font-size: 40px; }
+  h1 {
+    font-family: 'Cinzel', serif; font-weight: 700; font-size: 42px; letter-spacing: 0.5px;
+    margin: 0; color: oklch(88% 0.03 70); text-shadow: 0 0 30px oklch(78% 0.15 85 / 0.25);
+  }
+  .tagline { font-size: 17px; color: oklch(68% 0.02 70); margin: 0 0 20px; letter-spacing: 0.2px; }
+
+  .live-pill {
+    display: inline-flex; align-items: center; gap: 10px; padding: 8px 18px; border-radius: 999px;
+    background: oklch(20% 0.02 70); border: 1px solid oklch(55% 0.08 85 / 0.3);
+  }
+  .live-dot { position: relative; width: 9px; height: 9px; border-radius: 50%; background: oklch(78% 0.16 145); flex-shrink: 0; }
+  .live-dot::after {
+    content: ""; position: absolute; inset: 0; border-radius: 50%;
+    background: oklch(78% 0.16 145); animation: pulseDot 1.8s ease-in-out infinite;
+  }
+  .live-dot.stale, .live-dot.stale::after { background: oklch(78% 0.16 25); }
+  @keyframes pulseDot { 0%,100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.4; transform: scale(0.7); } }
+  .live-text { font-family: 'JetBrains Mono', monospace; font-size: 13px; color: oklch(70% 0.02 70); }
+
+  .grid {
+    max-width: 1400px; margin: 0 auto; padding: 16px 40px 0;
+    display: grid; grid-template-columns: repeat(auto-fit, minmax(min(400px, 100%), 1fr)); gap: 28px;
+  }
+  @media (max-width: 560px) { .grid { padding: 16px 16px 0; } .header { padding: 40px 16px 24px; } h1 { font-size: 32px; } }
+
+  .card {
+    background: oklch(18% 0.018 70); border: 1px solid oklch(55% 0.08 85 / 0.18);
+    border-radius: 16px; padding: 28px 26px; display: flex; flex-direction: column; gap: 4px;
+  }
+  .card-head { display: flex; align-items: baseline; gap: 10px; margin-bottom: 2px; }
+  .card-head .icon { font-size: 22px; }
+  .card-head h2 { font-family: 'Cinzel', serif; font-size: 20px; font-weight: 600; margin: 0; color: oklch(85% 0.03 75); }
+  .card-note { font-size: 11.5px; color: oklch(58% 0.02 70); margin: 0 0 6px; }
+  .divider { height: 1px; background: linear-gradient(90deg, oklch(65% 0.1 85 / 0.5), transparent); margin-bottom: 14px; }
+  .card-empty { font-size: 13px; color: oklch(58% 0.02 70); padding: 8px 2px; }
+
+  .row { border-radius: 10px; margin-bottom: 6px; overflow: hidden; background: transparent; }
+  .row.best { background: oklch(24% 0.03 85 / 0.4); }
+  .row-main {
+    cursor: pointer; padding: 12px 14px; display: flex; align-items: center;
+    justify-content: space-between; gap: 14px; border: 0; width: 100%;
+    background: transparent; font: inherit; color: inherit; text-align: left;
+  }
+  .row-main:hover { background: oklch(24% 0.02 75 / 0.5); }
+  .row-left { min-width: 0; flex: 1; }
+  .row-name-line { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+  .row-name { font-size: 15px; font-weight: 600; color: oklch(92% 0.015 70); }
+  .badge {
+    font-family: 'JetBrains Mono', monospace; font-size: 10.5px; font-weight: 600;
+    letter-spacing: 0.4px; padding: 2px 8px; border-radius: 999px; border: 1px solid;
+  }
+  .badge-LOW      { color: oklch(80% 0.14 145); background: oklch(35% 0.05 145 / 0.35); border-color: oklch(60% 0.1 145 / 0.4); }
+  .badge-MODERATE { color: oklch(82% 0.13 85);  background: oklch(38% 0.05 85 / 0.35);  border-color: oklch(65% 0.1 85 / 0.4); }
+  .badge-HIGH     { color: oklch(78% 0.16 25);  background: oklch(35% 0.06 25 / 0.35);  border-color: oklch(60% 0.12 25 / 0.4); }
+  .row-line1 { font-size: 12.5px; color: oklch(62% 0.02 70); margin-top: 3px; }
+  .row-right { text-align: right; flex-shrink: 0; }
+  .row-rate { font-family: 'JetBrains Mono', monospace; font-size: 14.5px; font-weight: 600; color: oklch(78% 0.15 85); }
+  .row-hint { font-size: 10px; color: oklch(55% 0.02 70); margin-top: 2px; }
+  .row-detail {
+    padding: 10px 14px 14px; font-size: 12.5px; color: oklch(68% 0.02 70); line-height: 1.6;
+    border-top: 1px solid oklch(55% 0.08 85 / 0.15); display: none;
+  }
+  .row.open .row-detail { display: block; }
+  .row-detail a { color: oklch(78% 0.12 85); }
+
+  .footer {
+    max-width: 1400px; margin: 48px auto 0; padding: 0 40px; text-align: center;
+    font-size: 12px; color: oklch(55% 0.02 70); line-height: 1.8;
+  }
+  .status-msg { text-align: center; padding: 60px 20px; color: oklch(62% 0.02 70); font-size: 15px; }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <div class="title-row">
+    <span class="compass">🧭</span>
+    <h1>OSRS Advisor</h1>
+  </div>
+  <p class="tagline">Gold-making intelligence, refreshed automatically</p>
+  <div class="live-pill">
+    <span class="live-dot" id="liveDot"></span>
+    <span class="live-text" id="liveText">loading…</span>
+  </div>
+</div>
+
+<div class="grid" id="grid"></div>
+<noscript><div class="status-msg">This dashboard needs JavaScript to render the live data.</div></noscript>
+
+<div class="footer">
+  Prices from <a href="https://prices.runescape.wiki" rel="noopener">prices.runescape.wiki</a> ·
+  money-maker rates re-derived post-tax &amp; volume-capped where verifiable ·
+  Money Makers &amp; Combat lists are filtered for a mid-level member account.<br>
+  All figures are conservative estimates, not guarantees — the GE moves. Old School RuneScape is a trademark of Jagex Ltd.
+</div>
+
+<script>
+"use strict";
+
+function esc(s) {
+  return String(s).replace(/[&<>"']/g, c => ({
+    "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
+  }[c]));
+}
+
+function ago(iso) {
+  const s = Math.max(0, Math.floor((Date.now() - Date.parse(iso)) / 1000));
+  if (s < 90) return s + "s";
+  const m = Math.floor(s / 60);
+  if (m < 90) return m + "m";
+  const h = Math.floor(m / 60);
+  if (h < 48) return h + "h";
+  return Math.floor(h / 24) + "d";
+}
+
+let generatedAt = null;
+
+function tickClock() {
+  if (!generatedAt) return;
+  const stamp = generatedAt.replace("T", " ").replace(/:\d\d(\.\d+)?Z$/, " UTC");
+  document.getElementById("liveText").textContent =
+    "Updated " + ago(generatedAt) + " ago · " + stamp;
+  // data refreshes every 4h; older than 9h means the pipeline is stuck
+  const stale = Date.now() - Date.parse(generatedAt) > 9 * 3600 * 1000;
+  document.getElementById("liveDot").classList.toggle("stale", stale);
+}
+
+function render(data) {
+  generatedAt = data.generated_at;
+  tickClock();
+  const grid = document.getElementById("grid");
+  grid.textContent = "";
+  for (const section of data.sections) {
+    const card = document.createElement("div");
+    card.className = "card";
+    let inner =
+      '<div class="card-head"><span class="icon">' + esc(section.icon) + "</span>" +
+      "<h2>" + esc(section.title) + "</h2></div>";
+    if (section.note) inner += '<p class="card-note">' + esc(section.note) + "</p>";
+    inner += '<div class="divider"></div>';
+    if (!section.items.length) {
+      inner += '<div class="card-empty">nothing above thresholds right now</div>';
+    }
+    section.items.forEach((item, i) => {
+      const badge = item.badge
+        ? '<span class="badge badge-' + esc(item.badge) + '">' + esc(item.badge) + "</span>"
+        : "";
+      const link = item.url
+        ? ' · <a href="' + esc(item.url) + '" rel="noopener" target="_blank">wiki guide</a>'
+        : "";
+      inner +=
+        '<div class="row' + (i === 0 ? " best" : "") + '">' +
+          '<button class="row-main" type="button">' +
+            '<span class="row-left">' +
+              '<span class="row-name-line"><span class="row-name">' + esc(item.name) + "</span>" + badge + "</span>" +
+              '<span class="row-line1">' + esc(item.line1) + "</span>" +
+            "</span>" +
+            '<span class="row-right">' +
+              '<span class="row-rate">' + esc(item.rate) + "</span>" +
+              '<div class="row-hint">details ▼</div>' +
+            "</span>" +
+          "</button>" +
+          '<div class="row-detail">' + esc(item.detail) + link + "</div>" +
+        "</div>";
+    });
+    card.innerHTML = inner;
+    grid.appendChild(card);
+  }
+  grid.querySelectorAll(".row-main").forEach(btn => {
+    btn.addEventListener("click", () => {
+      const row = btn.closest(".row");
+      row.classList.toggle("open");
+      btn.querySelector(".row-hint").textContent =
+        row.classList.contains("open") ? "hide ▲" : "details ▼";
+    });
+  });
+}
+
+async function load() {
+  try {
+    const r = await fetch("data.json?t=" + Date.now(), { cache: "no-store" });
+    if (!r.ok) throw new Error("HTTP " + r.status);
+    render(await r.json());
+  } catch (e) {
+    document.getElementById("liveText").textContent = "data unavailable";
+    document.getElementById("liveDot").classList.add("stale");
+    if (!generatedAt) {
+      document.getElementById("grid").innerHTML =
+        '<div class="status-msg">Could not load data.json — try refreshing.</div>';
+    }
+  }
+}
+
+load();
+setInterval(tickClock, 15000);
+setInterval(load, 10 * 60 * 1000);
+</script>
+</body>
+</html>
