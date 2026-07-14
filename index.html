@@ -170,7 +170,7 @@
 // WikiSync rejects cross-origin browser requests, so a tiny Cloudflare Worker
 // relays them (and caches for 5 min). Direct is still tried as a fallback in
 // case the origin policy ever opens up.
-const WIKISYNC_PROXY = "";   // e.g. "https://osrs-wikisync.example.workers.dev/player/"
+const WIKISYNC_PROXY = "https://rs.ur-advisor.workers.dev/player/";
 const WIKISYNC_DIRECT = "https://sync.runescape.wiki/runelite/player/";
 const SHOW_N = 10;           // rows shown per personalisable card after filtering
 
