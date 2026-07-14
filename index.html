@@ -4,9 +4,9 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>OSRS Money Advisor</title>
-<meta name="description" content="Old School RuneScape gold-making intelligence: GE flips, decants, set arbitrage, high-alch and money makers — refreshed automatically from live prices.">
+<meta name="description" content="Old School RuneScape gold-making intelligence: GE flips, decants, set arbitrage, high-alch and money makers — refreshed automatically from live prices, filterable to your own account via RuneLite WikiSync.">
 <meta property="og:title" content="OSRS Money Advisor">
-<meta property="og:description" content="Gold-making intelligence, refreshed automatically from live GE prices.">
+<meta property="og:description" content="Gold-making intelligence, refreshed automatically from live GE prices. Enter your RSN to see what YOUR account can do.">
 <meta property="og:type" content="website">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🧭</text></svg>">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -47,6 +47,28 @@
   @keyframes pulseDot { 0%,100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.4; transform: scale(0.7); } }
   .live-text { font-family: 'JetBrains Mono', monospace; font-size: 13px; color: oklch(70% 0.02 70); }
 
+  .rsn-bar { display: flex; justify-content: center; align-items: center; gap: 8px; margin-top: 18px; flex-wrap: wrap; }
+  .rsn-bar input {
+    font-family: 'JetBrains Mono', monospace; font-size: 13px; color: oklch(90% 0.02 70);
+    background: oklch(20% 0.02 70); border: 1px solid oklch(55% 0.08 85 / 0.3);
+    border-radius: 999px; padding: 8px 16px; width: 190px; outline: none;
+  }
+  .rsn-bar input:focus { border-color: oklch(70% 0.12 85 / 0.6); }
+  .rsn-bar button {
+    font-family: 'Inter', sans-serif; font-size: 13px; font-weight: 600; cursor: pointer;
+    color: oklch(16% 0.02 70); background: oklch(78% 0.15 85);
+    border: 0; border-radius: 999px; padding: 9px 18px;
+  }
+  .rsn-bar button:hover { background: oklch(84% 0.14 85); }
+  .rsn-bar button.ghost {
+    color: oklch(70% 0.02 70); background: transparent;
+    border: 1px solid oklch(55% 0.08 85 / 0.3); padding: 8px 14px;
+  }
+  .rsn-bar button.ghost:hover { color: oklch(88% 0.02 70); border-color: oklch(65% 0.1 85 / 0.5); background: transparent; }
+  .rsn-status { margin-top: 10px; font-size: 12.5px; color: oklch(62% 0.02 70); min-height: 18px; }
+  .rsn-status.ok { color: oklch(78% 0.13 145); }
+  .rsn-status.err { color: oklch(75% 0.14 25); }
+
   .grid {
     max-width: 1400px; margin: 0 auto; padding: 16px 40px 0;
     display: grid; grid-template-columns: repeat(auto-fit, minmax(min(400px, 100%), 1fr)); gap: 28px;
@@ -63,6 +85,7 @@
   .card-note { font-size: 11.5px; color: oklch(58% 0.02 70); margin: 0 0 6px; }
   .divider { height: 1px; background: linear-gradient(90deg, oklch(65% 0.1 85 / 0.5), transparent); margin-bottom: 14px; }
   .card-empty { font-size: 13px; color: oklch(58% 0.02 70); padding: 8px 2px; }
+  .card-more { font-size: 11px; color: oklch(55% 0.02 70); padding: 6px 2px 0; }
 
   .row { border-radius: 10px; margin-bottom: 6px; overflow: hidden; background: transparent; }
   .row.best { background: oklch(24% 0.03 85 / 0.4); }
@@ -112,6 +135,12 @@
     <span class="live-dot" id="liveDot"></span>
     <span class="live-text" id="liveText">loading…</span>
   </div>
+  <div class="rsn-bar">
+    <input id="rsnInput" placeholder="your RSN…" maxlength="12" autocomplete="off" spellcheck="false">
+    <button id="rsnBtn" type="button">Filter for me</button>
+    <button id="rsnClear" type="button" class="ghost" hidden>show all</button>
+  </div>
+  <div class="rsn-status" id="rsnStatus">Money Makers &amp; Combat can be filtered to your account — needs the <b>WikiSync</b> plugin in RuneLite (install it, log in once).</div>
 </div>
 
 <div class="grid" id="grid"></div>
@@ -119,13 +148,20 @@
 
 <div class="footer">
   Prices from <a href="https://prices.runescape.wiki" rel="noopener">prices.runescape.wiki</a> ·
-  money-maker rates re-derived post-tax &amp; volume-capped where verifiable ·
-  Money Makers &amp; Combat lists are filtered for a mid-level member account.<br>
+  account data via <a href="https://runelite.net/plugin-hub/show/wiki-sync" rel="noopener">RuneLite WikiSync</a> (your RSN is only sent there, never stored) ·
+  money-maker rates re-derived post-tax &amp; volume-capped where verifiable.<br>
   All figures are conservative estimates, not guarantees — the GE moves. Old School RuneScape is a trademark of Jagex Ltd.
 </div>
 
 <script>
 "use strict";
+
+// WikiSync rejects cross-origin browser requests, so a tiny Cloudflare Worker
+// relays them (and caches for 5 min). Direct is still tried as a fallback in
+// case the origin policy ever opens up.
+const WIKISYNC_PROXY = "";   // e.g. "https://osrs-wikisync.example.workers.dev/player/"
+const WIKISYNC_DIRECT = "https://sync.runescape.wiki/runelite/player/";
+const SHOW_N = 10;           // rows shown per personalisable card after filtering
 
 function esc(s) {
   return String(s).replace(/[&<>"']/g, c => ({
@@ -143,7 +179,77 @@ function ago(iso) {
   return Math.floor(h / 24) + "d";
 }
 
+// ---- account profile (RuneLite WikiSync) -----------------------------------
+
+// OSRS combat level formula — same integer-division semantics as the advisor's
+// Python combat_level()
+function combatLevel(lv) {
+  const g = s => lv[s] ?? 1;
+  const base = 0.25 * (g("Defence") + g("Hitpoints") + Math.floor(g("Prayer") / 2));
+  const best = Math.max(0.325 * (g("Attack") + g("Strength")),
+                        0.325 * Math.floor(3 * g("Ranged") / 2),
+                        0.325 * Math.floor(3 * g("Magic") / 2));
+  return Math.floor(base + best);
+}
+
+const normQuest = s => String(s).replace(/['’]/g, "").replace(/\s+/g, " ").trim().toLowerCase();
+
+let data = null;      // data.json payload
+let profile = null;   // { rsn, levels, combat, total, quests:Set(normalised) }
 let generatedAt = null;
+
+async function fetchWikiSync(rsn) {
+  const urls = [];
+  if (WIKISYNC_PROXY) urls.push(WIKISYNC_PROXY + encodeURIComponent(rsn));
+  urls.push(WIKISYNC_DIRECT + encodeURIComponent(rsn) + "/STANDARD");
+  let lastErr = new Error("no source configured");
+  for (const u of urls) {
+    try {
+      const r = await fetch(u);
+      if (r.status === 404) { const e = new Error("notfound"); e.notFound = true; throw e; }
+      if (!r.ok) throw new Error("HTTP " + r.status);
+      return await r.json();
+    } catch (e) {
+      if (e.notFound) throw e;
+      lastErr = e;
+    }
+  }
+  throw lastErr;
+}
+
+function buildProfile(rsn, payload) {
+  const levels = payload.levels || {};
+  const total = Object.values(levels).reduce((a, b) => a + b, 0);
+  const quests = new Set();
+  for (const [q, state] of Object.entries(payload.quests || {})) {
+    if (q !== "." && state === 2) quests.add(normQuest(q));
+  }
+  return { rsn, levels, combat: combatLevel(levels), total, quests,
+           questsDone: quests.size };
+}
+
+function statFor(name) {
+  if (!profile) return null;
+  if (name === "Combat") return profile.combat;
+  if (name === "Skills") return profile.total;
+  const v = profile.levels[name];
+  return v === undefined ? null : v;   // unknown skill name = never gates
+}
+
+function itemPasses(item) {
+  if (!profile) return true;
+  if (item.minCombat && profile.combat < item.minCombat) return false;
+  for (const r of item.reqs || []) {
+    const have = statFor(r.s);
+    if (have !== null && have < r.l) return false;
+  }
+  for (const q of item.quests || []) {
+    if (!profile.quests.has(normQuest(q))) return false;
+  }
+  return true;
+}
+
+// ---- rendering ---------------------------------------------------------------
 
 function tickClock() {
   if (!generatedAt) return;
@@ -155,12 +261,25 @@ function tickClock() {
   document.getElementById("liveDot").classList.toggle("stale", stale);
 }
 
-function render(data) {
+function render() {
+  if (!data) return;
   generatedAt = data.generated_at;
   tickClock();
   const grid = document.getElementById("grid");
   grid.textContent = "";
   for (const section of data.sections) {
+    const personal = !!section.personal;
+    let items = section.items;
+    let more = "";
+    if (personal) {
+      const matched = profile ? items.filter(itemPasses) : items;
+      more = profile
+        ? "top " + Math.min(SHOW_N, matched.length) + " of " + matched.length +
+          " methods " + esc(profile.rsn) + " can do (of " + items.length + " total)"
+        : "top " + Math.min(SHOW_N, items.length) + " of " + items.length +
+          " — enter your RSN above to filter";
+      items = matched.slice(0, SHOW_N);
+    }
     const card = document.createElement("div");
     card.className = "card";
     let inner =
@@ -168,10 +287,13 @@ function render(data) {
       "<h2>" + esc(section.title) + "</h2></div>";
     if (section.note) inner += '<p class="card-note">' + esc(section.note) + "</p>";
     inner += '<div class="divider"></div>';
-    if (!section.items.length) {
-      inner += '<div class="card-empty">nothing above thresholds right now</div>';
+    if (!items.length) {
+      inner += '<div class="card-empty">' +
+        (personal && profile
+          ? "nothing here fits this account yet — level up or quest on!"
+          : "nothing above thresholds right now") + "</div>";
     }
-    section.items.forEach((item, i) => {
+    items.forEach((item, i) => {
       const badge = item.badge
         ? '<span class="badge badge-' + esc(item.badge) + '">' + esc(item.badge) + "</span>"
         : "";
@@ -193,6 +315,7 @@ function render(data) {
           '<div class="row-detail">' + esc(item.detail) + link + "</div>" +
         "</div>";
     });
+    if (more) inner += '<div class="card-more">' + more + "</div>";
     card.innerHTML = inner;
     grid.appendChild(card);
   }
@@ -206,22 +329,76 @@ function render(data) {
   });
 }
 
+// ---- wiring --------------------------------------------------------------------
+
+function setStatus(text, cls) {
+  const el = document.getElementById("rsnStatus");
+  el.className = "rsn-status" + (cls ? " " + cls : "");
+  el.innerHTML = text;
+}
+
+async function applyRsn(rsn, fromStorage) {
+  rsn = rsn.trim();
+  if (!rsn) return;
+  setStatus("looking up " + esc(rsn) + "…");
+  try {
+    const payload = await fetchWikiSync(rsn);
+    profile = buildProfile(rsn, payload);
+    localStorage.setItem("osrs-advisor-rsn", rsn);
+    document.getElementById("rsnClear").hidden = false;
+    document.getElementById("rsnInput").value = rsn;
+    setStatus("filtering for <b>" + esc(rsn) + "</b> — combat " + profile.combat +
+              ", total " + profile.total + ", " + profile.questsDone +
+              " quests done (via WikiSync, updates when you log in with RuneLite)", "ok");
+    render();
+  } catch (e) {
+    profile = null;
+    if (!fromStorage) {
+      setStatus(e.notFound
+        ? "No WikiSync data for “" + esc(rsn) + "”. Install the <b>WikiSync</b> plugin " +
+          "from the RuneLite Plugin Hub and log in to the game once, then retry."
+        : "Couldn't reach WikiSync just now — try again in a minute.", "err");
+    }
+    render();
+  }
+}
+
+function clearRsn() {
+  profile = null;
+  localStorage.removeItem("osrs-advisor-rsn");
+  document.getElementById("rsnInput").value = "";
+  document.getElementById("rsnClear").hidden = true;
+  setStatus("Money Makers &amp; Combat can be filtered to your account — needs the " +
+            "<b>WikiSync</b> plugin in RuneLite (install it, log in once).");
+  render();
+}
+
+document.getElementById("rsnBtn").addEventListener("click",
+  () => applyRsn(document.getElementById("rsnInput").value, false));
+document.getElementById("rsnInput").addEventListener("keydown",
+  e => { if (e.key === "Enter") applyRsn(e.target.value, false); });
+document.getElementById("rsnClear").addEventListener("click", clearRsn);
+
 async function load() {
   try {
     const r = await fetch("data.json?t=" + Date.now(), { cache: "no-store" });
     if (!r.ok) throw new Error("HTTP " + r.status);
-    render(await r.json());
+    data = await r.json();
+    render();
   } catch (e) {
     document.getElementById("liveText").textContent = "data unavailable";
     document.getElementById("liveDot").classList.add("stale");
-    if (!generatedAt) {
+    if (!data) {
       document.getElementById("grid").innerHTML =
         '<div class="status-msg">Could not load data.json — try refreshing.</div>';
     }
   }
 }
 
-load();
+load().then(() => {
+  const saved = localStorage.getItem("osrs-advisor-rsn");
+  if (saved) applyRsn(saved, true);
+});
 setInterval(tickClock, 15000);
 setInterval(load, 10 * 60 * 1000);
 </script>
