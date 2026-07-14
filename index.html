@@ -113,6 +113,14 @@
   .badge-LOW      { color: oklch(80% 0.14 145); background: oklch(35% 0.05 145 / 0.35); border-color: oklch(60% 0.1 145 / 0.4); }
   .badge-MODERATE { color: oklch(82% 0.13 85);  background: oklch(38% 0.05 85 / 0.35);  border-color: oklch(65% 0.1 85 / 0.4); }
   .badge-HIGH     { color: oklch(78% 0.16 25);  background: oklch(35% 0.06 25 / 0.35);  border-color: oklch(60% 0.12 25 / 0.4); }
+  .badge-ELITE    { color: oklch(80% 0.14 310); background: oklch(35% 0.07 310 / 0.35); border-color: oklch(60% 0.12 310 / 0.4); }
+  .chips { display: flex; gap: 6px; margin: 0 0 10px; }
+  .chip {
+    font: inherit; font-size: 11px; font-weight: 600; cursor: pointer;
+    padding: 3px 12px; border-radius: 999px; color: oklch(62% 0.02 70);
+    background: transparent; border: 1px solid oklch(45% 0.04 75 / 0.4);
+  }
+  .chip.on { color: oklch(85% 0.1 85); background: oklch(32% 0.05 85 / 0.4); border-color: oklch(60% 0.1 85 / 0.5); }
   .row-line1 { font-size: 12.5px; color: oklch(62% 0.02 70); margin-top: 3px; }
   .row-right { text-align: right; flex-shrink: 0; }
   .row-rate { font-family: 'JetBrains Mono', monospace; font-size: 14.5px; font-weight: 600; color: oklch(78% 0.15 85); }
@@ -208,6 +216,7 @@ const normQuest = s => String(s).replace(/['’]/g, "").replace(/\s+/g, " ").tri
 let data = null;      // data.json payload
 let profile = null;   // { rsn, levels, combat, total, quests:Set(normalised) }
 let generatedAt = null;
+const secFilter = {}; // section title -> "all" | "standard" | "elite"
 
 async function fetchWikiSync(rsn) {
   const urls = [];
@@ -280,14 +289,18 @@ function render() {
   grid.textContent = "";
   for (const section of data.sections) {
     const personal = !!section.personal;
+    const hasElite = personal && section.items.some(it => it.elite);
+    const df = secFilter[section.title] || "all";
     let items = section.items;
     let more = "";
     if (personal) {
-      const matched = profile ? items.filter(itemPasses) : items;
+      let pool = items;
+      if (df !== "all") pool = pool.filter(it => (df === "elite") === !!it.elite);
+      const matched = profile ? pool.filter(itemPasses) : pool;
       more = profile
         ? "top " + Math.min(SHOW_N, matched.length) + " of " + matched.length +
-          " methods " + esc(profile.rsn) + " can do (of " + items.length + " total)"
-        : "top " + Math.min(SHOW_N, items.length) + " of " + items.length +
+          " methods " + esc(profile.rsn) + " can do (of " + pool.length + " total)"
+        : "top " + Math.min(SHOW_N, matched.length) + " of " + pool.length +
           " — enter your RSN above to filter";
       items = matched.slice(0, SHOW_N);
     }
@@ -297,6 +310,12 @@ function render() {
       '<div class="card-head"><span class="icon">' + esc(section.icon) + "</span>" +
       "<h2>" + esc(section.title) + "</h2></div>";
     if (section.note) inner += '<p class="card-note">' + esc(section.note) + "</p>";
+    if (hasElite) {
+      inner += '<div class="chips" data-sec="' + esc(section.title) + '">' +
+        ["all", "standard", "elite"].map(v =>
+          '<button type="button" class="chip' + (df === v ? " on" : "") +
+          '" data-v="' + v + '">' + v + "</button>").join("") + "</div>";
+    }
     inner += '<div class="divider"></div>';
     if (!items.length) {
       inner += '<div class="card-empty">' +
@@ -305,9 +324,9 @@ function render() {
           : "nothing above thresholds right now") + "</div>";
     }
     items.forEach((item, i) => {
-      const badge = item.badge
+      const badge = (item.badge
         ? '<span class="badge badge-' + esc(item.badge) + '">' + esc(item.badge) + "</span>"
-        : "";
+        : "") + (item.elite ? '<span class="badge badge-ELITE">ELITE</span>' : "");
       const link = item.url
         ? ' · <a href="' + esc(item.url) + '" rel="noopener" target="_blank">wiki guide</a>'
         : "";
@@ -336,6 +355,12 @@ function render() {
       row.classList.toggle("open");
       btn.querySelector(".row-hint").textContent =
         row.classList.contains("open") ? "hide ▲" : "details ▼";
+    });
+  });
+  grid.querySelectorAll(".chips .chip").forEach(ch => {
+    ch.addEventListener("click", () => {
+      secFilter[ch.parentElement.dataset.sec] = ch.dataset.v;
+      render();
     });
   });
 }
