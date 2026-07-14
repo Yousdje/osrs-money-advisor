@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-14T09:15:23Z",
+ "generated_at": "2026-07-14T10:30:56Z",
  "sections": [
   {
    "icon": "📈",
@@ -7,16 +7,16 @@
    "note": null,
    "items": [
     {
-     "name": "Rune brutal",
-     "line1": "buy 927 → sell 986, +40/ea",
-     "rate": "≈107.8K/4h",
-     "detail": "Post-tax margin per unit at conservative percentile targets. Buy limit 11,000/4h, realistic fill 2,696/4h (10% of daily volume). Dependability 0.99 — closer to 1.00 means the margin recurs all day, not one lucky burst."
+     "name": "Necklace of passage(5)",
+     "line1": "buy 1,861 → sell 1,994, +94/ea",
+     "rate": "≈126.2K/4h",
+     "detail": "Post-tax margin per unit at conservative percentile targets. Buy limit 10,000/4h, realistic fill 1,343/4h (10% of daily volume). Dependability 1.00 — closer to 1.00 means the margin recurs all day, not one lucky burst."
     },
     {
-     "name": "Ranging potion(3)",
-     "line1": "buy 1,451 → sell 1,543, +62/ea",
-     "rate": "≈106.8K/4h",
-     "detail": "Post-tax margin per unit at conservative percentile targets. Buy limit 2,000/4h, realistic fill 1,722/4h (10% of daily volume). Dependability 0.99 — closer to 1.00 means the margin recurs all day, not one lucky burst."
+     "name": "Super combat potion(1)",
+     "line1": "buy 3,077 → sell 3,291, +149/ea",
+     "rate": "≈121.0K/4h",
+     "detail": "Post-tax margin per unit at conservative percentile targets. Buy limit 2,000/4h, realistic fill 812/4h (10% of daily volume). Dependability 1.00 — closer to 1.00 means the margin recurs all day, not one lucky burst."
     },
     {
      "name": "Divine super combat potion(1)",
@@ -25,16 +25,16 @@
      "detail": "Post-tax margin per unit at conservative percentile targets. Buy limit 2,000/4h, realistic fill 541/4h (10% of daily volume). Dependability 0.99 — closer to 1.00 means the margin recurs all day, not one lucky burst."
     },
     {
-     "name": "Soiled page",
-     "line1": "buy 2,861 → sell 3,027, +106/ea",
-     "rate": "≈92.5K/4h",
-     "detail": "Post-tax margin per unit at conservative percentile targets. Buy limit 11,000/4h, realistic fill 873/4h (10% of daily volume). Dependability 0.98 — closer to 1.00 means the margin recurs all day, not one lucky burst."
+     "name": "Splitbark body",
+     "line1": "buy 26,023 → sell 28,015, +1,432/ea",
+     "rate": "≈100.2K/4h",
+     "detail": "Post-tax margin per unit at conservative percentile targets. Buy limit 70/4h, realistic fill 70/4h (10% of daily volume). Dependability 0.99 — closer to 1.00 means the margin recurs all day, not one lucky burst."
     },
     {
-     "name": "Crystal weapon seed",
-     "line1": "buy 409,647 → sell 433,193, +14,883/ea",
-     "rate": "≈89.3K/4h",
-     "detail": "Post-tax margin per unit at conservative percentile targets. Buy limit 70/4h, realistic fill 6/4h (10% of daily volume). Dependability 0.82 — closer to 1.00 means the margin recurs all day, not one lucky burst."
+     "name": "Grimy lantadyme",
+     "line1": "buy 1,190 → sell 1,262, +47/ea",
+     "rate": "≈98.7K/4h",
+     "detail": "Post-tax margin per unit at conservative percentile targets. Buy limit 11,000/4h, realistic fill 2,100/4h (10% of daily volume). Dependability 0.99 — closer to 1.00 means the margin recurs all day, not one lucky burst."
     }
    ]
   },
@@ -44,34 +44,34 @@
    "note": null,
    "items": [
     {
-     "name": "Combat potion (3)→(4)",
+     "name": "Antidote++ (3)→(4)",
      "line1": "buy (3) doses, decant free at Bob Barter, sell as (4)",
-     "rate": "+46/pot · ≈69.5K/4h",
-     "detail": "Buy (3) at 88 gp each, sell the (4) at 166 gp (margin is post-tax, incl. empty-vial credit). Realistic output 1,500 pots/4h, capped by both sides' volume."
+     "rate": "+568/pot · ≈497.0K/4h",
+     "detail": "Buy (3) at 5,186 gp each, sell the (4) at 7,634 gp (margin is post-tax, incl. empty-vial credit). Realistic output 875 pots/4h, capped by both sides' volume."
+    },
+    {
+     "name": "Super defence (3)→(4)",
+     "line1": "buy (3) doses, decant free at Bob Barter, sell as (4)",
+     "rate": "+139/pot · ≈208.5K/4h",
+     "detail": "Buy (3) at 2,885 gp each, sell the (4) at 4,066 gp (margin is post-tax, incl. empty-vial credit). Realistic output 1,500 pots/4h, capped by both sides' volume."
+    },
+    {
+     "name": "Ranging potion (3)→(4)",
+     "line1": "buy (3) doses, decant free at Bob Barter, sell as (4)",
+     "rate": "+73/pot · ≈110.0K/4h",
+     "detail": "Buy (3) at 1,543 gp each, sell the (4) at 2,173 gp (margin is post-tax, incl. empty-vial credit). Realistic output 1,500 pots/4h, capped by both sides' volume."
     },
     {
      "name": "Magic potion (3)→(4)",
      "line1": "buy (3) doses, decant free at Bob Barter, sell as (4)",
-     "rate": "+29/pot · ≈43.0K/4h",
-     "detail": "Buy (3) at 57 gp each, sell the (4) at 106 gp (margin is post-tax, incl. empty-vial credit). Realistic output 1,500 pots/4h, capped by both sides' volume."
+     "rate": "+53/pot · ≈79.0K/4h",
+     "detail": "Buy (3) at 63 gp each, sell the (4) at 138 gp (margin is post-tax, incl. empty-vial credit). Realistic output 1,500 pots/4h, capped by both sides' volume."
     },
     {
-     "name": "Antifire potion (3)→(4)",
+     "name": "Saradomin brew (3)→(4)",
      "line1": "buy (3) doses, decant free at Bob Barter, sell as (4)",
-     "rate": "+25/pot · ≈38.0K/4h",
-     "detail": "Buy (3) at 559 gp each, sell the (4) at 785 gp (margin is post-tax, incl. empty-vial credit). Realistic output 1,500 pots/4h, capped by both sides' volume."
-    },
-    {
-     "name": "Energy potion (3)→(4)",
-     "line1": "buy (3) doses, decant free at Bob Barter, sell as (4)",
-     "rate": "+25/pot · ≈37.0K/4h",
-     "detail": "Buy (3) at 132 gp each, sell the (4) at 204 gp (margin is post-tax, incl. empty-vial credit). Realistic output 1,500 pots/4h, capped by both sides' volume."
-    },
-    {
-     "name": "Superantipoison (1)→(4)",
-     "line1": "buy (1) doses, decant free at Bob Barter, sell as (4)",
-     "rate": "+174/pot · ≈10.4K/4h",
-     "detail": "Buy (1) at 253 gp each, sell the (4) at 1,204 gp (margin is post-tax, incl. empty-vial credit). Realistic output 60 pots/4h, capped by both sides' volume."
+     "rate": "+39/pot · ≈58.0K/4h",
+     "detail": "Buy (3) at 5,250 gp each, sell the (4) at 7,181 gp (margin is post-tax, incl. empty-vial credit). Realistic output 1,500 pots/4h, capped by both sides' volume."
     }
    ]
   },
@@ -81,11 +81,11 @@
    "note": null,
    "items": [
     {
-     "name": "Torag's armour set (combine)",
-     "line1": "buy pieces, combine at the GE clerk, sell the set",
-     "rate": "+7.2K · ≈14.3K/4h",
+     "name": "Adamant set (lg) (split)",
+     "line1": "buy the set, split at the GE clerk, sell the pieces",
+     "rate": "+580 · ≈4.6K/4h",
      "badge": null,
-     "detail": "Post-tax margin per conversion; thinnest leg trades 130/day, projected 2 conversions/4h."
+     "detail": "Post-tax margin per conversion; thinnest leg trades 806/day, projected 8 conversions/4h."
     }
    ]
   },
@@ -97,8 +97,14 @@
     {
      "name": "Combat bracelet",
      "line1": "buy → cast High Level Alchemy (55 Magic + nature runes)",
-     "rate": "+484/alch · ≈580.8K/hr",
-     "detail": "Buy at 12,000 gp, alch for 12,624 gp (nature rune already deducted). Supply-capped at 4,800 casts/4h — buy limit and daily volume, not the 1,200/hr cast rate, are usually the bottleneck."
+     "rate": "+462/alch · ≈554.4K/hr",
+     "detail": "Buy at 12,022 gp, alch for 12,624 gp (nature rune already deducted). Supply-capped at 4,800 casts/4h — buy limit and daily volume, not the 1,200/hr cast rate, are usually the bottleneck."
+    },
+    {
+     "name": "Onyx bolts (e)",
+     "line1": "buy → cast High Level Alchemy (55 Magic + nature runes)",
+     "rate": "+460/alch · ≈552.0K/hr",
+     "detail": "Buy at 8,400 gp, alch for 9,000 gp (nature rune already deducted). Supply-capped at 4,800 casts/4h — buy limit and daily volume, not the 1,200/hr cast rate, are usually the bottleneck."
     },
     {
      "name": "Water battlestaff",
@@ -107,16 +113,10 @@
      "detail": "Buy at 8,712 gp, alch for 9,300 gp (nature rune already deducted). Supply-capped at 4,800 casts/4h — buy limit and daily volume, not the 1,200/hr cast rate, are usually the bottleneck."
     },
     {
-     "name": "Onyx bolts (e)",
-     "line1": "buy → cast High Level Alchemy (55 Magic + nature runes)",
-     "rate": "+440/alch · ≈528.0K/hr",
-     "detail": "Buy at 8,420 gp, alch for 9,000 gp (nature rune already deducted). Supply-capped at 4,800 casts/4h — buy limit and daily volume, not the 1,200/hr cast rate, are usually the bottleneck."
-    },
-    {
      "name": "Amulet of glory(6)",
      "line1": "buy → cast High Level Alchemy (55 Magic + nature runes)",
-     "rate": "+436/alch · ≈523.2K/hr",
-     "detail": "Buy at 9,999 gp, alch for 10,575 gp (nature rune already deducted). Supply-capped at 4,800 casts/4h — buy limit and daily volume, not the 1,200/hr cast rate, are usually the bottleneck."
+     "rate": "+435/alch · ≈522.0K/hr",
+     "detail": "Buy at 10,000 gp, alch for 10,575 gp (nature rune already deducted). Supply-capped at 4,800 casts/4h — buy limit and daily volume, not the 1,200/hr cast rate, are usually the bottleneck."
     },
     {
      "name": "Air battlestaff",
@@ -1090,6 +1090,28 @@
      "minCombat": null
     },
     {
+     "name": "Cutting raw marlin",
+     "line1": "Cooking 90+, Cooking 99+ (rec)",
+     "rate": "1.3M/hr",
+     "badge": "MODERATE",
+     "detail": "Requires Cooking 90+, Cooking 99+ (rec). Setup: Chum spreader. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Cutting_raw_marlin",
+     "reqs": [
+      {
+       "s": "Cooking",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Cooking",
+       "l": 99,
+       "rec": true
+      }
+     ],
+     "quests": [],
+     "minCombat": null
+    },
+    {
      "name": "Crafting cosmic runes through the Abyss",
      "line1": "Runecraft 85, Mining 21 (rec), Hitpoints 70+",
      "rate": "1.2M/hr",
@@ -1192,25 +1214,6 @@
      ],
      "quests": [
       "Lunar Diplomacy"
-     ],
-     "minCombat": null
-    },
-    {
-     "name": "Making dwarf weed potions",
-     "line1": "Herblore 72",
-     "rate": "1.2M/hr",
-     "badge": "LOW",
-     "detail": "Requires Herblore 72. Quests: Druidic Ritual. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_dwarf_weed_potions",
-     "reqs": [
-      {
-       "s": "Herblore",
-       "l": 72,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "Druidic Ritual"
      ],
      "minCombat": null
     },
@@ -1511,14 +1514,22 @@
      "minCombat": null
     },
     {
-     "name": "Tanning red dragonhide",
-     "line1": "Weight-reducing clothing, Energy potion, Red dragonhide",
-     "rate": "959.5K/hr",
+     "name": "Making irit potions",
+     "line1": "Herblore 45",
+     "rate": "964.0K/hr",
      "badge": "LOW",
-     "detail": "Setup: Weight-reducing clothing, Energy potion, Red dragonhide. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Tanning_red_dragonhide",
-     "reqs": [],
-     "quests": [],
+     "detail": "Requires Herblore 45. Quests: Druidic Ritual. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_irit_potions",
+     "reqs": [
+      {
+       "s": "Herblore",
+       "l": 45,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "Druidic Ritual"
+     ],
      "minCombat": null
     },
     {
@@ -1732,22 +1743,14 @@
      "minCombat": null
     },
     {
-     "name": "Making cadantine potions",
-     "line1": "Herblore 66",
-     "rate": "904.0K/hr",
+     "name": "Tanning blue dragonhide",
+     "line1": "Weight-reducing clothing, Energy potion, Blue dragonhide",
+     "rate": "917.5K/hr",
      "badge": "LOW",
-     "detail": "Requires Herblore 66. Quests: Druidic Ritual. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_cadantine_potions",
-     "reqs": [
-      {
-       "s": "Herblore",
-       "l": 66,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "Druidic Ritual"
-     ],
+     "detail": "Setup: Weight-reducing clothing, Energy potion, Blue dragonhide. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Tanning_blue_dragonhide",
+     "reqs": [],
+     "quests": [],
      "minCombat": null
     },
     {
@@ -1841,36 +1844,6 @@
      "minCombat": null
     },
     {
-     "name": "Making irit potions",
-     "line1": "Herblore 45",
-     "rate": "876.0K/hr",
-     "badge": "LOW",
-     "detail": "Requires Herblore 45. Quests: Druidic Ritual. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_irit_potions",
-     "reqs": [
-      {
-       "s": "Herblore",
-       "l": 45,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "Druidic Ritual"
-     ],
-     "minCombat": null
-    },
-    {
-     "name": "Tanning blue dragonhide",
-     "line1": "Weight-reducing clothing, Energy potion, Blue dragonhide",
-     "rate": "875.5K/hr",
-     "badge": "LOW",
-     "detail": "Setup: Weight-reducing clothing, Energy potion, Blue dragonhide. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Tanning_blue_dragonhide",
-     "reqs": [],
-     "quests": [],
-     "minCombat": null
-    },
-    {
      "name": "Hunting black chinchompas",
      "line1": "Hunter 80+, Prayer 43+, Defence 70+",
      "rate": "862.6K/hr",
@@ -1898,6 +1871,17 @@
       "Eagles' Peak",
       "Monkey Madness II"
      ],
+     "minCombat": null
+    },
+    {
+     "name": "Tanning black dragonhide",
+     "line1": "Weight-reducing clothing, Stamina potion, Black dragonhide",
+     "rate": "858.0K/hr",
+     "badge": "LOW",
+     "detail": "Setup: Weight-reducing clothing, Stamina potion, Black dragonhide. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Tanning_black_dragonhide",
+     "reqs": [],
+     "quests": [],
      "minCombat": null
     },
     {
@@ -1936,6 +1920,25 @@
      ],
      "quests": [
       "Pandemonium"
+     ],
+     "minCombat": null
+    },
+    {
+     "name": "Making avantoe potions",
+     "line1": "Herblore 50",
+     "rate": "832.0K/hr",
+     "badge": "LOW",
+     "detail": "Requires Herblore 50. Quests: Druidic Ritual. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_avantoe_potions",
+     "reqs": [
+      {
+       "s": "Herblore",
+       "l": 50,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "Druidic Ritual"
      ],
      "minCombat": null
     },
@@ -2105,17 +2108,6 @@
      "minCombat": null
     },
     {
-     "name": "Making ultracompost",
-     "line1": "Processing",
-     "rate": "745.2K/hr",
-     "badge": "LOW",
-     "detail": "Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_ultracompost",
-     "reqs": [],
-     "quests": [],
-     "minCombat": null
-    },
-    {
      "name": "Enchanting dragonstone jewellery",
      "line1": "Magic 68",
      "rate": "739.2K/hr",
@@ -2130,6 +2122,25 @@
       }
      ],
      "quests": [],
+     "minCombat": null
+    },
+    {
+     "name": "Making lantadyme potions",
+     "line1": "Herblore 69",
+     "rate": "736.0K/hr",
+     "badge": "LOW",
+     "detail": "Requires Herblore 69. Quests: Druidic Ritual. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_lantadyme_potions",
+     "reqs": [
+      {
+       "s": "Herblore",
+       "l": 69,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "Druidic Ritual"
+     ],
      "minCombat": null
     },
     {
@@ -2160,16 +2171,16 @@
      "minCombat": null
     },
     {
-     "name": "Making lantadyme potions",
-     "line1": "Herblore 69",
-     "rate": "732.0K/hr",
+     "name": "Making ranarr potions",
+     "line1": "Herblore 30",
+     "rate": "717.6K/hr",
      "badge": "LOW",
-     "detail": "Requires Herblore 69. Quests: Druidic Ritual. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_lantadyme_potions",
+     "detail": "Requires Herblore 30. Quests: Druidic Ritual. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_ranarr_potions",
      "reqs": [
       {
        "s": "Herblore",
-       "l": 69,
+       "l": 30,
        "rec": false
       }
      ],
@@ -2192,19 +2203,13 @@
      "minCombat": null
     },
     {
-     "name": "Making mahogany planks at the Woodcutting Guild",
-     "line1": "Woodcutting 60",
-     "rate": "703.7K/hr",
-     "badge": "MODERATE",
-     "detail": "Requires Woodcutting 60. Setup: Weight-reducing clothing. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_mahogany_planks_at_the_Woodcutting_Guild",
-     "reqs": [
-      {
-       "s": "Woodcutting",
-       "l": 60,
-       "rec": false
-      }
-     ],
+     "name": "Making ultracompost",
+     "line1": "Processing",
+     "rate": "704.7K/hr",
+     "badge": "LOW",
+     "detail": "Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_ultracompost",
+     "reqs": [],
      "quests": [],
      "minCombat": null
     },
@@ -2223,6 +2228,25 @@
       }
      ],
      "quests": [],
+     "minCombat": null
+    },
+    {
+     "name": "Making snapdragon potions",
+     "line1": "Herblore 63",
+     "rate": "680.0K/hr",
+     "badge": "LOW",
+     "detail": "Requires Herblore 63. Quests: Druidic Ritual. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_snapdragon_potions",
+     "reqs": [
+      {
+       "s": "Herblore",
+       "l": 63,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "Druidic Ritual"
+     ],
      "minCombat": null
     },
     {
@@ -2273,44 +2297,6 @@
      ],
      "quests": [
       "Dream Mentor"
-     ],
-     "minCombat": null
-    },
-    {
-     "name": "Making snapdragon potions",
-     "line1": "Herblore 63",
-     "rate": "664.0K/hr",
-     "badge": "LOW",
-     "detail": "Requires Herblore 63. Quests: Druidic Ritual. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_snapdragon_potions",
-     "reqs": [
-      {
-       "s": "Herblore",
-       "l": 63,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "Druidic Ritual"
-     ],
-     "minCombat": null
-    },
-    {
-     "name": "Making avantoe potions",
-     "line1": "Herblore 50",
-     "rate": "656.0K/hr",
-     "badge": "LOW",
-     "detail": "Requires Herblore 50. Quests: Druidic Ritual. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_avantoe_potions",
-     "reqs": [
-      {
-       "s": "Herblore",
-       "l": 50,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "Druidic Ritual"
      ],
      "minCombat": null
     },
@@ -2381,22 +2367,31 @@
      "minCombat": null
     },
     {
-     "name": "Making kwuarm potions",
-     "line1": "Herblore 55",
-     "rate": "644.0K/hr",
+     "name": "Tanning red dragonhide",
+     "line1": "Weight-reducing clothing, Energy potion, Red dragonhide",
+     "rate": "644.5K/hr",
      "badge": "LOW",
-     "detail": "Requires Herblore 55. Quests: Druidic Ritual. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_kwuarm_potions",
+     "detail": "Setup: Weight-reducing clothing, Energy potion, Red dragonhide. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Tanning_red_dragonhide",
+     "reqs": [],
+     "quests": [],
+     "minCombat": null
+    },
+    {
+     "name": "Making mahogany planks at the Woodcutting Guild",
+     "line1": "Woodcutting 60",
+     "rate": "644.5K/hr",
+     "badge": "MODERATE",
+     "detail": "Requires Woodcutting 60. Setup: Weight-reducing clothing. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_mahogany_planks_at_the_Woodcutting_Guild",
      "reqs": [
       {
-       "s": "Herblore",
-       "l": 55,
+       "s": "Woodcutting",
+       "l": 60,
        "rec": false
       }
      ],
-     "quests": [
-      "Druidic Ritual"
-     ],
+     "quests": [],
      "minCombat": null
     },
     {
@@ -2467,25 +2462,6 @@
      "minCombat": null
     },
     {
-     "name": "Making ranarr potions",
-     "line1": "Herblore 30",
-     "rate": "639.6K/hr",
-     "badge": "LOW",
-     "detail": "Requires Herblore 30. Quests: Druidic Ritual. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_ranarr_potions",
-     "reqs": [
-      {
-       "s": "Herblore",
-       "l": 30,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "Druidic Ritual"
-     ],
-     "minCombat": null
-    },
-    {
      "name": "Hunting carnivorous chinchompas",
      "line1": "Hunter 63+ (rec)",
      "rate": "635.3K/hr",
@@ -2502,17 +2478,6 @@
      "quests": [
       "Eagles' Peak"
      ],
-     "minCombat": null
-    },
-    {
-     "name": "Tanning black dragonhide",
-     "line1": "Weight-reducing clothing, Stamina potion, Black dragonhide",
-     "rate": "627.0K/hr",
-     "badge": "LOW",
-     "detail": "Setup: Weight-reducing clothing, Stamina potion, Black dragonhide. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Tanning_black_dragonhide",
-     "reqs": [],
-     "quests": [],
      "minCombat": null
     },
     {
@@ -2607,7 +2572,7 @@
     {
      "name": "Making toadflax potions",
      "line1": "Herblore 34",
-     "rate": "596.0K/hr",
+     "rate": "608.0K/hr",
      "badge": "LOW",
      "detail": "Requires Herblore 34. Quests: Druidic Ritual. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_toadflax_potions",
@@ -2708,6 +2673,28 @@
        "s": "Cooking",
        "l": 65,
        "rec": false
+      }
+     ],
+     "quests": [],
+     "minCombat": null
+    },
+    {
+     "name": "Cutting raw yellowfin",
+     "line1": "Cooking 1+, Cooking 99+ (rec)",
+     "rate": "559.7K/hr",
+     "badge": "HIGH",
+     "detail": "Requires Cooking 1+, Cooking 99+ (rec). Setup: Chum spreader. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Cutting_raw_yellowfin",
+     "reqs": [
+      {
+       "s": "Cooking",
+       "l": 1,
+       "rec": false
+      },
+      {
+       "s": "Cooking",
+       "l": 99,
+       "rec": true
       }
      ],
      "quests": [],
@@ -2949,6 +2936,17 @@
      "minCombat": null
     },
     {
+     "name": "Tanning green dragonhide",
+     "line1": "Weight-reducing clothing, Energy potion, Green dragonhide",
+     "rate": "515.0K/hr",
+     "badge": "LOW",
+     "detail": "Setup: Weight-reducing clothing, Energy potion, Green dragonhide. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Tanning_green_dragonhide",
+     "reqs": [],
+     "quests": [],
+     "minCombat": null
+    },
+    {
      "name": "Creating teleport to house tablets",
      "line1": "Magic 40 (rec), Construction 67 (rec), Magic 40",
      "rate": "514.8K/hr",
@@ -2976,14 +2974,22 @@
      "minCombat": null
     },
     {
-     "name": "Tanning green dragonhide",
-     "line1": "Weight-reducing clothing, Energy potion, Green dragonhide",
-     "rate": "511.5K/hr",
+     "name": "Making guam potions",
+     "line1": "Herblore 3",
+     "rate": "504.0K/hr",
      "badge": "LOW",
-     "detail": "Setup: Weight-reducing clothing, Energy potion, Green dragonhide. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Tanning_green_dragonhide",
-     "reqs": [],
-     "quests": [],
+     "detail": "Requires Herblore 3. Quests: Druidic Ritual. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_guam_potions",
+     "reqs": [
+      {
+       "s": "Herblore",
+       "l": 3,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "Druidic Ritual"
+     ],
      "minCombat": null
     },
     {
@@ -3077,25 +3083,6 @@
      ],
      "quests": [
       "A Kingdom Divided"
-     ],
-     "minCombat": null
-    },
-    {
-     "name": "Making guam potions",
-     "line1": "Herblore 3",
-     "rate": "464.0K/hr",
-     "badge": "LOW",
-     "detail": "Requires Herblore 3. Quests: Druidic Ritual. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_guam_potions",
-     "reqs": [
-      {
-       "s": "Herblore",
-       "l": 3,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "Druidic Ritual"
      ],
      "minCombat": null
     },
@@ -3584,25 +3571,6 @@
      "minCombat": null
     },
     {
-     "name": "Making teak planks",
-     "line1": "Firemaking 50",
-     "rate": "364.4K/hr",
-     "badge": "MODERATE",
-     "detail": "Requires Firemaking 50. Quests: Enlightened Journey. Setup: Weight-reducing clothing, Rings of dueling, Coins, Teak logs, Willow logs, Varrock, Castle Wars, Balloon transport system, Willow Logs, Yew Logs. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_teak_planks",
-     "reqs": [
-      {
-       "s": "Firemaking",
-       "l": 50,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "Enlightened Journey"
-     ],
-     "minCombat": null
-    },
-    {
      "name": "Cutting diamond bolt tips",
      "line1": "Fletching 65",
      "rate": "363.4K/hr",
@@ -3781,6 +3749,36 @@
      "minCombat": null
     },
     {
+     "name": "Making teak planks",
+     "line1": "Firemaking 50",
+     "rate": "345.6K/hr",
+     "badge": "MODERATE",
+     "detail": "Requires Firemaking 50. Quests: Enlightened Journey. Setup: Weight-reducing clothing, Rings of dueling, Coins, Teak logs, Willow logs, Varrock, Castle Wars, Balloon transport system, Willow Logs, Yew Logs. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_teak_planks",
+     "reqs": [
+      {
+       "s": "Firemaking",
+       "l": 50,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "Enlightened Journey"
+     ],
+     "minCombat": null
+    },
+    {
+     "name": "Grinding unicorn horns",
+     "line1": "Pestle and mortar",
+     "rate": "337.5K/hr",
+     "badge": "MODERATE",
+     "detail": "Setup: Pestle and mortar. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Grinding_unicorn_horns",
+     "reqs": [],
+     "quests": [],
+     "minCombat": null
+    },
+    {
      "name": "Smelting iron bars at Blast Furnace",
      "line1": "Smithing 15 (rec)",
      "rate": "335.4K/hr",
@@ -3841,25 +3839,6 @@
      "minCombat": null
     },
     {
-     "name": "Spinning flax to bow strings",
-     "line1": "Crafting 10",
-     "rate": "318.1K/hr",
-     "badge": "LOW",
-     "detail": "Requires Crafting 10. Quests: Children of the Sun. Setup: Bow string spool. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Spinning_flax_to_bow_strings",
-     "reqs": [
-      {
-       "s": "Crafting",
-       "l": 10,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "Children of the Sun"
-     ],
-     "minCombat": null
-    },
-    {
      "name": "Cooking raw marlin",
      "line1": "Cooking 99",
      "rate": "309.4K/hr",
@@ -3894,14 +3873,22 @@
      "minCombat": null
     },
     {
-     "name": "Grinding unicorn horns",
-     "line1": "Pestle and mortar",
-     "rate": "305.5K/hr",
-     "badge": "MODERATE",
-     "detail": "Setup: Pestle and mortar. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Grinding_unicorn_horns",
-     "reqs": [],
-     "quests": [],
+     "name": "Spinning flax to bow strings",
+     "line1": "Crafting 10",
+     "rate": "302.2K/hr",
+     "badge": "LOW",
+     "detail": "Requires Crafting 10. Quests: Children of the Sun. Setup: Bow string spool. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Spinning_flax_to_bow_strings",
+     "reqs": [
+      {
+       "s": "Crafting",
+       "l": 10,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "Children of the Sun"
+     ],
      "minCombat": null
     },
     {
@@ -3920,6 +3907,25 @@
      ],
      "quests": [
       "Family Crest"
+     ],
+     "minCombat": null
+    },
+    {
+     "name": "Making kwuarm potions",
+     "line1": "Herblore 55",
+     "rate": "300.0K/hr",
+     "badge": "LOW",
+     "detail": "Requires Herblore 55. Quests: Druidic Ritual. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_kwuarm_potions",
+     "reqs": [
+      {
+       "s": "Herblore",
+       "l": 55,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "Druidic Ritual"
      ],
      "minCombat": null
     },
@@ -4280,17 +4286,6 @@
      "minCombat": null
     },
     {
-     "name": "Making pastry dough",
-     "line1": "Processing",
-     "rate": "259.2K/hr",
-     "badge": "MODERATE",
-     "detail": "Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_pastry_dough",
-     "reqs": [],
-     "quests": [],
-     "minCombat": null
-    },
-    {
      "name": "Mining amethyst",
      "line1": "Mining 92+",
      "rate": "259.0K/hr",
@@ -4365,6 +4360,17 @@
      "minCombat": null
     },
     {
+     "name": "Making pie shells",
+     "line1": "Processing",
+     "rate": "254.8K/hr",
+     "badge": "LOW",
+     "detail": "Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_pie_shells",
+     "reqs": [],
+     "quests": [],
+     "minCombat": null
+    },
+    {
      "name": "Stringing magic longbows",
      "line1": "Fletching 85",
      "rate": "254.4K/hr",
@@ -4424,6 +4430,17 @@
        "rec": false
       }
      ],
+     "quests": [],
+     "minCombat": null
+    },
+    {
+     "name": "Making pastry dough",
+     "line1": "Processing",
+     "rate": "249.6K/hr",
+     "badge": "MODERATE",
+     "detail": "Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_pastry_dough",
+     "reqs": [],
      "quests": [],
      "minCombat": null
     },
@@ -4847,6 +4864,17 @@
      "minCombat": null
     },
     {
+     "name": "Recharging rings of wealth",
+     "line1": "Wilderness sword 4",
+     "rate": "192.1K/hr",
+     "badge": "MODERATE",
+     "detail": "Setup: Wilderness sword 4. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Recharging_rings_of_wealth",
+     "reqs": [],
+     "quests": [],
+     "minCombat": null
+    },
+    {
      "name": "Salvaging large shipwrecks",
      "line1": "Sailing 53, Construction 30, Magic 55",
      "rate": "191.7K/hr",
@@ -4873,17 +4901,6 @@
      "quests": [
       "Pandemonium"
      ],
-     "minCombat": null
-    },
-    {
-     "name": "Recharging rings of wealth",
-     "line1": "Wilderness sword 4",
-     "rate": "191.7K/hr",
-     "badge": "MODERATE",
-     "detail": "Setup: Wilderness sword 4. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Recharging_rings_of_wealth",
-     "reqs": [],
-     "quests": [],
      "minCombat": null
     },
     {
@@ -5040,7 +5057,7 @@
     {
      "name": "Charging and alchemising bracelets of ethereum",
      "line1": "Magic 55",
-     "rate": "176.3K/hr",
+     "rate": "175.8K/hr",
      "badge": "MODERATE",
      "detail": "Requires Magic 55. Setup: Staff of fire. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Charging_and_alchemising_bracelets_of_ethereum",
@@ -5135,19 +5152,6 @@
      ],
      "quests": [
       "Plague City"
-     ],
-     "minCombat": null
-    },
-    {
-     "name": "Making redwood pyre logs",
-     "line1": "Coins",
-     "rate": "165.9K/hr",
-     "badge": "MODERATE",
-     "detail": "Quests: Shades of Mort'ton. Setup: Coins. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_redwood_pyre_logs",
-     "reqs": [],
-     "quests": [
-      "Shades of Mort'ton"
      ],
      "minCombat": null
     },
@@ -5484,6 +5488,19 @@
      "minCombat": null
     },
     {
+     "name": "Making redwood pyre logs",
+     "line1": "Coins",
+     "rate": "146.2K/hr",
+     "badge": "MODERATE",
+     "detail": "Quests: Shades of Mort'ton. Setup: Coins. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_redwood_pyre_logs",
+     "reqs": [],
+     "quests": [
+      "Shades of Mort'ton"
+     ],
+     "minCombat": null
+    },
+    {
      "name": "Tanning cowhide",
      "line1": "Weight-reducing clothing, Energy potion, Cowhide",
      "rate": "144.0K/hr",
@@ -5711,25 +5728,6 @@
      "minCombat": null
     },
     {
-     "name": "Making tarromin potions",
-     "line1": "Herblore 12",
-     "rate": "123.9K/hr",
-     "badge": "LOW",
-     "detail": "Requires Herblore 12. Quests: Druidic Ritual. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_tarromin_potions",
-     "reqs": [
-      {
-       "s": "Herblore",
-       "l": 12,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "Druidic Ritual"
-     ],
-     "minCombat": null
-    },
-    {
      "name": "Crafting emerald jewellery",
      "line1": "Crafting 27",
      "rate": "122.4K/hr",
@@ -5799,6 +5797,25 @@
       }
      ],
      "quests": [],
+     "minCombat": null
+    },
+    {
+     "name": "Making tarromin potions",
+     "line1": "Herblore 12",
+     "rate": "114.7K/hr",
+     "badge": "LOW",
+     "detail": "Requires Herblore 12. Quests: Druidic Ritual. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_tarromin_potions",
+     "reqs": [
+      {
+       "s": "Herblore",
+       "l": 12,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "Druidic Ritual"
+     ],
      "minCombat": null
     },
     {
@@ -6036,6 +6053,23 @@
      "quests": [
       "Desert Treasure II - The Fallen Empire"
      ],
+     "minCombat": null
+    },
+    {
+     "name": "Collecting monk's robes",
+     "line1": "Prayer 31",
+     "rate": "100.8K/hr",
+     "badge": "LOW",
+     "detail": "Requires Prayer 31. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Collecting_monk%27s_robes",
+     "reqs": [
+      {
+       "s": "Prayer",
+       "l": 31,
+       "rec": false
+      }
+     ],
+     "quests": [],
      "minCombat": null
     }
    ]
