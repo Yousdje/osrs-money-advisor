@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-14T10:30:56Z",
+ "generated_at": "2026-07-14T13:47:06Z",
  "sections": [
   {
    "icon": "📈",
@@ -9,32 +9,32 @@
     {
      "name": "Necklace of passage(5)",
      "line1": "buy 1,861 → sell 1,994, +94/ea",
-     "rate": "≈126.2K/4h",
-     "detail": "Post-tax margin per unit at conservative percentile targets. Buy limit 10,000/4h, realistic fill 1,343/4h (10% of daily volume). Dependability 1.00 — closer to 1.00 means the margin recurs all day, not one lucky burst."
+     "rate": "≈31.6K/hr",
+     "detail": "Post-tax margin per unit at conservative percentile targets; ≈126.2K per 4h buy-limit window. Buy limit 10,000/4h, realistic fill 1,343/4h (10% of daily volume). Dependability 1.00 — closer to 1.00 means the margin recurs all day, not one lucky burst."
     },
     {
      "name": "Super combat potion(1)",
      "line1": "buy 3,077 → sell 3,291, +149/ea",
-     "rate": "≈121.0K/4h",
-     "detail": "Post-tax margin per unit at conservative percentile targets. Buy limit 2,000/4h, realistic fill 812/4h (10% of daily volume). Dependability 1.00 — closer to 1.00 means the margin recurs all day, not one lucky burst."
+     "rate": "≈30.2K/hr",
+     "detail": "Post-tax margin per unit at conservative percentile targets; ≈121.0K per 4h buy-limit window. Buy limit 2,000/4h, realistic fill 812/4h (10% of daily volume). Dependability 1.00 — closer to 1.00 means the margin recurs all day, not one lucky burst."
     },
     {
      "name": "Divine super combat potion(1)",
      "line1": "buy 4,617 → sell 4,908, +193/ea",
-     "rate": "≈104.4K/4h",
-     "detail": "Post-tax margin per unit at conservative percentile targets. Buy limit 2,000/4h, realistic fill 541/4h (10% of daily volume). Dependability 0.99 — closer to 1.00 means the margin recurs all day, not one lucky burst."
+     "rate": "≈26.1K/hr",
+     "detail": "Post-tax margin per unit at conservative percentile targets; ≈104.4K per 4h buy-limit window. Buy limit 2,000/4h, realistic fill 541/4h (10% of daily volume). Dependability 0.99 — closer to 1.00 means the margin recurs all day, not one lucky burst."
     },
     {
      "name": "Splitbark body",
      "line1": "buy 26,023 → sell 28,015, +1,432/ea",
-     "rate": "≈100.2K/4h",
-     "detail": "Post-tax margin per unit at conservative percentile targets. Buy limit 70/4h, realistic fill 70/4h (10% of daily volume). Dependability 0.99 — closer to 1.00 means the margin recurs all day, not one lucky burst."
+     "rate": "≈25.1K/hr",
+     "detail": "Post-tax margin per unit at conservative percentile targets; ≈100.2K per 4h buy-limit window. Buy limit 70/4h, realistic fill 70/4h (10% of daily volume). Dependability 0.99 — closer to 1.00 means the margin recurs all day, not one lucky burst."
     },
     {
      "name": "Grimy lantadyme",
      "line1": "buy 1,190 → sell 1,262, +47/ea",
-     "rate": "≈98.7K/4h",
-     "detail": "Post-tax margin per unit at conservative percentile targets. Buy limit 11,000/4h, realistic fill 2,100/4h (10% of daily volume). Dependability 0.99 — closer to 1.00 means the margin recurs all day, not one lucky burst."
+     "rate": "≈24.7K/hr",
+     "detail": "Post-tax margin per unit at conservative percentile targets; ≈98.7K per 4h buy-limit window. Buy limit 11,000/4h, realistic fill 2,100/4h (10% of daily volume). Dependability 0.99 — closer to 1.00 means the margin recurs all day, not one lucky burst."
     }
    ]
   },
@@ -46,32 +46,32 @@
     {
      "name": "Antidote++ (3)→(4)",
      "line1": "buy (3) doses, decant free at Bob Barter, sell as (4)",
-     "rate": "+568/pot · ≈497.0K/4h",
-     "detail": "Buy (3) at 5,186 gp each, sell the (4) at 7,634 gp (margin is post-tax, incl. empty-vial credit). Realistic output 875 pots/4h, capped by both sides' volume."
+     "rate": "+568/pot · ≈124.2K/hr",
+     "detail": "Buy (3) at 5,186 gp each, sell the (4) at 7,634 gp (margin is post-tax, incl. empty-vial credit). Realistic output 875 pots/4h (≈497.0K per 4h window), capped by both sides' volume."
     },
     {
      "name": "Super defence (3)→(4)",
      "line1": "buy (3) doses, decant free at Bob Barter, sell as (4)",
-     "rate": "+139/pot · ≈208.5K/4h",
-     "detail": "Buy (3) at 2,885 gp each, sell the (4) at 4,066 gp (margin is post-tax, incl. empty-vial credit). Realistic output 1,500 pots/4h, capped by both sides' volume."
+     "rate": "+139/pot · ≈52.1K/hr",
+     "detail": "Buy (3) at 2,885 gp each, sell the (4) at 4,066 gp (margin is post-tax, incl. empty-vial credit). Realistic output 1,500 pots/4h (≈208.5K per 4h window), capped by both sides' volume."
     },
     {
      "name": "Ranging potion (3)→(4)",
      "line1": "buy (3) doses, decant free at Bob Barter, sell as (4)",
-     "rate": "+73/pot · ≈110.0K/4h",
-     "detail": "Buy (3) at 1,543 gp each, sell the (4) at 2,173 gp (margin is post-tax, incl. empty-vial credit). Realistic output 1,500 pots/4h, capped by both sides' volume."
+     "rate": "+73/pot · ≈27.5K/hr",
+     "detail": "Buy (3) at 1,543 gp each, sell the (4) at 2,173 gp (margin is post-tax, incl. empty-vial credit). Realistic output 1,500 pots/4h (≈110.0K per 4h window), capped by both sides' volume."
     },
     {
      "name": "Magic potion (3)→(4)",
      "line1": "buy (3) doses, decant free at Bob Barter, sell as (4)",
-     "rate": "+53/pot · ≈79.0K/4h",
-     "detail": "Buy (3) at 63 gp each, sell the (4) at 138 gp (margin is post-tax, incl. empty-vial credit). Realistic output 1,500 pots/4h, capped by both sides' volume."
+     "rate": "+53/pot · ≈19.8K/hr",
+     "detail": "Buy (3) at 63 gp each, sell the (4) at 138 gp (margin is post-tax, incl. empty-vial credit). Realistic output 1,500 pots/4h (≈79.0K per 4h window), capped by both sides' volume."
     },
     {
      "name": "Saradomin brew (3)→(4)",
      "line1": "buy (3) doses, decant free at Bob Barter, sell as (4)",
-     "rate": "+39/pot · ≈58.0K/4h",
-     "detail": "Buy (3) at 5,250 gp each, sell the (4) at 7,181 gp (margin is post-tax, incl. empty-vial credit). Realistic output 1,500 pots/4h, capped by both sides' volume."
+     "rate": "+39/pot · ≈14.5K/hr",
+     "detail": "Buy (3) at 5,250 gp each, sell the (4) at 7,181 gp (margin is post-tax, incl. empty-vial credit). Realistic output 1,500 pots/4h (≈58.0K per 4h window), capped by both sides' volume."
     }
    ]
   },
@@ -83,9 +83,9 @@
     {
      "name": "Adamant set (lg) (split)",
      "line1": "buy the set, split at the GE clerk, sell the pieces",
-     "rate": "+580 · ≈4.6K/4h",
+     "rate": "+580 · ≈1.2K/hr",
      "badge": null,
-     "detail": "Post-tax margin per conversion; thinnest leg trades 806/day, projected 8 conversions/4h."
+     "detail": "Post-tax margin per conversion; thinnest leg trades 806/day, projected 8 conversions/4h (≈4.6K per window)."
     }
    ]
   },
