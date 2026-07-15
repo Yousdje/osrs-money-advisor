@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-15T06:34:15Z",
+ "generated_at": "2026-07-15T07:01:28Z",
  "sections": [
   {
    "icon": "📈",
@@ -472,27 +472,6 @@
      "minCombat": null
     },
     {
-     "name": "Killing Zalcano",
-     "line1": "Mining 70+",
-     "rate": "2.2M/hr",
-     "badge": "HIGH",
-     "elite": null,
-     "intensity": "high",
-     "detail": "Requires Mining 70+. Quests: Song of the Elves. Setup: Varrock armour 1, Dragon pickaxe, crystal pickaxe, Celestial ring, celestial signet, regen bracelet. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Killing_Zalcano",
-     "reqs": [
-      {
-       "s": "Mining",
-       "l": 70,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "Song of the Elves"
-     ],
-     "minCombat": null
-    },
-    {
      "name": "Casting Tan Leather",
      "line1": "Magic 78",
      "rate": "2.0M/hr",
@@ -623,27 +602,6 @@
      "minCombat": null
     },
     {
-     "name": "Killing Zalcano (Experience)",
-     "line1": "Mining 70+",
-     "rate": "1.8M/hr",
-     "badge": "MODERATE",
-     "elite": null,
-     "intensity": "moderate",
-     "detail": "Requires Mining 70+. Quests: Song of the Elves. Setup: Varrock armour 1, Dragon pickaxe, crystal pickaxe, Celestial ring, celestial signet, regen bracelet. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Killing_Zalcano_(Experience)",
-     "reqs": [
-      {
-       "s": "Mining",
-       "l": 70,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "Song of the Elves"
-     ],
-     "minCombat": null
-    },
-    {
      "name": "Smelting steel bars at Blast Furnace",
      "line1": "Smithing 30 (rec)",
      "rate": "1.8M/hr",
@@ -682,79 +640,6 @@
      ],
      "quests": [
       "The Giant Dwarf"
-     ],
-     "minCombat": null
-    },
-    {
-     "name": "Hallowed Sepulchre (Floor 5)",
-     "line1": "Agility 92, Thieving 66, Prayer 54, Construction 56, Ranged 62",
-     "rate": "1.6M/hr",
-     "badge": "HIGH",
-     "elite": null,
-     "intensity": "high",
-     "detail": "Requires Agility 92, Thieving 66, Prayer 54, Construction 56, Ranged 62. Quests: Sins of the Father, The Great Brain Robbery. Setup: Graceful outfit, strange old lockpick (full), hallowed grapple, hallowed hammer, hallowed focus, hallowed symbol, Mysterious Hallowed Goods, Patience when learning the floors. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Hallowed_Sepulchre_(Floor_5)",
-     "reqs": [
-      {
-       "s": "Agility",
-       "l": 92,
-       "rec": false
-      },
-      {
-       "s": "Thieving",
-       "l": 66,
-       "rec": false
-      },
-      {
-       "s": "Prayer",
-       "l": 54,
-       "rec": false
-      },
-      {
-       "s": "Construction",
-       "l": 56,
-       "rec": false
-      },
-      {
-       "s": "Ranged",
-       "l": 62,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "Sins of the Father",
-      "The Great Brain Robbery"
-     ],
-     "minCombat": null
-    },
-    {
-     "name": "Delivering food in Gnome Restaurant",
-     "line1": "Cooking 42, Magic 61",
-     "rate": "1.6M/hr",
-     "badge": "HIGH",
-     "elite": null,
-     "intensity": "high",
-     "detail": "Requires Cooking 42, Magic 61. Quests: Troll Romance, Eadgar's Ruse, Fishing Contest, The Grand Tree, The Giant Dwarf, Monkey Madness II. Setup: Reward token (Gnome Restaurant), Weight-reducing clothing, Teleportation, desert amulet 4, Ardougne cloak 2. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Delivering_food_in_Gnome_Restaurant",
-     "reqs": [
-      {
-       "s": "Cooking",
-       "l": 42,
-       "rec": false
-      },
-      {
-       "s": "Magic",
-       "l": 61,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "Troll Romance",
-      "Eadgar's Ruse",
-      "Fishing Contest",
-      "The Grand Tree",
-      "The Giant Dwarf",
-      "Monkey Madness II"
      ],
      "minCombat": null
     },
@@ -1337,32 +1222,6 @@
      "minCombat": null
     },
     {
-     "name": "Guardians of the Rift",
-     "line1": "Runecraft 27, Runecraft 27 (rec)",
-     "rate": "1.0M/hr",
-     "badge": "MODERATE",
-     "elite": null,
-     "intensity": "moderate",
-     "detail": "Requires Runecraft 27, Runecraft 27 (rec). Quests: Temple of the Eye. Setup: Pickaxe, Chisel, Essence pouches, Abyssal lantern, Raiments of the eye, Colossal pouch, Dragon pickaxe, Celestial ring, Lost City, Cosmic runes, Troll Stronghold, Law runes, Mourning's End Part II, Death runes, Sins of the Father, Blood runes, Lunar Diplomacy, NPC Contact, Magic Imbue. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Guardians_of_the_Rift",
-     "reqs": [
-      {
-       "s": "Runecraft",
-       "l": 27,
-       "rec": false
-      },
-      {
-       "s": "Runecraft",
-       "l": 27,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "Temple of the Eye"
-     ],
-     "minCombat": null
-    },
-    {
      "name": "Making elemental battlestaves (Ironman)",
      "line1": "Crafting 58+, Magic 60+",
      "rate": "1.0M/hr",
@@ -1567,48 +1426,6 @@
      ],
      "quests": [
       "Temple of the Eye"
-     ],
-     "minCombat": null
-    },
-    {
-     "name": "Hallowed Sepulchre (Floor 4)",
-     "line1": "Agility 82, Thieving 66, Prayer 54, Construction 56, Ranged 62",
-     "rate": "929.0K/hr",
-     "badge": "HIGH",
-     "elite": null,
-     "intensity": "high",
-     "detail": "Requires Agility 82, Thieving 66, Prayer 54, Construction 56, Ranged 62. Quests: Sins of the Father, The Great Brain Robbery. Setup: Graceful outfit, strange old lockpick (full), hallowed grapple, hallowed hammer, hallowed focus, hallowed symbol, Mysterious Hallowed Goods, Patience when learning the floors. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Hallowed_Sepulchre_(Floor_4)",
-     "reqs": [
-      {
-       "s": "Agility",
-       "l": 82,
-       "rec": false
-      },
-      {
-       "s": "Thieving",
-       "l": 66,
-       "rec": false
-      },
-      {
-       "s": "Prayer",
-       "l": 54,
-       "rec": false
-      },
-      {
-       "s": "Construction",
-       "l": 56,
-       "rec": false
-      },
-      {
-       "s": "Ranged",
-       "l": 62,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "Sins of the Father",
-      "The Great Brain Robbery"
      ],
      "minCombat": null
     },
@@ -2047,43 +1864,6 @@
      ],
      "quests": [
       "Eagles' Peak"
-     ],
-     "minCombat": null
-    },
-    {
-     "name": "Hallowed Sepulchre (Floor 3)",
-     "line1": "Agility 72, Thieving 66, Prayer 54, Ranged 62",
-     "rate": "643.6K/hr",
-     "badge": "HIGH",
-     "elite": null,
-     "intensity": "high",
-     "detail": "Requires Agility 72, Thieving 66, Prayer 54, Ranged 62. Quests: Sins of the Father, The Great Brain Robbery. Setup: Graceful outfit, strange old lockpick (full), hallowed grapple, hallowed focus, hallowed symbol, Mysterious Hallowed Goods, Patience when learning the floors. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Hallowed_Sepulchre_(Floor_3)",
-     "reqs": [
-      {
-       "s": "Agility",
-       "l": 72,
-       "rec": false
-      },
-      {
-       "s": "Thieving",
-       "l": 66,
-       "rec": false
-      },
-      {
-       "s": "Prayer",
-       "l": 54,
-       "rec": false
-      },
-      {
-       "s": "Ranged",
-       "l": 62,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "Sins of the Father",
-      "The Great Brain Robbery"
      ],
      "minCombat": null
     },
@@ -2910,25 +2690,6 @@
      "quests": [
       "A Kingdom Divided"
      ],
-     "minCombat": null
-    },
-    {
-     "name": "Subduing Tempoross",
-     "line1": "Fishing 35",
-     "rate": "334.8K/hr",
-     "badge": "MODERATE",
-     "elite": null,
-     "intensity": "moderate",
-     "detail": "Requires Fishing 35. Setup: Harpoon, Rope, Hammer, Dragon harpoon, Infernal harpoon, Crystal harpoon, Spirit angler's outfit, Lunar Diplomacy, Humidify. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Subduing_Tempoross",
-     "reqs": [
-      {
-       "s": "Fishing",
-       "l": 35,
-       "rec": false
-      }
-     ],
-     "quests": [],
      "minCombat": null
     },
     {
@@ -6715,77 +6476,6 @@
      "minCombat": 100
     },
     {
-     "name": "Completing the Fortis Colosseum (Wave 12)",
-     "line1": "Attack 95+ (rec), Strength 95+ (rec), Defence 90+ (rec), Hitpoints 95+ (rec), Ranged 90+ (rec), Magic 94+, Pra",
-     "rate": "12.1M/hr",
-     "badge": "HIGH",
-     "elite": null,
-     "intensity": "high",
-     "detail": "Requires Attack 95+ (rec), Strength 95+ (rec), Defence 90+ (rec), Hitpoints 95+ (rec), Ranged 90+ (rec), Magic 94+, Prayer 77+ (rec), Attack 95+, Strength 95+, Defence 90+, Hitpoints 95+. Quests: Children of the Sun. Setup: Fortis Colosseum/Strategies, King's Ransom, Piety, Rigour, Augury, Dragon Slayer II, Ava's assembler, twisted bow, Recipe for Disaster, Barrows gloves, Ferocious gloves, A Kingdom Divided, Arceuus spellbook. Rate is the wiki's long-run drop-table average.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Completing_the_Fortis_Colosseum_(Wave_12)",
-     "reqs": [
-      {
-       "s": "Attack",
-       "l": 95,
-       "rec": true
-      },
-      {
-       "s": "Strength",
-       "l": 95,
-       "rec": true
-      },
-      {
-       "s": "Defence",
-       "l": 90,
-       "rec": true
-      },
-      {
-       "s": "Hitpoints",
-       "l": 95,
-       "rec": true
-      },
-      {
-       "s": "Ranged",
-       "l": 90,
-       "rec": true
-      },
-      {
-       "s": "Magic",
-       "l": 94,
-       "rec": false
-      },
-      {
-       "s": "Prayer",
-       "l": 77,
-       "rec": true
-      },
-      {
-       "s": "Attack",
-       "l": 95,
-       "rec": false
-      },
-      {
-       "s": "Strength",
-       "l": 95,
-       "rec": false
-      },
-      {
-       "s": "Defence",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Hitpoints",
-       "l": 95,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "Children of the Sun"
-     ],
-     "minCombat": 100
-    },
-    {
      "name": "Killing Phosani's Nightmare",
      "line1": "Hitpoints 90+, Magic 90+, Prayer 70+ (rec)",
      "rate": "10.8M/hr",
@@ -7925,47 +7615,6 @@
      "minCombat": 100
     },
     {
-     "name": "Completing The Corrupted Gauntlet",
-     "line1": "Attack 80+, Strength 85+, Ranged 85+, Magic 80+, Prayer 77+",
-     "rate": "4.6M/hr",
-     "badge": "HIGH",
-     "elite": null,
-     "intensity": "high",
-     "detail": "Requires Attack 80+, Strength 85+, Ranged 85+, Magic 80+, Prayer 77+. Quests: Song of the Elves. Rate is the wiki's long-run drop-table average.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Completing_The_Corrupted_Gauntlet",
-     "reqs": [
-      {
-       "s": "Attack",
-       "l": 80,
-       "rec": false
-      },
-      {
-       "s": "Strength",
-       "l": 85,
-       "rec": false
-      },
-      {
-       "s": "Ranged",
-       "l": 85,
-       "rec": false
-      },
-      {
-       "s": "Magic",
-       "l": 80,
-       "rec": false
-      },
-      {
-       "s": "Prayer",
-       "l": 77,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "Song of the Elves"
-     ],
-     "minCombat": 100
-    },
-    {
      "name": "Killing Vet'ion",
      "line1": "Prayer 43+",
      "rate": "4.6M/hr",
@@ -8846,47 +8495,6 @@
      "minCombat": 100
     },
     {
-     "name": "Completing The Gauntlet",
-     "line1": "Attack 80+, Strength 85+, Ranged 85+, Magic 80+, Prayer 77+",
-     "rate": "2.1M/hr",
-     "badge": "HIGH",
-     "elite": null,
-     "intensity": "high",
-     "detail": "Requires Attack 80+, Strength 85+, Ranged 85+, Magic 80+, Prayer 77+. Quests: Song of the Elves. Rate is the wiki's long-run drop-table average.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Completing_The_Gauntlet",
-     "reqs": [
-      {
-       "s": "Attack",
-       "l": 80,
-       "rec": false
-      },
-      {
-       "s": "Strength",
-       "l": 85,
-       "rec": false
-      },
-      {
-       "s": "Ranged",
-       "l": 85,
-       "rec": false
-      },
-      {
-       "s": "Magic",
-       "l": 80,
-       "rec": false
-      },
-      {
-       "s": "Prayer",
-       "l": 77,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "Song of the Elves"
-     ],
-     "minCombat": 100
-    },
-    {
      "name": "Killing Hueycoatl (Solo)",
      "line1": "Attack 80+ (rec), Strength 90+ (rec), Prayer 70+ (rec), Magic 76+ (rec), Attack 80+",
      "rate": "2.1M/hr",
@@ -9160,63 +8768,6 @@
       }
      ],
      "quests": [],
-     "minCombat": 100
-    },
-    {
-     "name": "Completing the Fortis Colosseum (Wave 1)",
-     "line1": "Attack 80+, Strength 80+, Defence 80+, Ranged 80+ (rec), Magic 86+ (rec), Prayer 43+ (rec), Prayer 77+ (rec), ",
-     "rate": "1.8M/hr",
-     "badge": "HIGH",
-     "elite": null,
-     "intensity": "high",
-     "detail": "Requires Attack 80+, Strength 80+, Defence 80+, Ranged 80+ (rec), Magic 86+ (rec), Prayer 43+ (rec), Prayer 77+ (rec), Prayer 43+. Quests: Children of the Sun, Desert Treasure I. Setup: Dinh's bulwark, Venator bow, Dragon arrow, Toxic blowpipe, Dragon dart, Ava's assembler, Necklace of anguish, Masori armour, Elite Void Knight equipment, Occult necklace, Tormented bracelet, Ancient magicks, Magic robes, Rune pouch, Barrage spells. Rate is the wiki's long-run drop-table average.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Completing_the_Fortis_Colosseum_(Wave_1)",
-     "reqs": [
-      {
-       "s": "Attack",
-       "l": 80,
-       "rec": false
-      },
-      {
-       "s": "Strength",
-       "l": 80,
-       "rec": false
-      },
-      {
-       "s": "Defence",
-       "l": 80,
-       "rec": false
-      },
-      {
-       "s": "Ranged",
-       "l": 80,
-       "rec": true
-      },
-      {
-       "s": "Magic",
-       "l": 86,
-       "rec": true
-      },
-      {
-       "s": "Prayer",
-       "l": 43,
-       "rec": true
-      },
-      {
-       "s": "Prayer",
-       "l": 77,
-       "rec": true
-      },
-      {
-       "s": "Prayer",
-       "l": 43,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "Children of the Sun",
-      "Desert Treasure I"
-     ],
      "minCombat": 100
     },
     {
@@ -9589,35 +9140,6 @@
      "minCombat": 65
     },
     {
-     "name": "Last Man Standing",
-     "line1": "Skills 750+, Quest points 30+, Skills 1,500+",
-     "rate": "1.2M/hr",
-     "badge": "HIGH",
-     "elite": null,
-     "intensity": "high",
-     "detail": "Requires Skills 750+, Quest points 30+, Skills 1,500+. Setup: Justine's stuff for the Last Shopper Standing. Rate is the wiki's long-run drop-table average.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Last_Man_Standing",
-     "reqs": [
-      {
-       "s": "Skills",
-       "l": 750,
-       "rec": false
-      },
-      {
-       "s": "Quest points",
-       "l": 30,
-       "rec": false
-      },
-      {
-       "s": "Skills",
-       "l": 1500,
-       "rec": false
-      }
-     ],
-     "quests": [],
-     "minCombat": 3
-    },
-    {
      "name": "Killing hydras",
      "line1": "Attack 90+, Prayer 70+, Slayer 95",
      "rate": "1.2M/hr",
@@ -9644,43 +9166,6 @@
       }
      ],
      "quests": [],
-     "minCombat": 100
-    },
-    {
-     "name": "Killing urium shades",
-     "line1": "Firemaking 80 (rec), Attack 80+ (rec), Firemaking 80, Attack 80+",
-     "rate": "1.2M/hr",
-     "badge": "MODERATE",
-     "elite": null,
-     "intensity": "moderate",
-     "detail": "Requires Firemaking 80 (rec), Attack 80+ (rec), Firemaking 80, Attack 80+. Quests: Shades of Mort'ton, In Aid of the Myreque. Setup: Combat, equipment, Salve amulet (e), Morytania legs 3, Morytania legs 4, Shade key, Gold coffin, The Lair of Tarn Razorlor, Protect from Melee, Piety. Rate is the wiki's long-run drop-table average.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Killing_urium_shades",
-     "reqs": [
-      {
-       "s": "Firemaking",
-       "l": 80,
-       "rec": true
-      },
-      {
-       "s": "Attack",
-       "l": 80,
-       "rec": true
-      },
-      {
-       "s": "Firemaking",
-       "l": 80,
-       "rec": false
-      },
-      {
-       "s": "Attack",
-       "l": 80,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "Shades of Mort'ton",
-      "In Aid of the Myreque"
-     ],
      "minCombat": 100
     },
     {
@@ -9892,43 +9377,6 @@
      "minCombat": 100
     },
     {
-     "name": "Killing fiyr shades",
-     "line1": "Firemaking 65 (rec), Attack 80+ (rec), Firemaking 65, Attack 80+",
-     "rate": "886.6K/hr",
-     "badge": "HIGH",
-     "elite": null,
-     "intensity": "high",
-     "detail": "Requires Firemaking 65 (rec), Attack 80+ (rec), Firemaking 65, Attack 80+. Quests: Shades of Mort'ton, In Aid of the Myreque. Setup: Combat, equipment, Salve amulet (e), Morytania legs 3, Morytania legs 4, Shade key, The Lair of Tarn Razorlor, Protect from Melee, Shades of Mort'ton (minigame), minigame teleport. Rate is the wiki's long-run drop-table average.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Killing_fiyr_shades",
-     "reqs": [
-      {
-       "s": "Firemaking",
-       "l": 65,
-       "rec": true
-      },
-      {
-       "s": "Attack",
-       "l": 80,
-       "rec": true
-      },
-      {
-       "s": "Firemaking",
-       "l": 65,
-       "rec": false
-      },
-      {
-       "s": "Attack",
-       "l": 80,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "Shades of Mort'ton",
-      "In Aid of the Myreque"
-     ],
-     "minCombat": 100
-    },
-    {
      "name": "Killing green dragons (Myths Guild)",
      "line1": "Combat level 80+ (rec), Ranged 60+ (rec), Combat 80+ (rec)",
      "rate": "879.5K/hr",
@@ -9992,47 +9440,6 @@
      ],
      "quests": [],
      "minCombat": 65
-    },
-    {
-     "name": "Barrows",
-     "line1": "Prayer 43+ (rec), Attack 70+ (rec), Magic 50+ (rec), Ranged 50+ (rec), Attack 70+",
-     "rate": "765.7K/hr",
-     "badge": "HIGH",
-     "elite": null,
-     "intensity": "high",
-     "detail": "Requires Prayer 43+ (rec), Attack 70+ (rec), Magic 50+ (rec), Ranged 50+ (rec), Attack 70+. Quests: Priest in Peril. Setup: Combat, equipment, Spade, Barrows teleport (tablet), Ectophial, Teleport to house (tablet), Ring of dueling, Super restore, Monkfish, Harralander tar, black salamander, Super set, Super combat, Ranging potion, Magic potion, Holy wrench, Morytania legs 3, player-owned house, Ornate rejuvenation pool, runes, Barrows chest, In Aid of the Myreque, Burgh de Rott, Shades of Mort'ton, Minigame teleport. Rate is the wiki's long-run drop-table average.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Barrows",
-     "reqs": [
-      {
-       "s": "Prayer",
-       "l": 43,
-       "rec": true
-      },
-      {
-       "s": "Attack",
-       "l": 70,
-       "rec": true
-      },
-      {
-       "s": "Magic",
-       "l": 50,
-       "rec": true
-      },
-      {
-       "s": "Ranged",
-       "l": 50,
-       "rec": true
-      },
-      {
-       "s": "Attack",
-       "l": 70,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "Priest in Peril"
-     ],
-     "minCombat": 100
     },
     {
      "name": "Killing Wyrms (Slayer)",
@@ -10701,25 +10108,6 @@
      "quests": [
       "Underground Pass"
      ],
-     "minCombat": 100
-    },
-    {
-     "name": "Barbarian assault high gambles",
-     "line1": "Ranged 50+ (rec)",
-     "rate": "221.6K/hr",
-     "badge": "HIGH",
-     "elite": null,
-     "intensity": "high",
-     "detail": "Requires Ranged 50+ (rec). Setup: Magic shortbow (i), Venator bow, Magic comp bow, Scorching bow, Dark bow, Elite Void Knight equipment, Ava's accumulator, Necklace of anguish, Ring of suffering (ri), ring of recoil, Elemental shield, mind shield, Cape of accomplishment, Cooking cape, Quest cape, Imcando hammer, Elite Western Provinces Diary, Crystal halberd, Dinh's bulwark. Rate is the wiki's long-run drop-table average.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Barbarian_assault_high_gambles",
-     "reqs": [
-      {
-       "s": "Ranged",
-       "l": 50,
-       "rec": true
-      }
-     ],
-     "quests": [],
      "minCombat": 100
     },
     {
@@ -11432,28 +10820,6 @@
      "minCombat": 100
     },
     {
-     "name": "Temple Trekking",
-     "line1": "Combat level 60 (rec)",
-     "rate": "657.5K/hr",
-     "badge": "LOW",
-     "elite": null,
-     "intensity": "low",
-     "detail": "Requires Combat level 60 (rec). Quests: In Aid of the Myreque, Darkness of Hallowvale. Setup: Graceful outfit, Axe, Knife. Rate is the wiki's long-run drop-table average.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Temple_Trekking",
-     "reqs": [
-      {
-       "s": "Combat",
-       "l": 60,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "In Aid of the Myreque",
-      "Darkness of Hallowvale"
-     ],
-     "minCombat": 3
-    },
-    {
      "name": "Killing Jubsters",
      "line1": "Attack 40 (rec), Attack 40",
      "rate": "332.0K/hr",
@@ -11713,6 +11079,648 @@
      ],
      "quests": [],
      "minCombat": 3
+    }
+   ]
+  },
+  {
+   "icon": "🎲",
+   "title": "Minigames",
+   "note": "instanced minigames & activities by gp/hr — Barrows, Gauntlet, GotR & co · RSN filters to your stats & quest log",
+   "personal": true,
+   "items": [
+    {
+     "name": "Completing the Fortis Colosseum (Wave 12)",
+     "line1": "Attack 95+ (rec), Strength 95+ (rec), Defence 90+ (rec), Hitpoints 95+ (rec), Ranged 90+ (rec), Magic 94+, Pra",
+     "rate": "12.1M/hr",
+     "badge": "HIGH",
+     "elite": null,
+     "intensity": "high",
+     "detail": "Requires Attack 95+ (rec), Strength 95+ (rec), Defence 90+ (rec), Hitpoints 95+ (rec), Ranged 90+ (rec), Magic 94+, Prayer 77+ (rec), Attack 95+, Strength 95+, Defence 90+, Hitpoints 95+. Quests: Children of the Sun. Setup: Fortis Colosseum/Strategies, King's Ransom, Piety, Rigour, Augury, Dragon Slayer II, Ava's assembler, twisted bow, Recipe for Disaster, Barrows gloves, Ferocious gloves, A Kingdom Divided, Arceuus spellbook. Rate is the wiki's long-run drop-table average.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Completing_the_Fortis_Colosseum_(Wave_12)",
+     "reqs": [
+      {
+       "s": "Attack",
+       "l": 95,
+       "rec": true
+      },
+      {
+       "s": "Strength",
+       "l": 95,
+       "rec": true
+      },
+      {
+       "s": "Defence",
+       "l": 90,
+       "rec": true
+      },
+      {
+       "s": "Hitpoints",
+       "l": 95,
+       "rec": true
+      },
+      {
+       "s": "Ranged",
+       "l": 90,
+       "rec": true
+      },
+      {
+       "s": "Magic",
+       "l": 94,
+       "rec": false
+      },
+      {
+       "s": "Prayer",
+       "l": 77,
+       "rec": true
+      },
+      {
+       "s": "Attack",
+       "l": 95,
+       "rec": false
+      },
+      {
+       "s": "Strength",
+       "l": 95,
+       "rec": false
+      },
+      {
+       "s": "Defence",
+       "l": 90,
+       "rec": false
+      },
+      {
+       "s": "Hitpoints",
+       "l": 95,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "Children of the Sun"
+     ],
+     "minCombat": 100
+    },
+    {
+     "name": "Completing The Corrupted Gauntlet",
+     "line1": "Attack 80+, Strength 85+, Ranged 85+, Magic 80+, Prayer 77+",
+     "rate": "4.6M/hr",
+     "badge": "HIGH",
+     "elite": null,
+     "intensity": "high",
+     "detail": "Requires Attack 80+, Strength 85+, Ranged 85+, Magic 80+, Prayer 77+. Quests: Song of the Elves. Rate is the wiki's long-run drop-table average.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Completing_The_Corrupted_Gauntlet",
+     "reqs": [
+      {
+       "s": "Attack",
+       "l": 80,
+       "rec": false
+      },
+      {
+       "s": "Strength",
+       "l": 85,
+       "rec": false
+      },
+      {
+       "s": "Ranged",
+       "l": 85,
+       "rec": false
+      },
+      {
+       "s": "Magic",
+       "l": 80,
+       "rec": false
+      },
+      {
+       "s": "Prayer",
+       "l": 77,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "Song of the Elves"
+     ],
+     "minCombat": 100
+    },
+    {
+     "name": "Killing Zalcano",
+     "line1": "Mining 70+",
+     "rate": "2.2M/hr",
+     "badge": "HIGH",
+     "elite": null,
+     "intensity": "high",
+     "detail": "Requires Mining 70+. Quests: Song of the Elves. Setup: Varrock armour 1, Dragon pickaxe, crystal pickaxe, Celestial ring, celestial signet, regen bracelet. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Killing_Zalcano",
+     "reqs": [
+      {
+       "s": "Mining",
+       "l": 70,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "Song of the Elves"
+     ],
+     "minCombat": null
+    },
+    {
+     "name": "Completing The Gauntlet",
+     "line1": "Attack 80+, Strength 85+, Ranged 85+, Magic 80+, Prayer 77+",
+     "rate": "2.1M/hr",
+     "badge": "HIGH",
+     "elite": null,
+     "intensity": "high",
+     "detail": "Requires Attack 80+, Strength 85+, Ranged 85+, Magic 80+, Prayer 77+. Quests: Song of the Elves. Rate is the wiki's long-run drop-table average.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Completing_The_Gauntlet",
+     "reqs": [
+      {
+       "s": "Attack",
+       "l": 80,
+       "rec": false
+      },
+      {
+       "s": "Strength",
+       "l": 85,
+       "rec": false
+      },
+      {
+       "s": "Ranged",
+       "l": 85,
+       "rec": false
+      },
+      {
+       "s": "Magic",
+       "l": 80,
+       "rec": false
+      },
+      {
+       "s": "Prayer",
+       "l": 77,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "Song of the Elves"
+     ],
+     "minCombat": 100
+    },
+    {
+     "name": "Killing Zalcano (Experience)",
+     "line1": "Mining 70+",
+     "rate": "1.8M/hr",
+     "badge": "MODERATE",
+     "elite": null,
+     "intensity": "moderate",
+     "detail": "Requires Mining 70+. Quests: Song of the Elves. Setup: Varrock armour 1, Dragon pickaxe, crystal pickaxe, Celestial ring, celestial signet, regen bracelet. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Killing_Zalcano_(Experience)",
+     "reqs": [
+      {
+       "s": "Mining",
+       "l": 70,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "Song of the Elves"
+     ],
+     "minCombat": null
+    },
+    {
+     "name": "Completing the Fortis Colosseum (Wave 1)",
+     "line1": "Attack 80+, Strength 80+, Defence 80+, Ranged 80+ (rec), Magic 86+ (rec), Prayer 43+ (rec), Prayer 77+ (rec), ",
+     "rate": "1.8M/hr",
+     "badge": "HIGH",
+     "elite": null,
+     "intensity": "high",
+     "detail": "Requires Attack 80+, Strength 80+, Defence 80+, Ranged 80+ (rec), Magic 86+ (rec), Prayer 43+ (rec), Prayer 77+ (rec), Prayer 43+. Quests: Children of the Sun, Desert Treasure I. Setup: Dinh's bulwark, Venator bow, Dragon arrow, Toxic blowpipe, Dragon dart, Ava's assembler, Necklace of anguish, Masori armour, Elite Void Knight equipment, Occult necklace, Tormented bracelet, Ancient magicks, Magic robes, Rune pouch, Barrage spells. Rate is the wiki's long-run drop-table average.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Completing_the_Fortis_Colosseum_(Wave_1)",
+     "reqs": [
+      {
+       "s": "Attack",
+       "l": 80,
+       "rec": false
+      },
+      {
+       "s": "Strength",
+       "l": 80,
+       "rec": false
+      },
+      {
+       "s": "Defence",
+       "l": 80,
+       "rec": false
+      },
+      {
+       "s": "Ranged",
+       "l": 80,
+       "rec": true
+      },
+      {
+       "s": "Magic",
+       "l": 86,
+       "rec": true
+      },
+      {
+       "s": "Prayer",
+       "l": 43,
+       "rec": true
+      },
+      {
+       "s": "Prayer",
+       "l": 77,
+       "rec": true
+      },
+      {
+       "s": "Prayer",
+       "l": 43,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "Children of the Sun",
+      "Desert Treasure I"
+     ],
+     "minCombat": 100
+    },
+    {
+     "name": "Hallowed Sepulchre (Floor 5)",
+     "line1": "Agility 92, Thieving 66, Prayer 54, Construction 56, Ranged 62",
+     "rate": "1.6M/hr",
+     "badge": "HIGH",
+     "elite": null,
+     "intensity": "high",
+     "detail": "Requires Agility 92, Thieving 66, Prayer 54, Construction 56, Ranged 62. Quests: Sins of the Father, The Great Brain Robbery. Setup: Graceful outfit, strange old lockpick (full), hallowed grapple, hallowed hammer, hallowed focus, hallowed symbol, Mysterious Hallowed Goods, Patience when learning the floors. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Hallowed_Sepulchre_(Floor_5)",
+     "reqs": [
+      {
+       "s": "Agility",
+       "l": 92,
+       "rec": false
+      },
+      {
+       "s": "Thieving",
+       "l": 66,
+       "rec": false
+      },
+      {
+       "s": "Prayer",
+       "l": 54,
+       "rec": false
+      },
+      {
+       "s": "Construction",
+       "l": 56,
+       "rec": false
+      },
+      {
+       "s": "Ranged",
+       "l": 62,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "Sins of the Father",
+      "The Great Brain Robbery"
+     ],
+     "minCombat": null
+    },
+    {
+     "name": "Delivering food in Gnome Restaurant",
+     "line1": "Cooking 42, Magic 61",
+     "rate": "1.6M/hr",
+     "badge": "HIGH",
+     "elite": null,
+     "intensity": "high",
+     "detail": "Requires Cooking 42, Magic 61. Quests: Troll Romance, Eadgar's Ruse, Fishing Contest, The Grand Tree, The Giant Dwarf, Monkey Madness II. Setup: Reward token (Gnome Restaurant), Weight-reducing clothing, Teleportation, desert amulet 4, Ardougne cloak 2. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Delivering_food_in_Gnome_Restaurant",
+     "reqs": [
+      {
+       "s": "Cooking",
+       "l": 42,
+       "rec": false
+      },
+      {
+       "s": "Magic",
+       "l": 61,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "Troll Romance",
+      "Eadgar's Ruse",
+      "Fishing Contest",
+      "The Grand Tree",
+      "The Giant Dwarf",
+      "Monkey Madness II"
+     ],
+     "minCombat": null
+    },
+    {
+     "name": "Last Man Standing",
+     "line1": "Skills 750+, Quest points 30+, Skills 1,500+",
+     "rate": "1.2M/hr",
+     "badge": "HIGH",
+     "elite": null,
+     "intensity": "high",
+     "detail": "Requires Skills 750+, Quest points 30+, Skills 1,500+. Setup: Justine's stuff for the Last Shopper Standing. Rate is the wiki's long-run drop-table average.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Last_Man_Standing",
+     "reqs": [
+      {
+       "s": "Skills",
+       "l": 750,
+       "rec": false
+      },
+      {
+       "s": "Quest points",
+       "l": 30,
+       "rec": false
+      },
+      {
+       "s": "Skills",
+       "l": 1500,
+       "rec": false
+      }
+     ],
+     "quests": [],
+     "minCombat": 3
+    },
+    {
+     "name": "Killing urium shades",
+     "line1": "Firemaking 80 (rec), Attack 80+ (rec), Firemaking 80, Attack 80+",
+     "rate": "1.2M/hr",
+     "badge": "MODERATE",
+     "elite": null,
+     "intensity": "moderate",
+     "detail": "Requires Firemaking 80 (rec), Attack 80+ (rec), Firemaking 80, Attack 80+. Quests: Shades of Mort'ton, In Aid of the Myreque. Setup: Combat, equipment, Salve amulet (e), Morytania legs 3, Morytania legs 4, Shade key, Gold coffin, The Lair of Tarn Razorlor, Protect from Melee, Piety. Rate is the wiki's long-run drop-table average.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Killing_urium_shades",
+     "reqs": [
+      {
+       "s": "Firemaking",
+       "l": 80,
+       "rec": true
+      },
+      {
+       "s": "Attack",
+       "l": 80,
+       "rec": true
+      },
+      {
+       "s": "Firemaking",
+       "l": 80,
+       "rec": false
+      },
+      {
+       "s": "Attack",
+       "l": 80,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "Shades of Mort'ton",
+      "In Aid of the Myreque"
+     ],
+     "minCombat": 100
+    },
+    {
+     "name": "Guardians of the Rift",
+     "line1": "Runecraft 27, Runecraft 27 (rec)",
+     "rate": "1.0M/hr",
+     "badge": "MODERATE",
+     "elite": null,
+     "intensity": "moderate",
+     "detail": "Requires Runecraft 27, Runecraft 27 (rec). Quests: Temple of the Eye. Setup: Pickaxe, Chisel, Essence pouches, Abyssal lantern, Raiments of the eye, Colossal pouch, Dragon pickaxe, Celestial ring, Lost City, Cosmic runes, Troll Stronghold, Law runes, Mourning's End Part II, Death runes, Sins of the Father, Blood runes, Lunar Diplomacy, NPC Contact, Magic Imbue. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Guardians_of_the_Rift",
+     "reqs": [
+      {
+       "s": "Runecraft",
+       "l": 27,
+       "rec": false
+      },
+      {
+       "s": "Runecraft",
+       "l": 27,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "Temple of the Eye"
+     ],
+     "minCombat": null
+    },
+    {
+     "name": "Hallowed Sepulchre (Floor 4)",
+     "line1": "Agility 82, Thieving 66, Prayer 54, Construction 56, Ranged 62",
+     "rate": "929.0K/hr",
+     "badge": "HIGH",
+     "elite": null,
+     "intensity": "high",
+     "detail": "Requires Agility 82, Thieving 66, Prayer 54, Construction 56, Ranged 62. Quests: Sins of the Father, The Great Brain Robbery. Setup: Graceful outfit, strange old lockpick (full), hallowed grapple, hallowed hammer, hallowed focus, hallowed symbol, Mysterious Hallowed Goods, Patience when learning the floors. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Hallowed_Sepulchre_(Floor_4)",
+     "reqs": [
+      {
+       "s": "Agility",
+       "l": 82,
+       "rec": false
+      },
+      {
+       "s": "Thieving",
+       "l": 66,
+       "rec": false
+      },
+      {
+       "s": "Prayer",
+       "l": 54,
+       "rec": false
+      },
+      {
+       "s": "Construction",
+       "l": 56,
+       "rec": false
+      },
+      {
+       "s": "Ranged",
+       "l": 62,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "Sins of the Father",
+      "The Great Brain Robbery"
+     ],
+     "minCombat": null
+    },
+    {
+     "name": "Killing fiyr shades",
+     "line1": "Firemaking 65 (rec), Attack 80+ (rec), Firemaking 65, Attack 80+",
+     "rate": "886.6K/hr",
+     "badge": "HIGH",
+     "elite": null,
+     "intensity": "high",
+     "detail": "Requires Firemaking 65 (rec), Attack 80+ (rec), Firemaking 65, Attack 80+. Quests: Shades of Mort'ton, In Aid of the Myreque. Setup: Combat, equipment, Salve amulet (e), Morytania legs 3, Morytania legs 4, Shade key, The Lair of Tarn Razorlor, Protect from Melee, Shades of Mort'ton (minigame), minigame teleport. Rate is the wiki's long-run drop-table average.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Killing_fiyr_shades",
+     "reqs": [
+      {
+       "s": "Firemaking",
+       "l": 65,
+       "rec": true
+      },
+      {
+       "s": "Attack",
+       "l": 80,
+       "rec": true
+      },
+      {
+       "s": "Firemaking",
+       "l": 65,
+       "rec": false
+      },
+      {
+       "s": "Attack",
+       "l": 80,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "Shades of Mort'ton",
+      "In Aid of the Myreque"
+     ],
+     "minCombat": 100
+    },
+    {
+     "name": "Barrows",
+     "line1": "Prayer 43+ (rec), Attack 70+ (rec), Magic 50+ (rec), Ranged 50+ (rec), Attack 70+",
+     "rate": "765.7K/hr",
+     "badge": "HIGH",
+     "elite": null,
+     "intensity": "high",
+     "detail": "Requires Prayer 43+ (rec), Attack 70+ (rec), Magic 50+ (rec), Ranged 50+ (rec), Attack 70+. Quests: Priest in Peril. Setup: Combat, equipment, Spade, Barrows teleport (tablet), Ectophial, Teleport to house (tablet), Ring of dueling, Super restore, Monkfish, Harralander tar, black salamander, Super set, Super combat, Ranging potion, Magic potion, Holy wrench, Morytania legs 3, player-owned house, Ornate rejuvenation pool, runes, Barrows chest, In Aid of the Myreque, Burgh de Rott, Shades of Mort'ton, Minigame teleport. Rate is the wiki's long-run drop-table average.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Barrows",
+     "reqs": [
+      {
+       "s": "Prayer",
+       "l": 43,
+       "rec": true
+      },
+      {
+       "s": "Attack",
+       "l": 70,
+       "rec": true
+      },
+      {
+       "s": "Magic",
+       "l": 50,
+       "rec": true
+      },
+      {
+       "s": "Ranged",
+       "l": 50,
+       "rec": true
+      },
+      {
+       "s": "Attack",
+       "l": 70,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "Priest in Peril"
+     ],
+     "minCombat": 100
+    },
+    {
+     "name": "Temple Trekking",
+     "line1": "Combat level 60 (rec)",
+     "rate": "657.5K/hr",
+     "badge": "LOW",
+     "elite": null,
+     "intensity": "low",
+     "detail": "Requires Combat level 60 (rec). Quests: In Aid of the Myreque, Darkness of Hallowvale. Setup: Graceful outfit, Axe, Knife. Rate is the wiki's long-run drop-table average.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Temple_Trekking",
+     "reqs": [
+      {
+       "s": "Combat",
+       "l": 60,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "In Aid of the Myreque",
+      "Darkness of Hallowvale"
+     ],
+     "minCombat": 3
+    },
+    {
+     "name": "Hallowed Sepulchre (Floor 3)",
+     "line1": "Agility 72, Thieving 66, Prayer 54, Ranged 62",
+     "rate": "643.6K/hr",
+     "badge": "HIGH",
+     "elite": null,
+     "intensity": "high",
+     "detail": "Requires Agility 72, Thieving 66, Prayer 54, Ranged 62. Quests: Sins of the Father, The Great Brain Robbery. Setup: Graceful outfit, strange old lockpick (full), hallowed grapple, hallowed focus, hallowed symbol, Mysterious Hallowed Goods, Patience when learning the floors. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Hallowed_Sepulchre_(Floor_3)",
+     "reqs": [
+      {
+       "s": "Agility",
+       "l": 72,
+       "rec": false
+      },
+      {
+       "s": "Thieving",
+       "l": 66,
+       "rec": false
+      },
+      {
+       "s": "Prayer",
+       "l": 54,
+       "rec": false
+      },
+      {
+       "s": "Ranged",
+       "l": 62,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "Sins of the Father",
+      "The Great Brain Robbery"
+     ],
+     "minCombat": null
+    },
+    {
+     "name": "Subduing Tempoross",
+     "line1": "Fishing 35",
+     "rate": "334.8K/hr",
+     "badge": "MODERATE",
+     "elite": null,
+     "intensity": "moderate",
+     "detail": "Requires Fishing 35. Setup: Harpoon, Rope, Hammer, Dragon harpoon, Infernal harpoon, Crystal harpoon, Spirit angler's outfit, Lunar Diplomacy, Humidify. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Subduing_Tempoross",
+     "reqs": [
+      {
+       "s": "Fishing",
+       "l": 35,
+       "rec": false
+      }
+     ],
+     "quests": [],
+     "minCombat": null
+    },
+    {
+     "name": "Barbarian assault high gambles",
+     "line1": "Ranged 50+ (rec)",
+     "rate": "221.6K/hr",
+     "badge": "HIGH",
+     "elite": null,
+     "intensity": "high",
+     "detail": "Requires Ranged 50+ (rec). Setup: Magic shortbow (i), Venator bow, Magic comp bow, Scorching bow, Dark bow, Elite Void Knight equipment, Ava's accumulator, Necklace of anguish, Ring of suffering (ri), ring of recoil, Elemental shield, mind shield, Cape of accomplishment, Cooking cape, Quest cape, Imcando hammer, Elite Western Provinces Diary, Crystal halberd, Dinh's bulwark. Rate is the wiki's long-run drop-table average.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Barbarian_assault_high_gambles",
+     "reqs": [
+      {
+       "s": "Ranged",
+       "l": 50,
+       "rec": true
+      }
+     ],
+     "quests": [],
+     "minCombat": 100
     }
    ]
   }
