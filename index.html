@@ -68,6 +68,11 @@
   .rsn-status { margin-top: 10px; font-size: 12.5px; color: oklch(62% 0.02 70); min-height: 18px; }
   .rsn-status.ok { color: oklch(78% 0.13 145); }
   .rsn-status.err { color: oklch(75% 0.14 25); }
+  .mode-banner {
+    margin: 10px auto 0; max-width: 720px; font-size: 12px; line-height: 1.55;
+    color: oklch(82% 0.12 85); background: oklch(30% 0.05 85 / 0.3);
+    border: 1px solid oklch(65% 0.12 85 / 0.35); border-radius: 10px; padding: 8px 14px;
+  }
 
   .switch-row { margin-top: 18px; }
   .switch-btn {
@@ -114,6 +119,13 @@
   .badge-MODERATE { color: oklch(82% 0.13 85);  background: oklch(38% 0.05 85 / 0.35);  border-color: oklch(65% 0.1 85 / 0.4); }
   .badge-HIGH     { color: oklch(78% 0.16 25);  background: oklch(35% 0.06 25 / 0.35);  border-color: oklch(60% 0.12 25 / 0.4); }
   .badge-ELITE    { color: oklch(80% 0.14 310); background: oklch(35% 0.07 310 / 0.35); border-color: oklch(60% 0.12 310 / 0.4); }
+  .badge-STRETCH  { color: oklch(84% 0.13 85);  background: oklch(36% 0.06 85 / 0.4);   border-color: oklch(68% 0.12 85 / 0.5); }
+  .badge-LOCKED   { color: oklch(76% 0.14 25);  background: oklch(33% 0.06 25 / 0.4);   border-color: oklch(58% 0.12 25 / 0.5); }
+  .row.stretch { border-left: 3px solid oklch(72% 0.13 85 / 0.8); background: oklch(24% 0.035 85 / 0.22); }
+  .row.qlocked { border-left: 3px solid oklch(58% 0.12 25 / 0.8); opacity: 0.88; }
+  .row-alert { display: block; font-size: 11.5px; line-height: 1.5; margin-top: 3px; }
+  .row-alert.warn { color: oklch(80% 0.12 85); }
+  .row-alert.lock { color: oklch(74% 0.12 25); }
   .chips { display: flex; gap: 6px; margin: 0 0 10px; }
   .chip {
     font: inherit; font-size: 11px; font-weight: 600; cursor: pointer;
@@ -155,8 +167,10 @@
     <input id="rsnInput" placeholder="your RSN…" maxlength="12" autocomplete="off" spellcheck="false">
     <button id="rsnBtn" type="button">Filter for me</button>
     <button id="rsnClear" type="button" class="ghost" hidden>show all</button>
+    <button id="modeBtn" type="button" class="ghost" hidden>experienced mode: off</button>
   </div>
   <div class="rsn-status" id="rsnStatus">Money Makers &amp; Combat can be filtered to your account — needs the <b>WikiSync</b> plugin in RuneLite (install it, log in once).</div>
+  <div class="mode-banner" id="modeBanner" hidden>⚠ <b>Experienced mode</b> — amber <b>STRETCH</b> rows miss the guide's listed stats. Often those are just the guide's assumed setup (Barrows works fine below its listed 70 Attack) — but some levels <i>are</i> enforced in-game, so it's your call. The gp/hr is the guide-setup ceiling; yours will be lower. 🔒 <b>QUEST-LOCKED</b> rows need a quest first — spellbook &amp; prayer unlocks are called out.</div>
   <div class="switch-row">
     <a class="switch-btn" href="https://yousdje.github.io/rs3-money-advisor/">Switch to RS3 →</a>
   </div>
@@ -217,6 +231,21 @@ let data = null;      // data.json payload
 let profile = null;   // { rsn, levels, combat, total, quests:Set(normalised) }
 let generatedAt = null;
 const secFilter = {}; // section title -> "all" | "standard" | "elite"
+let expMode = localStorage.getItem("osrs-advisor-mode") === "exp";
+const EXTRA_N = 5;    // stretch / quest-locked rows appended per card in exp mode
+
+// big-ticket unlocks worth calling out on quest-locked rows (keyed normalised)
+const QUEST_UNLOCKS = {};
+for (const [q, u] of Object.entries({
+  "Desert Treasure I": "unlocks Ancient Magicks",
+  "Lunar Diplomacy": "unlocks the Lunar spellbook",
+  "Dream Mentor": "unlocks the top Lunar combat spells",
+  "King's Ransom": "unlocks Chivalry & Piety",
+  "Dragon Slayer II": "unlocks Vorkath & the Myths' Guild",
+  "Song of the Elves": "unlocks Prifddinas & the Gauntlet",
+  "Sins of the Father": "unlocks the Hallowed Sepulchre",
+  "Priest in Peril": "unlocks Morytania",
+})) QUEST_UNLOCKS[q.replace(/['’]/g, "").replace(/\s+/g, " ").trim().toLowerCase()] = u;
 
 async function fetchWikiSync(rsn) {
   const urls = [];
@@ -256,17 +285,26 @@ function statFor(name) {
   return v === undefined ? null : v;   // unknown skill name = never gates
 }
 
-function itemPasses(item) {
-  if (!profile) return true;
-  if (item.minCombat && profile.combat < item.minCombat) return false;
+// pass    = meets everything (shown as before)
+// stretch = fails only skill reqs / the combat-tier floor — guide assumptions,
+//           not game locks; an experienced player can often still do it
+// locked  = an uncompleted required quest: a REAL lock, experience can't help
+function classify(item) {
+  if (!profile) return { state: "pass" };
+  const fails = [], seen = new Set();
+  if (item.minCombat && profile.combat < item.minCombat)
+    fails.push({ s: "Combat", need: item.minCombat, have: profile.combat });
   for (const r of item.reqs || []) {
     const have = statFor(r.s);
-    if (have !== null && have < r.l) return false;
+    if (have !== null && have < r.l && !seen.has(r.s + r.l)) {
+      seen.add(r.s + r.l);
+      fails.push({ s: r.s, need: r.l, have });
+    }
   }
-  for (const q of item.quests || []) {
-    if (!profile.quests.has(normQuest(q))) return false;
-  }
-  return true;
+  const questFails = (item.quests || []).filter(q => !profile.quests.has(normQuest(q)));
+  if (questFails.length) return { state: "locked", fails, questFails };
+  if (fails.length) return { state: "stretch", fails };
+  return { state: "pass" };
 }
 
 // ---- rendering ---------------------------------------------------------------
@@ -291,18 +329,28 @@ function render() {
     const personal = !!section.personal;
     const hasElite = personal && section.items.some(it => it.elite);
     const df = secFilter[section.title] || "all";
-    let items = section.items;
+    let items = section.items.map(it => ({ it, cls: { state: "pass" } }));
     let more = "";
     if (personal) {
-      let pool = items;
+      let pool = section.items;
       if (df !== "all") pool = pool.filter(it => (df === "elite") === !!it.elite);
-      const matched = profile ? pool.filter(itemPasses) : pool;
+      const classified = pool.map(it => ({ it, cls: classify(it) }));
+      const pass = classified.filter(x => x.cls.state === "pass");
+      items = pass.slice(0, SHOW_N);
+      let extra = "";
+      if (profile && expMode) {
+        const stretch = classified.filter(x => x.cls.state === "stretch").slice(0, EXTRA_N);
+        const locked = classified.filter(x => x.cls.state === "locked").slice(0, EXTRA_N);
+        items = items.concat(stretch, locked);
+        if (stretch.length || locked.length)
+          extra = " · +" + stretch.length + " stretch, +" + locked.length +
+                  " quest-locked shown (experienced mode)";
+      }
       more = profile
-        ? "top " + Math.min(SHOW_N, matched.length) + " of " + matched.length +
-          " methods " + esc(profile.rsn) + " can do (of " + pool.length + " total)"
-        : "top " + Math.min(SHOW_N, matched.length) + " of " + pool.length +
+        ? "top " + Math.min(SHOW_N, pass.length) + " of " + pass.length +
+          " methods " + esc(profile.rsn) + " can do (of " + pool.length + " total)" + extra
+        : "top " + Math.min(SHOW_N, items.length) + " of " + pool.length +
           " — enter your RSN above to filter";
-      items = matched.slice(0, SHOW_N);
     }
     const card = document.createElement("div");
     card.className = "card";
@@ -320,25 +368,45 @@ function render() {
     if (!items.length) {
       inner += '<div class="card-empty">' +
         (personal && profile
-          ? "nothing here fits this account yet — level up or quest on!"
+          ? "nothing here fits this account yet — level up or quest on!" +
+            (expMode ? "" : " (or try <b>experienced mode</b> above)")
           : "nothing above thresholds right now") + "</div>";
     }
-    items.forEach((item, i) => {
-      const badge = (item.badge
+    items.forEach(({ it: item, cls }, i) => {
+      const st = cls.state;
+      let badge = (item.badge
         ? '<span class="badge badge-' + esc(item.badge) + '">' + esc(item.badge) + "</span>"
         : "") + (item.elite ? '<span class="badge badge-ELITE">ELITE</span>' : "");
+      if (st === "stretch") badge += '<span class="badge badge-STRETCH">⚠ STRETCH</span>';
+      if (st === "locked") badge += '<span class="badge badge-LOCKED">🔒 QUEST-LOCKED</span>';
       const link = item.url
         ? ' · <a href="' + esc(item.url) + '" rel="noopener" target="_blank">wiki guide</a>'
         : "";
+      let alert = "";
+      if (st === "stretch") {
+        alert = '<span class="row-alert warn">⚠ guide calls for ' +
+          esc(cls.fails.map(f => f.s + " " + f.need + " (you: " + f.have + ")").join(", ")) +
+          " — often just the guide's setup, your call; rate shown is its ceiling</span>";
+      } else if (st === "locked") {
+        const qs = cls.questFails.map(q => {
+          const u = QUEST_UNLOCKS[normQuest(q)];
+          return esc(q) + (u ? " — " + esc(u) : "");
+        }).join(" · ");
+        alert = '<span class="row-alert lock">🔒 needs ' + qs +
+          (cls.fails.length ? " (stats short too: " +
+            esc(cls.fails.map(f => f.s + " " + f.need).join(", ")) + ")" : "") + "</span>";
+      }
+      const rate = (st === "stretch" || st === "locked" ? "up to " : "") + item.rate;
       inner +=
-        '<div class="row' + (i === 0 ? " best" : "") + '">' +
+        '<div class="row' + (i === 0 && st === "pass" ? " best" : "") +
+          (st === "stretch" ? " stretch" : st === "locked" ? " qlocked" : "") + '">' +
           '<button class="row-main" type="button">' +
             '<span class="row-left">' +
               '<span class="row-name-line"><span class="row-name">' + esc(item.name) + "</span>" + badge + "</span>" +
-              '<span class="row-line1">' + esc(item.line1) + "</span>" +
+              '<span class="row-line1">' + esc(item.line1) + "</span>" + alert +
             "</span>" +
             '<span class="row-right">' +
-              '<span class="row-rate">' + esc(item.rate) + "</span>" +
+              '<span class="row-rate">' + esc(rate) + "</span>" +
               '<div class="row-hint">details ▼</div>' +
             "</span>" +
           "</button>" +
@@ -373,6 +441,20 @@ function setStatus(text, cls) {
   el.innerHTML = text;
 }
 
+function syncModeUi() {
+  const btn = document.getElementById("modeBtn");
+  btn.hidden = !profile;
+  btn.textContent = "experienced mode: " + (expMode ? "on" : "off");
+  document.getElementById("modeBanner").hidden = !(profile && expMode);
+}
+
+document.getElementById("modeBtn").addEventListener("click", () => {
+  expMode = !expMode;
+  localStorage.setItem("osrs-advisor-mode", expMode ? "exp" : "strict");
+  syncModeUi();
+  render();
+});
+
 async function applyRsn(rsn, fromStorage) {
   rsn = rsn.trim();
   if (!rsn) return;
@@ -386,6 +468,7 @@ async function applyRsn(rsn, fromStorage) {
     setStatus("filtering for <b>" + esc(rsn) + "</b> — combat " + profile.combat +
               ", total " + profile.total + ", " + profile.questsDone +
               " quests done (via WikiSync, updates when you log in with RuneLite)", "ok");
+    syncModeUi();
     render();
   } catch (e) {
     profile = null;
@@ -395,6 +478,7 @@ async function applyRsn(rsn, fromStorage) {
           "from the RuneLite Plugin Hub and log in to the game once, then retry."
         : "Couldn't reach WikiSync just now — try again in a minute.", "err");
     }
+    syncModeUi();
     render();
   }
 }
@@ -406,6 +490,7 @@ function clearRsn() {
   document.getElementById("rsnClear").hidden = true;
   setStatus("Money Makers &amp; Combat can be filtered to your account — needs the " +
             "<b>WikiSync</b> plugin in RuneLite (install it, log in once).");
+  syncModeUi();
   render();
 }
 
