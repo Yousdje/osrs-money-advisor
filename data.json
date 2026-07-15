@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-15T07:01:28Z",
+ "generated_at": "2026-07-15T09:45:41Z",
  "sections": [
   {
    "icon": "📈",
@@ -44,34 +44,34 @@
    "note": null,
    "items": [
     {
-     "name": "Guthix rest (3)→(4)",
+     "name": "Divine magic potion (3)→(4)",
      "line1": "buy (3) doses, decant free at Bob Barter, sell as (4)",
-     "rate": "+299/pot · ≈33.5K/hr",
-     "detail": "Buy (3) at 1,971 gp each, sell the (4) at 2,985 gp (margin is post-tax, incl. empty-vial credit). Realistic output 449 pots/4h (≈134.1K per 4h window), capped by both sides' volume."
+     "rate": "+554/pot · ≈26.7K/hr",
+     "detail": "Buy (3) at 2,188 gp each, sell the (4) at 3,541 gp (margin is post-tax, incl. empty-vial credit). Realistic output 193 pots/4h (≈107.0K per 4h window), capped by both sides' volume."
+    },
+    {
+     "name": "Stamina potion (1)→(4)",
+     "line1": "buy (1) doses, decant free at Bob Barter, sell as (4)",
+     "rate": "+203/pot · ≈25.4K/hr",
+     "detail": "Buy (1) at 870 gp each, sell the (4) at 3,752 gp (margin is post-tax, incl. empty-vial credit). Realistic output 500 pots/4h (≈101.5K per 4h window), capped by both sides' volume."
     },
     {
      "name": "Ranging potion (2)→(4)",
      "line1": "buy (2) doses, decant free at Bob Barter, sell as (4)",
-     "rate": "+148/pot · ≈20.4K/hr",
-     "detail": "Buy (2) at 937 gp each, sell the (4) at 2,061 gp (margin is post-tax, incl. empty-vial credit). Realistic output 550 pots/4h (≈81.4K per 4h window), capped by both sides' volume."
+     "rate": "+126/pot · ≈17.3K/hr",
+     "detail": "Buy (2) at 986 gp each, sell the (4) at 2,138 gp (margin is post-tax, incl. empty-vial credit). Realistic output 550 pots/4h (≈69.3K per 4h window), capped by both sides' volume."
     },
     {
-     "name": "Prayer potion (1)→(4)",
-     "line1": "buy (1) doses, decant free at Bob Barter, sell as (4)",
-     "rate": "+57/pot · ≈7.1K/hr",
-     "detail": "Buy (1) at 2,119 gp each, sell the (4) at 8,701 gp (margin is post-tax, incl. empty-vial credit). Realistic output 500 pots/4h (≈28.5K per 4h window), capped by both sides' volume."
-    },
-    {
-     "name": "Extended antifire (2)→(4)",
-     "line1": "buy (2) doses, decant free at Bob Barter, sell as (4)",
-     "rate": "+25/pot · ≈6.2K/hr",
-     "detail": "Buy (2) at 225 gp each, sell the (4) at 482 gp (margin is post-tax, incl. empty-vial credit). Realistic output 1,000 pots/4h (≈25.0K per 4h window), capped by both sides' volume."
-    },
-    {
-     "name": "Divine magic potion (3)→(4)",
+     "name": "Ranging potion (3)→(4)",
      "line1": "buy (3) doses, decant free at Bob Barter, sell as (4)",
-     "rate": "+100/pot · ≈4.8K/hr",
-     "detail": "Buy (3) at 2,529 gp each, sell the (4) at 3,541 gp (margin is post-tax, incl. empty-vial credit). Realistic output 193 pots/4h (≈19.2K per 4h window), capped by both sides' volume."
+     "rate": "+30/pot · ≈11.2K/hr",
+     "detail": "Buy (3) at 1,550 gp each, sell the (4) at 2,138 gp (margin is post-tax, incl. empty-vial credit). Realistic output 1,500 pots/4h (≈45.0K per 4h window), capped by both sides' volume."
+    },
+    {
+     "name": "Divine super combat potion (2)→(4)",
+     "line1": "buy (2) doses, decant free at Bob Barter, sell as (4)",
+     "rate": "+205/pot · ≈11.2K/hr",
+     "detail": "Buy (2) at 9,052 gp each, sell the (4) at 18,680 gp (margin is post-tax, incl. empty-vial credit). Realistic output 219 pots/4h (≈44.9K per 4h window), capped by both sides' volume."
     }
    ]
   },
@@ -104,32 +104,32 @@
     {
      "name": "Earth battlestaff",
      "line1": "buy → cast High Level Alchemy (55 Magic + nature runes)",
-     "rate": "+484/alch · ≈580.8K/hr",
-     "detail": "Buy at 8,679 gp, alch for 9,300 gp (nature rune already deducted). Supply-capped at 4,800 casts/4h — buy limit and daily volume, not the 1,200/hr cast rate, are usually the bottleneck."
-    },
-    {
-     "name": "Water battlestaff",
-     "line1": "buy → cast High Level Alchemy (55 Magic + nature runes)",
-     "rate": "+420/alch · ≈504.0K/hr",
-     "detail": "Buy at 8,743 gp, alch for 9,300 gp (nature rune already deducted). Supply-capped at 4,800 casts/4h — buy limit and daily volume, not the 1,200/hr cast rate, are usually the bottleneck."
+     "rate": "+440/alch · ≈528.0K/hr",
+     "detail": "Buy at 8,722 gp, alch for 9,300 gp (nature rune already deducted). Supply-capped at 4,800 casts/4h — buy limit and daily volume, not the 1,200/hr cast rate, are usually the bottleneck."
     },
     {
      "name": "Onyx bolts (e)",
      "line1": "buy → cast High Level Alchemy (55 Magic + nature runes)",
-     "rate": "+412/alch · ≈494.4K/hr",
+     "rate": "+411/alch · ≈493.2K/hr",
      "detail": "Buy at 8,451 gp, alch for 9,000 gp (nature rune already deducted). Supply-capped at 4,800 casts/4h — buy limit and daily volume, not the 1,200/hr cast rate, are usually the bottleneck."
     },
     {
      "name": "Air battlestaff",
      "line1": "buy → cast High Level Alchemy (55 Magic + nature runes)",
-     "rate": "+411/alch · ≈493.2K/hr",
+     "rate": "+410/alch · ≈492.0K/hr",
      "detail": "Buy at 8,752 gp, alch for 9,300 gp (nature rune already deducted). Supply-capped at 4,800 casts/4h — buy limit and daily volume, not the 1,200/hr cast rate, are usually the bottleneck."
     },
     {
      "name": "Fire battlestaff",
      "line1": "buy → cast High Level Alchemy (55 Magic + nature runes)",
-     "rate": "+401/alch · ≈481.2K/hr",
-     "detail": "Buy at 8,762 gp, alch for 9,300 gp (nature rune already deducted). Supply-capped at 4,800 casts/4h — buy limit and daily volume, not the 1,200/hr cast rate, are usually the bottleneck."
+     "rate": "+399/alch · ≈478.8K/hr",
+     "detail": "Buy at 8,763 gp, alch for 9,300 gp (nature rune already deducted). Supply-capped at 4,800 casts/4h — buy limit and daily volume, not the 1,200/hr cast rate, are usually the bottleneck."
+    },
+    {
+     "name": "Combat bracelet",
+     "line1": "buy → cast High Level Alchemy (55 Magic + nature runes)",
+     "rate": "+391/alch · ≈469.2K/hr",
+     "detail": "Buy at 12,095 gp, alch for 12,624 gp (nature rune already deducted). Supply-capped at 4,800 casts/4h — buy limit and daily volume, not the 1,200/hr cast rate, are usually the bottleneck."
     }
    ]
   },
@@ -1354,30 +1354,6 @@
      "minCombat": null
     },
     {
-     "name": "Cutting raw marlin",
-     "line1": "Cooking 90+, Cooking 99+ (rec)",
-     "rate": "953.1K/hr",
-     "badge": "MODERATE",
-     "elite": null,
-     "intensity": "moderate",
-     "detail": "Requires Cooking 90+, Cooking 99+ (rec). Setup: Chum spreader. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Cutting_raw_marlin",
-     "reqs": [
-      {
-       "s": "Cooking",
-       "l": 90,
-       "rec": false
-      },
-      {
-       "s": "Cooking",
-       "l": 99,
-       "rec": true
-      }
-     ],
-     "quests": [],
-     "minCombat": null
-    },
-    {
      "name": "Degriming grimy toadflax",
      "line1": "Herblore 50, Magic 70",
      "rate": "937.2K/hr",
@@ -1509,25 +1485,6 @@
      "quests": [
       "Pandemonium"
      ],
-     "minCombat": null
-    },
-    {
-     "name": "Making mahogany planks at the Woodcutting Guild",
-     "line1": "Woodcutting 60",
-     "rate": "894.3K/hr",
-     "badge": "MODERATE",
-     "elite": null,
-     "intensity": "moderate",
-     "detail": "Requires Woodcutting 60. Setup: Weight-reducing clothing. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_mahogany_planks_at_the_Woodcutting_Guild",
-     "reqs": [
-      {
-       "s": "Woodcutting",
-       "l": 60,
-       "rec": false
-      }
-     ],
-     "quests": [],
      "minCombat": null
     },
     {
@@ -2100,25 +2057,6 @@
      "minCombat": null
     },
     {
-     "name": "Making raw admiral pies",
-     "line1": "Cooking 70",
-     "rate": "529.2K/hr",
-     "badge": "HIGH",
-     "elite": null,
-     "intensity": "high",
-     "detail": "Requires Cooking 70. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_raw_admiral_pies",
-     "reqs": [
-      {
-       "s": "Cooking",
-       "l": 70,
-       "rec": false
-      }
-     ],
-     "quests": [],
-     "minCombat": null
-    },
-    {
      "name": "Smelting adamantite bars (Superheat Item)",
      "line1": "Smithing 70, Magic 43",
      "rate": "524.4K/hr",
@@ -2136,6 +2074,25 @@
       {
        "s": "Magic",
        "l": 43,
+       "rec": false
+      }
+     ],
+     "quests": [],
+     "minCombat": null
+    },
+    {
+     "name": "Charging and alchemising bracelets of ethereum",
+     "line1": "Magic 55",
+     "rate": "522.8K/hr",
+     "badge": "MODERATE",
+     "elite": null,
+     "intensity": "moderate",
+     "detail": "Requires Magic 55. Setup: Staff of fire. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Charging_and_alchemising_bracelets_of_ethereum",
+     "reqs": [
+      {
+       "s": "Magic",
+       "l": 55,
        "rec": false
       }
      ],
@@ -2270,19 +2227,6 @@
      "minCombat": null
     },
     {
-     "name": "Grinding unicorn horns",
-     "line1": "Pestle and mortar",
-     "rate": "450.4K/hr",
-     "badge": "MODERATE",
-     "elite": null,
-     "intensity": "moderate",
-     "detail": "Setup: Pestle and mortar. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Grinding_unicorn_horns",
-     "reqs": [],
-     "quests": [],
-     "minCombat": null
-    },
-    {
      "name": "Cleaning grimy torstol",
      "line1": "Herblore 75",
      "rate": "440.0K/hr",
@@ -2411,6 +2355,27 @@
      "minCombat": null
     },
     {
+     "name": "Making teak planks",
+     "line1": "Firemaking 50",
+     "rate": "396.2K/hr",
+     "badge": "MODERATE",
+     "elite": null,
+     "intensity": "moderate",
+     "detail": "Requires Firemaking 50. Quests: Enlightened Journey. Setup: Weight-reducing clothing, Rings of dueling, Coins, Teak logs, Willow logs, Varrock, Castle Wars, Balloon transport system, Willow Logs, Yew Logs. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_teak_planks",
+     "reqs": [
+      {
+       "s": "Firemaking",
+       "l": 50,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "Enlightened Journey"
+     ],
+     "minCombat": null
+    },
+    {
      "name": "Degriming grimy marrentill",
      "line1": "Herblore 50, Magic 70",
      "rate": "386.4K/hr",
@@ -2458,27 +2423,6 @@
      "minCombat": null
     },
     {
-     "name": "Making teak planks",
-     "line1": "Firemaking 50",
-     "rate": "379.4K/hr",
-     "badge": "MODERATE",
-     "elite": null,
-     "intensity": "moderate",
-     "detail": "Requires Firemaking 50. Quests: Enlightened Journey. Setup: Weight-reducing clothing, Rings of dueling, Coins, Teak logs, Willow logs, Varrock, Castle Wars, Balloon transport system, Willow Logs, Yew Logs. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_teak_planks",
-     "reqs": [
-      {
-       "s": "Firemaking",
-       "l": 50,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "Enlightened Journey"
-     ],
-     "minCombat": null
-    },
-    {
      "name": "Cleaning grimy kwuarm",
      "line1": "Herblore 54",
      "rate": "375.0K/hr",
@@ -2497,19 +2441,6 @@
      "quests": [
       "Druidic Ritual"
      ],
-     "minCombat": null
-    },
-    {
-     "name": "Crushing bird nests",
-     "line1": "Pestle and mortar, Bird nest (empty)",
-     "rate": "375.0K/hr",
-     "badge": "MODERATE",
-     "elite": null,
-     "intensity": "moderate",
-     "detail": "Setup: Pestle and mortar, Bird nest (empty). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Crushing_bird_nests",
-     "reqs": [],
-     "quests": [],
      "minCombat": null
     },
     {
@@ -2544,6 +2475,19 @@
      "quests": [
       "The Giant Dwarf"
      ],
+     "minCombat": null
+    },
+    {
+     "name": "Crushing bird nests",
+     "line1": "Pestle and mortar, Bird nest (empty)",
+     "rate": "365.0K/hr",
+     "badge": "MODERATE",
+     "elite": null,
+     "intensity": "moderate",
+     "detail": "Setup: Pestle and mortar, Bird nest (empty). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Crushing_bird_nests",
+     "reqs": [],
+     "quests": [],
      "minCombat": null
     },
     {
@@ -2714,34 +2658,16 @@
      "minCombat": null
     },
     {
-     "name": "Growing magic saplings",
-     "line1": "Farming 75, Magic 68, Combat 85",
-     "rate": "308.4K/hr",
-     "badge": null,
+     "name": "Grinding unicorn horns",
+     "line1": "Pestle and mortar",
+     "rate": "324.6K/hr",
+     "badge": "MODERATE",
      "elite": null,
-     "intensity": "04:00:00",
-     "detail": "Requires Farming 75, Magic 68, Combat 85. Quests: Dream Mentor. Setup: Steam battlestaff, Gardening trowel, Lunar Spellbook. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Growing_magic_saplings",
-     "reqs": [
-      {
-       "s": "Farming",
-       "l": 75,
-       "rec": false
-      },
-      {
-       "s": "Magic",
-       "l": 68,
-       "rec": false
-      },
-      {
-       "s": "Combat",
-       "l": 85,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "Dream Mentor"
-     ],
+     "intensity": "moderate",
+     "detail": "Setup: Pestle and mortar. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Grinding_unicorn_horns",
+     "reqs": [],
+     "quests": [],
      "minCombat": null
     },
     {
@@ -2799,19 +2725,6 @@
      "quests": [
       "Bone Voyage"
      ],
-     "minCombat": null
-    },
-    {
-     "name": "Recharging rings of wealth",
-     "line1": "Wilderness sword 4",
-     "rate": "280.8K/hr",
-     "badge": "MODERATE",
-     "elite": null,
-     "intensity": "moderate",
-     "detail": "Setup: Wilderness sword 4. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Recharging_rings_of_wealth",
-     "reqs": [],
-     "quests": [],
      "minCombat": null
     },
     {
@@ -3029,6 +2942,19 @@
      "minCombat": null
     },
     {
+     "name": "Making pastry dough",
+     "line1": "Processing",
+     "rate": "228.0K/hr",
+     "badge": "MODERATE",
+     "elite": null,
+     "intensity": "moderate",
+     "detail": "Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_pastry_dough",
+     "reqs": [],
+     "quests": [],
+     "minCombat": null
+    },
+    {
      "name": "Collecting steel platebodies",
      "line1": "Prayer 43 (rec), Magic 25 (rec), Magic 25",
      "rate": "227.0K/hr",
@@ -3058,73 +2984,15 @@
      "minCombat": null
     },
     {
-     "name": "Growing palm saplings",
-     "line1": "Farming 68, Magic 68, Combat 85",
-     "rate": "226.8K/hr",
-     "badge": null,
+     "name": "Creating crystal keys",
+     "line1": "Processing",
+     "rate": "219.9K/hr",
+     "badge": "HIGH",
      "elite": null,
-     "intensity": "04:00:00",
-     "detail": "Requires Farming 68, Magic 68, Combat 85. Quests: Dream Mentor. Setup: Steam battlestaff, Gardening trowel, Lunar Spellbook. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Growing_palm_saplings",
-     "reqs": [
-      {
-       "s": "Farming",
-       "l": 68,
-       "rec": false
-      },
-      {
-       "s": "Magic",
-       "l": 68,
-       "rec": false
-      },
-      {
-       "s": "Combat",
-       "l": 85,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "Dream Mentor"
-     ],
-     "minCombat": null
-    },
-    {
-     "name": "Growing coral",
-     "line1": "Farming 28",
-     "rate": "216.3K/hr",
-     "badge": null,
-     "elite": null,
-     "intensity": "02:40:00",
-     "detail": "Requires Farming 28. Quests: Troubled Tortugans. Setup: Medallion of the deep, fishbowl helmet, diving apparatus. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Growing_coral",
-     "reqs": [
-      {
-       "s": "Farming",
-       "l": 28,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "Troubled Tortugans"
-     ],
-     "minCombat": null
-    },
-    {
-     "name": "Charging and alchemising bracelets of ethereum",
-     "line1": "Magic 55",
-     "rate": "215.7K/hr",
-     "badge": "MODERATE",
-     "elite": null,
-     "intensity": "moderate",
-     "detail": "Requires Magic 55. Setup: Staff of fire. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Charging_and_alchemising_bracelets_of_ethereum",
-     "reqs": [
-      {
-       "s": "Magic",
-       "l": 55,
-       "rec": false
-      }
-     ],
+     "intensity": "high",
+     "detail": "Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Creating_crystal_keys",
+     "reqs": [],
      "quests": [],
      "minCombat": null
     },
@@ -3345,47 +3213,6 @@
      "minCombat": null
     },
     {
-     "name": "Farming ranarr weed",
-     "line1": "Farming 32, Magic 61 (rec), Agility 47 (rec), Agility 73",
-     "rate": "166.5K/hr",
-     "badge": null,
-     "elite": null,
-     "intensity": "01:30:00",
-     "detail": "Requires Farming 32, Magic 61 (rec), Agility 47 (rec), Agility 73. Quests: Ghosts Ahoy, My Arm's Big Adventure, Fairytale I - Growing Pains, Making Friends with My Arm, Dream Mentor, Children of the Sun. Setup: Amulet of nature, Magic secateurs, Ranarr seed, Smoke staff, Mud staff, Steam staff, Lava staff, runes, teleportation, spells, Player-Owned House, Ectophial, Explorer's ring 2, Explorer's ring 3, Explorer's ring 4, Trollheim Teleport, Stony basalt, Camelot Teleport, Catherby Teleport, Ardougne Teleport, Ardougne cloak 2, Ardougne cloak 3, Ardougne cloak 4, Xeric's Talisman, Tithe Farm, Kharedst's memoirs, Skills necklace, Icy basalt, Quetzal whistle, Civitas illa Fortis Teleport, Harmony Island Teleport, Harmony Island, herb patch, Tool leprechaun, seed dibber, spade, rake, Ultracompost, Medium Lumbridge & Draynor Diary, Falador farm, Medium Ardougne Diary, Ardougne, Elite Morytania Diary. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Farming_ranarr_weed",
-     "reqs": [
-      {
-       "s": "Farming",
-       "l": 32,
-       "rec": false
-      },
-      {
-       "s": "Magic",
-       "l": 61,
-       "rec": true
-      },
-      {
-       "s": "Agility",
-       "l": 47,
-       "rec": true
-      },
-      {
-       "s": "Agility",
-       "l": 73,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "Ghosts Ahoy",
-      "My Arm's Big Adventure",
-      "Fairytale I - Growing Pains",
-      "Making Friends with My Arm",
-      "Dream Mentor",
-      "Children of the Sun"
-     ],
-     "minCombat": null
-    },
-    {
      "name": "Picking bananas",
      "line1": "Amulet of glory",
      "rate": "163.6K/hr",
@@ -3415,30 +3242,6 @@
       }
      ],
      "quests": [],
-     "minCombat": null
-    },
-    {
-     "name": "Farming cotton bolls",
-     "line1": "Farming 71 (rec)",
-     "rate": "160.9K/hr",
-     "badge": null,
-     "elite": null,
-     "intensity": "01:00:00",
-     "detail": "Requires Farming 71 (rec). Quests: Fairytale I - Growing Pains, Watchtower, Enlightened Journey, Children of the Sun. Setup: Seed dibber, spade, rake, Magic secateurs, Bottomless compost bucket, Chronicle, Hard Ardougne Diary, Watchtower Teleport, Hard Kandarin Diary, Camelot Teleport. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Farming_cotton_bolls",
-     "reqs": [
-      {
-       "s": "Farming",
-       "l": 71,
-       "rec": true
-      }
-     ],
-     "quests": [
-      "Fairytale I - Growing Pains",
-      "Watchtower",
-      "Enlightened Journey",
-      "Children of the Sun"
-     ],
      "minCombat": null
     },
     {
@@ -3556,166 +3359,6 @@
      "minCombat": null
     },
     {
-     "name": "Farming kwuarm",
-     "line1": "Farming 56, Magic 61 (rec), Agility 47 (rec), Agility 73",
-     "rate": "151.8K/hr",
-     "badge": null,
-     "elite": null,
-     "intensity": "01:30:00",
-     "detail": "Requires Farming 56, Magic 61 (rec), Agility 47 (rec), Agility 73. Quests: Ghosts Ahoy, My Arm's Big Adventure, Fairytale I - Growing Pains, Making Friends with My Arm, Dream Mentor. Setup: Amulet of nature, Magic secateurs, Kwuarm seed, Smoke staff, Mud staff, Steam staff, Lava staff, runes, teleportation, spells, Player-Owned House, Ectophial, Explorer's ring 2, Explorer's ring 3, Explorer's ring 4, Trollheim Teleport, Stony basalt, Camelot Teleport, Catherby Teleport, Ardougne Teleport, Ardougne cloak 2, Ardougne cloak 3, Ardougne cloak 4, Xeric's Talisman, Tithe Farm, Kharedst's memoirs, Skills necklace, Icy basalt, Harmony Island Teleport, Harmony Island, herb patch, Tool leprechaun, seed dibber, spade, rake, Ultracompost, Easy Kourend & Kebos Diary, Disease (Farming), Hosidius, Medium Lumbridge & Draynor Diary, Falador farm, Medium Ardougne Diary, Ardougne, Elite Morytania Diary. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Farming_kwuarm",
-     "reqs": [
-      {
-       "s": "Farming",
-       "l": 56,
-       "rec": false
-      },
-      {
-       "s": "Magic",
-       "l": 61,
-       "rec": true
-      },
-      {
-       "s": "Agility",
-       "l": 47,
-       "rec": true
-      },
-      {
-       "s": "Agility",
-       "l": 73,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "Ghosts Ahoy",
-      "My Arm's Big Adventure",
-      "Fairytale I - Growing Pains",
-      "Making Friends with My Arm",
-      "Dream Mentor"
-     ],
-     "minCombat": null
-    },
-    {
-     "name": "Farming snapdragon",
-     "line1": "Farming 62, Magic 61 (rec), Agility 47 (rec), Agility 73",
-     "rate": "145.2K/hr",
-     "badge": null,
-     "elite": null,
-     "intensity": "01:30:00",
-     "detail": "Requires Farming 62, Magic 61 (rec), Agility 47 (rec), Agility 73. Quests: Ghosts Ahoy, My Arm's Big Adventure, Fairytale I - Growing Pains, Making Friends with My Arm, Dream Mentor. Setup: Amulet of nature, Magic secateurs, Snapdragon seed, Smoke staff, Mud staff, Steam staff, Lava staff, runes, teleportation, spells, Player-Owned House, Ectophial, Explorer's ring 2, Explorer's ring 3, Explorer's ring 4, Trollheim Teleport, Stony basalt, Camelot Teleport, Catherby Teleport, Ardougne Teleport, Ardougne cloak 2, Ardougne cloak 3, Ardougne cloak 4, Xeric's Talisman, Tithe Farm, Kharedst's memoirs, Skills necklace, Icy basalt, Harmony Island Teleport, Harmony Island, herb patch, Tool leprechaun, seed dibber, spade, rake, Ultracompost, Easy Kourend & Kebos Diary, Disease (Farming), Hosidius, Medium Lumbridge & Draynor Diary, Falador farm, Medium Ardougne Diary, Ardougne, Elite Morytania Diary. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Farming_snapdragon",
-     "reqs": [
-      {
-       "s": "Farming",
-       "l": 62,
-       "rec": false
-      },
-      {
-       "s": "Magic",
-       "l": 61,
-       "rec": true
-      },
-      {
-       "s": "Agility",
-       "l": 47,
-       "rec": true
-      },
-      {
-       "s": "Agility",
-       "l": 73,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "Ghosts Ahoy",
-      "My Arm's Big Adventure",
-      "Fairytale I - Growing Pains",
-      "Making Friends with My Arm",
-      "Dream Mentor"
-     ],
-     "minCombat": null
-    },
-    {
-     "name": "Farming cadantine",
-     "line1": "Farming 67, Magic 61 (rec), Agility 47 (rec), Agility 73",
-     "rate": "140.3K/hr",
-     "badge": null,
-     "elite": null,
-     "intensity": "01:30:00",
-     "detail": "Requires Farming 67, Magic 61 (rec), Agility 47 (rec), Agility 73. Quests: Ghosts Ahoy, My Arm's Big Adventure, Fairytale I - Growing Pains, Making Friends with My Arm, Dream Mentor. Setup: Amulet of nature, Magic secateurs, Cadantine seed, Smoke staff, Mud staff, Steam staff, Lava staff, runes, teleportation, spells, Player-Owned House, Ectophial, Explorer's ring 2, Explorer's ring 3, Explorer's ring 4, Trollheim Teleport, Stony basalt, Camelot Teleport, Catherby Teleport, Ardougne Teleport, Ardougne cloak 2, Ardougne cloak 3, Ardougne cloak 4, Xeric's Talisman, Tithe Farm, Kharedst's memoirs, Skills necklace, Icy basalt, Harmony Island Teleport, Harmony Island, herb patch, Tool leprechaun, seed dibber, spade, rake, Ultracompost, Easy Kourend & Kebos Diary, Disease (Farming), Hosidius, Medium Lumbridge & Draynor Diary, Falador farm, Medium Ardougne Diary, Ardougne, Elite Morytania Diary. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Farming_cadantine",
-     "reqs": [
-      {
-       "s": "Farming",
-       "l": 67,
-       "rec": false
-      },
-      {
-       "s": "Magic",
-       "l": 61,
-       "rec": true
-      },
-      {
-       "s": "Agility",
-       "l": 47,
-       "rec": true
-      },
-      {
-       "s": "Agility",
-       "l": 73,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "Ghosts Ahoy",
-      "My Arm's Big Adventure",
-      "Fairytale I - Growing Pains",
-      "Making Friends with My Arm",
-      "Dream Mentor"
-     ],
-     "minCombat": null
-    },
-    {
-     "name": "Farming huasca",
-     "line1": "Farming 65, Magic 61 (rec), Agility 47 (rec), Agility 73",
-     "rate": "139.4K/hr",
-     "badge": null,
-     "elite": null,
-     "intensity": "01:30:00",
-     "detail": "Requires Farming 65, Magic 61 (rec), Agility 47 (rec), Agility 73. Quests: Ghosts Ahoy, My Arm's Big Adventure, Fairytale I - Growing Pains, Making Friends with My Arm, Dream Mentor. Setup: Amulet of nature, Magic secateurs, Huasca seed, Smoke staff, Mud staff, Steam staff, Lava staff, runes, teleportation, spells, Player-Owned House, Ectophial, Explorer's ring 2, Explorer's ring 3, Explorer's ring 4, Trollheim Teleport, Stony basalt, Camelot Teleport, Catherby Teleport, Ardougne Teleport, Ardougne cloak 2, Ardougne cloak 3, Ardougne cloak 4, Xeric's Talisman, Tithe Farm, Kharedst's memoirs, Skills necklace, Icy basalt, Harmony Island Teleport, Harmony Island, herb patch, Tool leprechaun, seed dibber, spade, rake, Ultracompost, Medium Lumbridge & Draynor Diary, Falador farm, Medium Ardougne Diary, Ardougne, Elite Morytania Diary. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Farming_huasca",
-     "reqs": [
-      {
-       "s": "Farming",
-       "l": 65,
-       "rec": false
-      },
-      {
-       "s": "Magic",
-       "l": 61,
-       "rec": true
-      },
-      {
-       "s": "Agility",
-       "l": 47,
-       "rec": true
-      },
-      {
-       "s": "Agility",
-       "l": 73,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "Ghosts Ahoy",
-      "My Arm's Big Adventure",
-      "Fairytale I - Growing Pains",
-      "Making Friends with My Arm",
-      "Dream Mentor"
-     ],
-     "minCombat": null
-    },
-    {
      "name": "Cleaning grimy dwarf weed",
      "line1": "Herblore 70",
      "rate": "135.0K/hr",
@@ -3733,46 +3376,6 @@
      ],
      "quests": [
       "Druidic Ritual"
-     ],
-     "minCombat": null
-    },
-    {
-     "name": "Farming toadflax",
-     "line1": "Farming 38, Magic 61 (rec), Agility 47 (rec), Agility 73",
-     "rate": "132.2K/hr",
-     "badge": null,
-     "elite": null,
-     "intensity": "01:30:00",
-     "detail": "Requires Farming 38, Magic 61 (rec), Agility 47 (rec), Agility 73. Quests: Ghosts Ahoy, My Arm's Big Adventure, Fairytale I - Growing Pains, Making Friends with My Arm, Dream Mentor. Setup: Amulet of nature, Magic secateurs, Toadflax seed, Smoke staff, Mud staff, Steam staff, Lava staff, runes, teleportation, spells, Player-Owned House, Ectophial, Explorer's ring 2, Explorer's ring 3, Explorer's ring 4, Trollheim Teleport, Stony basalt, Camelot Teleport, Catherby Teleport, Ardougne Teleport, Ardougne cloak 2, Ardougne cloak 3, Ardougne cloak 4, Xeric's Talisman, Tithe Farm, Kharedst's memoirs, Skills necklace, Icy basalt, Harmony Island Teleport, Harmony Island, herb patch, Tool leprechaun, seed dibber, spade, rake, Ultracompost, Easy Kourend & Kebos Diary, Disease (Farming), Hosidius, Medium Lumbridge & Draynor Diary, Falador farm, Medium Ardougne Diary, Ardougne, Elite Morytania Diary. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Farming_toadflax",
-     "reqs": [
-      {
-       "s": "Farming",
-       "l": 38,
-       "rec": false
-      },
-      {
-       "s": "Magic",
-       "l": 61,
-       "rec": true
-      },
-      {
-       "s": "Agility",
-       "l": 47,
-       "rec": true
-      },
-      {
-       "s": "Agility",
-       "l": 73,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "Ghosts Ahoy",
-      "My Arm's Big Adventure",
-      "Fairytale I - Growing Pains",
-      "Making Friends with My Arm",
-      "Dream Mentor"
      ],
      "minCombat": null
     },
@@ -3795,19 +3398,6 @@
      "quests": [
       "Druidic Ritual"
      ],
-     "minCombat": null
-    },
-    {
-     "name": "Exchanging mole parts",
-     "line1": "5,122,000",
-     "rate": "128.1K/hr",
-     "badge": null,
-     "elite": null,
-     "intensity": "04:00:00",
-     "detail": "Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Exchanging_mole_parts",
-     "reqs": [],
-     "quests": [],
      "minCombat": null
     },
     {
@@ -3837,46 +3427,6 @@
      "minCombat": null
     },
     {
-     "name": "Farming torstol",
-     "line1": "Farming 85, Magic 61 (rec), Agility 47 (rec), Agility 73",
-     "rate": "120.9K/hr",
-     "badge": null,
-     "elite": null,
-     "intensity": "01:30:00",
-     "detail": "Requires Farming 85, Magic 61 (rec), Agility 47 (rec), Agility 73. Quests: Ghosts Ahoy, My Arm's Big Adventure, Fairytale I - Growing Pains, Making Friends with My Arm, Dream Mentor. Setup: Amulet of nature, Magic secateurs, Torstol seed, Smoke staff, Mud staff, Steam staff, Lava staff, runes, teleportation, spells, Player-Owned House, Ectophial, Explorer's ring 2, Explorer's ring 3, Explorer's ring 4, Trollheim Teleport, Stony basalt, Camelot Teleport, Catherby Teleport, Ardougne Teleport, Ardougne cloak 2, Ardougne cloak 3, Ardougne cloak 4, Xeric's Talisman, Tithe Farm, Kharedst's memoirs, Skills necklace, Icy basalt, Harmony Island Teleport, Harmony Island, herb patch, Tool leprechaun, seed dibber, spade, rake, Ultracompost, Easy Kourend & Kebos Diary, Disease (Farming), Hosidius, Medium Lumbridge & Draynor Diary, Falador farm, Medium Ardougne Diary, Ardougne, Elite Morytania Diary. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Farming_torstol",
-     "reqs": [
-      {
-       "s": "Farming",
-       "l": 85,
-       "rec": false
-      },
-      {
-       "s": "Magic",
-       "l": 61,
-       "rec": true
-      },
-      {
-       "s": "Agility",
-       "l": 47,
-       "rec": true
-      },
-      {
-       "s": "Agility",
-       "l": 73,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "Ghosts Ahoy",
-      "My Arm's Big Adventure",
-      "Fairytale I - Growing Pains",
-      "Making Friends with My Arm",
-      "Dream Mentor"
-     ],
-     "minCombat": null
-    },
-    {
      "name": "Mining clay members",
      "line1": "Pickaxe, Chronicle, Ring of dueling, Varrock armour 1",
      "rate": "110.3K/hr",
@@ -3887,21 +3437,6 @@
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Mining_clay_members",
      "reqs": [],
      "quests": [],
-     "minCombat": null
-    },
-    {
-     "name": "Making redwood pyre logs",
-     "line1": "Coins",
-     "rate": "107.9K/hr",
-     "badge": "MODERATE",
-     "elite": null,
-     "intensity": "moderate",
-     "detail": "Quests: Shades of Mort'ton. Setup: Coins. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_redwood_pyre_logs",
-     "reqs": [],
-     "quests": [
-      "Shades of Mort'ton"
-     ],
      "minCombat": null
     },
     {
@@ -3930,86 +3465,6 @@
       "Skippy and the Mogres"
      ],
      "minCombat": null
-    },
-    {
-     "name": "Farming irit leaves",
-     "line1": "Farming 44, Magic 61 (rec), Agility 47 (rec), Agility 73",
-     "rate": "103.1K/hr",
-     "badge": null,
-     "elite": null,
-     "intensity": "01:30:00",
-     "detail": "Requires Farming 44, Magic 61 (rec), Agility 47 (rec), Agility 73. Quests: Ghosts Ahoy, My Arm's Big Adventure, Fairytale I - Growing Pains, Making Friends with My Arm, Dream Mentor. Setup: Amulet of nature, Magic secateurs, Irit seed, Smoke staff, Mud staff, Steam staff, Lava staff, runes, teleportation, spells, Player-Owned House, Ectophial, Explorer's ring 2, Explorer's ring 3, Explorer's ring 4, Trollheim Teleport, Stony basalt, Camelot Teleport, Catherby Teleport, Ardougne Teleport, Ardougne cloak 2, Ardougne cloak 3, Ardougne cloak 4, Xeric's Talisman, Tithe Farm, Kharedst's memoirs, Skills necklace, Icy basalt, Harmony Island Teleport, Harmony Island, herb patch, Tool leprechaun, seed dibber, spade, rake, Ultracompost, Easy Kourend & Kebos Diary, Disease (Farming), Hosidius, Medium Lumbridge & Draynor Diary, Falador farm, Medium Ardougne Diary, Ardougne, Elite Morytania Diary. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Farming_irit_leaves",
-     "reqs": [
-      {
-       "s": "Farming",
-       "l": 44,
-       "rec": false
-      },
-      {
-       "s": "Magic",
-       "l": 61,
-       "rec": true
-      },
-      {
-       "s": "Agility",
-       "l": 47,
-       "rec": true
-      },
-      {
-       "s": "Agility",
-       "l": 73,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "Ghosts Ahoy",
-      "My Arm's Big Adventure",
-      "Fairytale I - Growing Pains",
-      "Making Friends with My Arm",
-      "Dream Mentor"
-     ],
-     "minCombat": null
-    },
-    {
-     "name": "Farming dwarf weed",
-     "line1": "Farming 79, Magic 61 (rec), Agility 47 (rec), Agility 73",
-     "rate": "102.7K/hr",
-     "badge": null,
-     "elite": null,
-     "intensity": "01:30:00",
-     "detail": "Requires Farming 79, Magic 61 (rec), Agility 47 (rec), Agility 73. Quests: Ghosts Ahoy, My Arm's Big Adventure, Fairytale I - Growing Pains, Making Friends with My Arm, Dream Mentor. Setup: Amulet of nature, Magic secateurs, Dwarf weed seed, Smoke staff, Mud staff, Steam staff, Lava staff, runes, teleportation, spells, Player-Owned House, Ectophial, Explorer's ring 2, Explorer's ring 3, Explorer's ring 4, Trollheim Teleport, Stony basalt, Camelot Teleport, Catherby Teleport, Ardougne Teleport, Ardougne cloak 2, Ardougne cloak 3, Ardougne cloak 4, Xeric's Talisman, Tithe Farm, Kharedst's memoirs, Skills necklace, Icy basalt, Harmony Island Teleport, Harmony Island, herb patch, Tool leprechaun, seed dibber, spade, rake, Ultracompost, Easy Kourend & Kebos Diary, Disease (Farming), Hosidius, Medium Lumbridge & Draynor Diary, Falador farm, Medium Ardougne Diary, Ardougne, Elite Morytania Diary. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Farming_dwarf_weed",
-     "reqs": [
-      {
-       "s": "Farming",
-       "l": 79,
-       "rec": false
-      },
-      {
-       "s": "Magic",
-       "l": 61,
-       "rec": true
-      },
-      {
-       "s": "Agility",
-       "l": 47,
-       "rec": true
-      },
-      {
-       "s": "Agility",
-       "l": 73,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "Ghosts Ahoy",
-      "My Arm's Big Adventure",
-      "Fairytale I - Growing Pains",
-      "Making Friends with My Arm",
-      "Dream Mentor"
-     ],
-     "minCombat": null
     }
    ]
   },
@@ -4020,24 +3475,16 @@
    "personal": true,
    "items": [
     {
-     "name": "Making irit potions",
-     "line1": "Herblore 45",
+     "name": "Tanning blue dragonhide",
+     "line1": "Weight-reducing clothing, Energy potion, Blue dragonhide",
      "rate": "1.4M/hr",
      "badge": "LOW",
      "elite": null,
      "intensity": "low",
-     "detail": "Requires Herblore 45. Quests: Druidic Ritual. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_irit_potions",
-     "reqs": [
-      {
-       "s": "Herblore",
-       "l": 45,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "Druidic Ritual"
-     ],
+     "detail": "Setup: Weight-reducing clothing, Energy potion, Blue dragonhide. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Tanning_blue_dragonhide",
+     "reqs": [],
+     "quests": [],
      "minCombat": null
     },
     {
@@ -4063,27 +3510,6 @@
      ],
      "quests": [
       "Children of the Sun"
-     ],
-     "minCombat": null
-    },
-    {
-     "name": "Making lantadyme potions",
-     "line1": "Herblore 69",
-     "rate": "1.1M/hr",
-     "badge": "LOW",
-     "elite": null,
-     "intensity": "low",
-     "detail": "Requires Herblore 69. Quests: Druidic Ritual. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_lantadyme_potions",
-     "reqs": [
-      {
-       "s": "Herblore",
-       "l": 69,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "Druidic Ritual"
      ],
      "minCombat": null
     },
@@ -4138,6 +3564,61 @@
      "minCombat": null
     },
     {
+     "name": "Tanning red dragonhide",
+     "line1": "Weight-reducing clothing, Energy potion, Red dragonhide",
+     "rate": "1.1M/hr",
+     "badge": "LOW",
+     "elite": null,
+     "intensity": "low",
+     "detail": "Setup: Weight-reducing clothing, Energy potion, Red dragonhide. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Tanning_red_dragonhide",
+     "reqs": [],
+     "quests": [],
+     "minCombat": null
+    },
+    {
+     "name": "Making kwuarm potions",
+     "line1": "Herblore 55",
+     "rate": "1.0M/hr",
+     "badge": "LOW",
+     "elite": null,
+     "intensity": "low",
+     "detail": "Requires Herblore 55. Quests: Druidic Ritual. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_kwuarm_potions",
+     "reqs": [
+      {
+       "s": "Herblore",
+       "l": 55,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "Druidic Ritual"
+     ],
+     "minCombat": null
+    },
+    {
+     "name": "Making snapdragon potions",
+     "line1": "Herblore 63",
+     "rate": "1.0M/hr",
+     "badge": "LOW",
+     "elite": null,
+     "intensity": "low",
+     "detail": "Requires Herblore 63. Quests: Druidic Ritual. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_snapdragon_potions",
+     "reqs": [
+      {
+       "s": "Herblore",
+       "l": 63,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "Druidic Ritual"
+     ],
+     "minCombat": null
+    },
+    {
      "name": "Crafting soul runes",
      "line1": "Runecraft 90, Mining 38, Crafting 38, Hitpoints 70+",
      "rate": "1.0M/hr",
@@ -4170,6 +3651,27 @@
      ],
      "quests": [
       "Enter the Abyss"
+     ],
+     "minCombat": null
+    },
+    {
+     "name": "Making ranarr potions",
+     "line1": "Herblore 30",
+     "rate": "1.0M/hr",
+     "badge": "LOW",
+     "elite": null,
+     "intensity": "low",
+     "detail": "Requires Herblore 30. Quests: Druidic Ritual. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_ranarr_potions",
+     "reqs": [
+      {
+       "s": "Herblore",
+       "l": 30,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "Druidic Ritual"
      ],
      "minCombat": null
     },
@@ -4229,82 +3731,6 @@
      "minCombat": null
     },
     {
-     "name": "Making cadantine potions",
-     "line1": "Herblore 66",
-     "rate": "976.0K/hr",
-     "badge": "LOW",
-     "elite": null,
-     "intensity": "low",
-     "detail": "Requires Herblore 66. Quests: Druidic Ritual. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_cadantine_potions",
-     "reqs": [
-      {
-       "s": "Herblore",
-       "l": 66,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "Druidic Ritual"
-     ],
-     "minCombat": null
-    },
-    {
-     "name": "Making snapdragon potions",
-     "line1": "Herblore 63",
-     "rate": "948.0K/hr",
-     "badge": "LOW",
-     "elite": null,
-     "intensity": "low",
-     "detail": "Requires Herblore 63. Quests: Druidic Ritual. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_snapdragon_potions",
-     "reqs": [
-      {
-       "s": "Herblore",
-       "l": 63,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "Druidic Ritual"
-     ],
-     "minCombat": null
-    },
-    {
-     "name": "Tanning red dragonhide",
-     "line1": "Weight-reducing clothing, Energy potion, Red dragonhide",
-     "rate": "945.5K/hr",
-     "badge": "LOW",
-     "elite": null,
-     "intensity": "low",
-     "detail": "Setup: Weight-reducing clothing, Energy potion, Red dragonhide. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Tanning_red_dragonhide",
-     "reqs": [],
-     "quests": [],
-     "minCombat": null
-    },
-    {
-     "name": "Making dwarf weed potions",
-     "line1": "Herblore 72",
-     "rate": "944.0K/hr",
-     "badge": "LOW",
-     "elite": null,
-     "intensity": "low",
-     "detail": "Requires Herblore 72. Quests: Druidic Ritual. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_dwarf_weed_potions",
-     "reqs": [
-      {
-       "s": "Herblore",
-       "l": 72,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "Druidic Ritual"
-     ],
-     "minCombat": null
-    },
-    {
      "name": "Crafting blood runes at Arceuus (no diary)",
      "line1": "Runecraft 77, Mining 38, Crafting 38, Agility 73+ (rec)",
      "rate": "941.7K/hr",
@@ -4336,27 +3762,6 @@
       }
      ],
      "quests": [],
-     "minCombat": null
-    },
-    {
-     "name": "Making kwuarm potions",
-     "line1": "Herblore 55",
-     "rate": "932.0K/hr",
-     "badge": "LOW",
-     "elite": null,
-     "intensity": "low",
-     "detail": "Requires Herblore 55. Quests: Druidic Ritual. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_kwuarm_potions",
-     "reqs": [
-      {
-       "s": "Herblore",
-       "l": 55,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "Druidic Ritual"
-     ],
      "minCombat": null
     },
     {
@@ -4408,18 +3813,39 @@
      "minCombat": null
     },
     {
-     "name": "Making ranarr potions",
-     "line1": "Herblore 30",
-     "rate": "869.7K/hr",
+     "name": "Making dwarf weed potions",
+     "line1": "Herblore 72",
+     "rate": "888.0K/hr",
      "badge": "LOW",
      "elite": null,
      "intensity": "low",
-     "detail": "Requires Herblore 30. Quests: Druidic Ritual. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_ranarr_potions",
+     "detail": "Requires Herblore 72. Quests: Druidic Ritual. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_dwarf_weed_potions",
      "reqs": [
       {
        "s": "Herblore",
-       "l": 30,
+       "l": 72,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "Druidic Ritual"
+     ],
+     "minCombat": null
+    },
+    {
+     "name": "Making lantadyme potions",
+     "line1": "Herblore 69",
+     "rate": "828.0K/hr",
+     "badge": "LOW",
+     "elite": null,
+     "intensity": "low",
+     "detail": "Requires Herblore 69. Quests: Druidic Ritual. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_lantadyme_potions",
+     "reqs": [
+      {
+       "s": "Herblore",
+       "l": 69,
        "rec": false
       }
      ],
@@ -4484,12 +3910,46 @@
     {
      "name": "Tanning black dragonhide",
      "line1": "Weight-reducing clothing, Stamina potion, Black dragonhide",
-     "rate": "816.0K/hr",
+     "rate": "815.9K/hr",
      "badge": "LOW",
      "elite": null,
      "intensity": "low",
      "detail": "Setup: Weight-reducing clothing, Stamina potion, Black dragonhide. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Tanning_black_dragonhide",
+     "reqs": [],
+     "quests": [],
+     "minCombat": null
+    },
+    {
+     "name": "Making irit potions",
+     "line1": "Herblore 45",
+     "rate": "764.0K/hr",
+     "badge": "LOW",
+     "elite": null,
+     "intensity": "low",
+     "detail": "Requires Herblore 45. Quests: Druidic Ritual. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_irit_potions",
+     "reqs": [
+      {
+       "s": "Herblore",
+       "l": 45,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "Druidic Ritual"
+     ],
+     "minCombat": null
+    },
+    {
+     "name": "Making ultracompost",
+     "line1": "Processing",
+     "rate": "756.0K/hr",
+     "badge": "LOW",
+     "elite": null,
+     "intensity": "low",
+     "detail": "Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_ultracompost",
      "reqs": [],
      "quests": [],
      "minCombat": null
@@ -4532,19 +3992,6 @@
      "quests": [
       "Druidic Ritual"
      ],
-     "minCombat": null
-    },
-    {
-     "name": "Tanning blue dragonhide",
-     "line1": "Weight-reducing clothing, Energy potion, Blue dragonhide",
-     "rate": "690.0K/hr",
-     "badge": "LOW",
-     "elite": null,
-     "intensity": "low",
-     "detail": "Setup: Weight-reducing clothing, Energy potion, Blue dragonhide. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Tanning_blue_dragonhide",
-     "reqs": [],
-     "quests": [],
      "minCombat": null
     },
     {
@@ -4625,19 +4072,6 @@
      "minCombat": null
     },
     {
-     "name": "Making ultracompost",
-     "line1": "Processing",
-     "rate": "637.2K/hr",
-     "badge": "LOW",
-     "elite": null,
-     "intensity": "low",
-     "detail": "Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_ultracompost",
-     "reqs": [],
-     "quests": [],
-     "minCombat": null
-    },
-    {
      "name": "Casting plank make",
      "line1": "Magic 86",
      "rate": "614.4K/hr",
@@ -4659,24 +4093,16 @@
      "minCombat": null
     },
     {
-     "name": "Making guam potions",
-     "line1": "Herblore 3",
-     "rate": "612.0K/hr",
+     "name": "Tanning green dragonhide",
+     "line1": "Weight-reducing clothing, Energy potion, Green dragonhide",
+     "rate": "609.4K/hr",
      "badge": "LOW",
      "elite": null,
      "intensity": "low",
-     "detail": "Requires Herblore 3. Quests: Druidic Ritual. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_guam_potions",
-     "reqs": [
-      {
-       "s": "Herblore",
-       "l": 3,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "Druidic Ritual"
-     ],
+     "detail": "Setup: Weight-reducing clothing, Energy potion, Green dragonhide. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Tanning_green_dragonhide",
+     "reqs": [],
+     "quests": [],
      "minCombat": null
     },
     {
@@ -4720,6 +4146,27 @@
      "minCombat": null
     },
     {
+     "name": "Making guam potions",
+     "line1": "Herblore 3",
+     "rate": "568.0K/hr",
+     "badge": "LOW",
+     "elite": null,
+     "intensity": "low",
+     "detail": "Requires Herblore 3. Quests: Druidic Ritual. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_guam_potions",
+     "reqs": [
+      {
+       "s": "Herblore",
+       "l": 3,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "Druidic Ritual"
+     ],
+     "minCombat": null
+    },
+    {
      "name": "Mining basalt",
      "line1": "Mining 72+",
      "rate": "563.5K/hr",
@@ -4760,19 +4207,6 @@
      "minCombat": null
     },
     {
-     "name": "Tanning green dragonhide",
-     "line1": "Weight-reducing clothing, Energy potion, Green dragonhide",
-     "rate": "529.0K/hr",
-     "badge": "LOW",
-     "elite": null,
-     "intensity": "low",
-     "detail": "Setup: Weight-reducing clothing, Energy potion, Green dragonhide. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Tanning_green_dragonhide",
-     "reqs": [],
-     "quests": [],
-     "minCombat": null
-    },
-    {
      "name": "Creating Varrock teleport tablets",
      "line1": "Magic 25 (rec), Construction 40 (rec), Magic 25",
      "rate": "528.0K/hr",
@@ -4802,27 +4236,6 @@
      "minCombat": null
     },
     {
-     "name": "Making avantoe potions",
-     "line1": "Herblore 50",
-     "rate": "516.0K/hr",
-     "badge": "LOW",
-     "elite": null,
-     "intensity": "low",
-     "detail": "Requires Herblore 50. Quests: Druidic Ritual. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_avantoe_potions",
-     "reqs": [
-      {
-       "s": "Herblore",
-       "l": 50,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "Druidic Ritual"
-     ],
-     "minCombat": null
-    },
-    {
      "name": "Charging water orbs",
      "line1": "Magic 56, Agility 70/80 (rec), Defence Decent (rec)",
      "rate": "514.0K/hr",
@@ -4839,6 +4252,27 @@
       }
      ],
      "quests": [],
+     "minCombat": null
+    },
+    {
+     "name": "Making avantoe potions",
+     "line1": "Herblore 50",
+     "rate": "504.0K/hr",
+     "badge": "LOW",
+     "elite": null,
+     "intensity": "low",
+     "detail": "Requires Herblore 50. Quests: Druidic Ritual. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_avantoe_potions",
+     "reqs": [
+      {
+       "s": "Herblore",
+       "l": 50,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "Druidic Ritual"
+     ],
      "minCombat": null
     },
     {
@@ -5798,6 +5232,27 @@
      "minCombat": null
     },
     {
+     "name": "Making tarromin potions",
+     "line1": "Herblore 12",
+     "rate": "200.5K/hr",
+     "badge": "LOW",
+     "elite": null,
+     "intensity": "low",
+     "detail": "Requires Herblore 12. Quests: Druidic Ritual. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_tarromin_potions",
+     "reqs": [
+      {
+       "s": "Herblore",
+       "l": 12,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "Druidic Ritual"
+     ],
+     "minCombat": null
+    },
+    {
      "name": "Cooking raw karambwan",
      "line1": "Cooking 30+ (rec)",
      "rate": "200.2K/hr",
@@ -5854,27 +5309,6 @@
       }
      ],
      "quests": [],
-     "minCombat": null
-    },
-    {
-     "name": "Making tarromin potions",
-     "line1": "Herblore 12",
-     "rate": "197.1K/hr",
-     "badge": "LOW",
-     "elite": null,
-     "intensity": "low",
-     "detail": "Requires Herblore 12. Quests: Druidic Ritual. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_tarromin_potions",
-     "reqs": [
-      {
-       "s": "Herblore",
-       "l": 12,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "Druidic Ritual"
-     ],
      "minCombat": null
     },
     {
@@ -11721,6 +11155,822 @@
      ],
      "quests": [],
      "minCombat": 100
+    }
+   ]
+  },
+  {
+   "icon": "🏭",
+   "title": "Passive & Recurring",
+   "note": "herb runs, birdhouses & dailies — profit per real-time day (short cycles assume a ~16h waking day); the regrowth interval caps the income, not your hours",
+   "personal": true,
+   "items": [
+    {
+     "name": "Farming cotton bolls",
+     "line1": "Farming 71 (rec)",
+     "rate": "≈2.6M/day recurring",
+     "elite": null,
+     "intensity": "-",
+     "detail": "160.9K per run, ~5 min hands-on, repeatable every 1h — the interval caps the income, extra hours don't help; short cycles assume collecting through a ~16h day. Requires Farming 71 (rec). Quests: Fairytale I - Growing Pains, Watchtower, Enlightened Journey, Children of the Sun. ",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Farming_cotton_bolls",
+     "reqs": [
+      {
+       "s": "Farming",
+       "l": 71,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "Fairytale I - Growing Pains",
+      "Watchtower",
+      "Enlightened Journey",
+      "Children of the Sun"
+     ],
+     "minCombat": null
+    },
+    {
+     "name": "Farming ranarr weed",
+     "line1": "Farming 32, Magic 61 (rec), Agility 47 (rec), Agility 73 (rec), Agility 73",
+     "rate": "≈1.8M/day recurring",
+     "elite": null,
+     "intensity": "-",
+     "detail": "166.5K per run, ~6 min hands-on, repeatable every 2h — the interval caps the income, extra hours don't help; short cycles assume collecting through a ~16h day. Requires Farming 32, Magic 61 (rec), Agility 47 (rec), Agility 73 (rec), Agility 73. Quests: Ghosts Ahoy, My Arm's Big Adventure, Fairytale I - Growing Pains, Making Friends with My Arm, Dream Mentor, Children of the Sun. ",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Farming_ranarr_weed",
+     "reqs": [
+      {
+       "s": "Farming",
+       "l": 32,
+       "rec": false
+      },
+      {
+       "s": "Magic",
+       "l": 61,
+       "rec": true
+      },
+      {
+       "s": "Agility",
+       "l": 47,
+       "rec": true
+      },
+      {
+       "s": "Agility",
+       "l": 73,
+       "rec": true
+      },
+      {
+       "s": "Agility",
+       "l": 73,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "Ghosts Ahoy",
+      "My Arm's Big Adventure",
+      "Fairytale I - Growing Pains",
+      "Making Friends with My Arm",
+      "Dream Mentor",
+      "Children of the Sun"
+     ],
+     "minCombat": null
+    },
+    {
+     "name": "Farming kwuarm",
+     "line1": "Farming 56, Magic 61 (rec), Agility 47 (rec), Agility 73 (rec), Agility 73",
+     "rate": "≈1.6M/day recurring",
+     "elite": null,
+     "intensity": "-",
+     "detail": "151.8K per run, ~6 min hands-on, repeatable every 2h — the interval caps the income, extra hours don't help; short cycles assume collecting through a ~16h day. Requires Farming 56, Magic 61 (rec), Agility 47 (rec), Agility 73 (rec), Agility 73. Quests: Ghosts Ahoy, My Arm's Big Adventure, Fairytale I - Growing Pains, Making Friends with My Arm, Dream Mentor. ",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Farming_kwuarm",
+     "reqs": [
+      {
+       "s": "Farming",
+       "l": 56,
+       "rec": false
+      },
+      {
+       "s": "Magic",
+       "l": 61,
+       "rec": true
+      },
+      {
+       "s": "Agility",
+       "l": 47,
+       "rec": true
+      },
+      {
+       "s": "Agility",
+       "l": 73,
+       "rec": true
+      },
+      {
+       "s": "Agility",
+       "l": 73,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "Ghosts Ahoy",
+      "My Arm's Big Adventure",
+      "Fairytale I - Growing Pains",
+      "Making Friends with My Arm",
+      "Dream Mentor"
+     ],
+     "minCombat": null
+    },
+    {
+     "name": "Farming jute fibre",
+     "line1": "Farming 13, Farming 80+ (rec)",
+     "rate": "≈1.6M/day recurring",
+     "elite": null,
+     "intensity": "-",
+     "detail": "81.9K per run, ~5 min hands-on, repeatable every 50min — the interval caps the income, extra hours don't help; short cycles assume collecting through a ~16h day. Requires Farming 13, Farming 80+ (rec). Quests: Fairytale I - Growing Pains, Watchtower, Enlightened Journey. ",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Farming_jute_fibre",
+     "reqs": [
+      {
+       "s": "Farming",
+       "l": 13,
+       "rec": false
+      },
+      {
+       "s": "Farming",
+       "l": 80,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "Fairytale I - Growing Pains",
+      "Watchtower",
+      "Enlightened Journey"
+     ],
+     "minCombat": null
+    },
+    {
+     "name": "Farming snapdragon",
+     "line1": "Farming 62, Magic 61 (rec), Agility 47 (rec), Agility 73 (rec), Agility 73",
+     "rate": "≈1.5M/day recurring",
+     "elite": null,
+     "intensity": "-",
+     "detail": "145.2K per run, ~6 min hands-on, repeatable every 2h — the interval caps the income, extra hours don't help; short cycles assume collecting through a ~16h day. Requires Farming 62, Magic 61 (rec), Agility 47 (rec), Agility 73 (rec), Agility 73. Quests: Ghosts Ahoy, My Arm's Big Adventure, Fairytale I - Growing Pains, Making Friends with My Arm, Dream Mentor. ",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Farming_snapdragon",
+     "reqs": [
+      {
+       "s": "Farming",
+       "l": 62,
+       "rec": false
+      },
+      {
+       "s": "Magic",
+       "l": 61,
+       "rec": true
+      },
+      {
+       "s": "Agility",
+       "l": 47,
+       "rec": true
+      },
+      {
+       "s": "Agility",
+       "l": 73,
+       "rec": true
+      },
+      {
+       "s": "Agility",
+       "l": 73,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "Ghosts Ahoy",
+      "My Arm's Big Adventure",
+      "Fairytale I - Growing Pains",
+      "Making Friends with My Arm",
+      "Dream Mentor"
+     ],
+     "minCombat": null
+    },
+    {
+     "name": "Farming Yanillian hops",
+     "line1": "Farming 16, Farming 80+ (rec)",
+     "rate": "≈1.5M/day recurring",
+     "elite": null,
+     "intensity": "-",
+     "detail": "96.6K per run, ~6 min hands-on, repeatable every 1h — the interval caps the income, extra hours don't help; short cycles assume collecting through a ~16h day. Requires Farming 16, Farming 80+ (rec). Quests: Fairytale I - Growing Pains, Watchtower, Enlightened Journey, Children of the Sun. ",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Farming_Yanillian_hops",
+     "reqs": [
+      {
+       "s": "Farming",
+       "l": 16,
+       "rec": false
+      },
+      {
+       "s": "Farming",
+       "l": 80,
+       "rec": true
+      }
+     ],
+     "quests": [
+      "Fairytale I - Growing Pains",
+      "Watchtower",
+      "Enlightened Journey",
+      "Children of the Sun"
+     ],
+     "minCombat": null
+    },
+    {
+     "name": "Farming cadantine",
+     "line1": "Farming 67, Magic 61 (rec), Agility 47 (rec), Agility 73 (rec), Agility 73",
+     "rate": "≈1.5M/day recurring",
+     "elite": null,
+     "intensity": "-",
+     "detail": "140.3K per run, ~6 min hands-on, repeatable every 2h — the interval caps the income, extra hours don't help; short cycles assume collecting through a ~16h day. Requires Farming 67, Magic 61 (rec), Agility 47 (rec), Agility 73 (rec), Agility 73. Quests: Ghosts Ahoy, My Arm's Big Adventure, Fairytale I - Growing Pains, Making Friends with My Arm, Dream Mentor. ",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Farming_cadantine",
+     "reqs": [
+      {
+       "s": "Farming",
+       "l": 67,
+       "rec": false
+      },
+      {
+       "s": "Magic",
+       "l": 61,
+       "rec": true
+      },
+      {
+       "s": "Agility",
+       "l": 47,
+       "rec": true
+      },
+      {
+       "s": "Agility",
+       "l": 73,
+       "rec": true
+      },
+      {
+       "s": "Agility",
+       "l": 73,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "Ghosts Ahoy",
+      "My Arm's Big Adventure",
+      "Fairytale I - Growing Pains",
+      "Making Friends with My Arm",
+      "Dream Mentor"
+     ],
+     "minCombat": null
+    },
+    {
+     "name": "Farming huasca",
+     "line1": "Farming 65, Magic 61 (rec), Agility 47 (rec), Agility 73 (rec), Agility 73",
+     "rate": "≈1.5M/day recurring",
+     "elite": null,
+     "intensity": "-",
+     "detail": "139.4K per run, ~6 min hands-on, repeatable every 2h — the interval caps the income, extra hours don't help; short cycles assume collecting through a ~16h day. Requires Farming 65, Magic 61 (rec), Agility 47 (rec), Agility 73 (rec), Agility 73. Quests: Ghosts Ahoy, My Arm's Big Adventure, Fairytale I - Growing Pains, Making Friends with My Arm, Dream Mentor. ",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Farming_huasca",
+     "reqs": [
+      {
+       "s": "Farming",
+       "l": 65,
+       "rec": false
+      },
+      {
+       "s": "Magic",
+       "l": 61,
+       "rec": true
+      },
+      {
+       "s": "Agility",
+       "l": 47,
+       "rec": true
+      },
+      {
+       "s": "Agility",
+       "l": 73,
+       "rec": true
+      },
+      {
+       "s": "Agility",
+       "l": 73,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "Ghosts Ahoy",
+      "My Arm's Big Adventure",
+      "Fairytale I - Growing Pains",
+      "Making Friends with My Arm",
+      "Dream Mentor"
+     ],
+     "minCombat": null
+    },
+    {
+     "name": "Farming toadflax",
+     "line1": "Farming 38, Magic 61 (rec), Agility 47 (rec), Agility 73 (rec), Agility 73",
+     "rate": "≈1.4M/day recurring",
+     "elite": null,
+     "intensity": "-",
+     "detail": "132.2K per run, ~6 min hands-on, repeatable every 2h — the interval caps the income, extra hours don't help; short cycles assume collecting through a ~16h day. Requires Farming 38, Magic 61 (rec), Agility 47 (rec), Agility 73 (rec), Agility 73. Quests: Ghosts Ahoy, My Arm's Big Adventure, Fairytale I - Growing Pains, Making Friends with My Arm, Dream Mentor. ",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Farming_toadflax",
+     "reqs": [
+      {
+       "s": "Farming",
+       "l": 38,
+       "rec": false
+      },
+      {
+       "s": "Magic",
+       "l": 61,
+       "rec": true
+      },
+      {
+       "s": "Agility",
+       "l": 47,
+       "rec": true
+      },
+      {
+       "s": "Agility",
+       "l": 73,
+       "rec": true
+      },
+      {
+       "s": "Agility",
+       "l": 73,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "Ghosts Ahoy",
+      "My Arm's Big Adventure",
+      "Fairytale I - Growing Pains",
+      "Making Friends with My Arm",
+      "Dream Mentor"
+     ],
+     "minCombat": null
+    },
+    {
+     "name": "Growing coral",
+     "line1": "Farming 28",
+     "rate": "≈1.3M/day recurring",
+     "elite": null,
+     "intensity": "-",
+     "detail": "216.3K per run, ~3 min hands-on, repeatable every 3h — the interval caps the income, extra hours don't help; short cycles assume collecting through a ~16h day. Requires Farming 28. Quests: Troubled Tortugans. ",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Growing_coral",
+     "reqs": [
+      {
+       "s": "Farming",
+       "l": 28,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "Troubled Tortugans"
+     ],
+     "minCombat": null
+    },
+    {
+     "name": "Farming torstol",
+     "line1": "Farming 85, Magic 61 (rec), Agility 47 (rec), Agility 73 (rec), Agility 73",
+     "rate": "≈1.3M/day recurring",
+     "elite": null,
+     "intensity": "-",
+     "detail": "120.9K per run, ~6 min hands-on, repeatable every 2h — the interval caps the income, extra hours don't help; short cycles assume collecting through a ~16h day. Requires Farming 85, Magic 61 (rec), Agility 47 (rec), Agility 73 (rec), Agility 73. Quests: Ghosts Ahoy, My Arm's Big Adventure, Fairytale I - Growing Pains, Making Friends with My Arm, Dream Mentor. ",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Farming_torstol",
+     "reqs": [
+      {
+       "s": "Farming",
+       "l": 85,
+       "rec": false
+      },
+      {
+       "s": "Magic",
+       "l": 61,
+       "rec": true
+      },
+      {
+       "s": "Agility",
+       "l": 47,
+       "rec": true
+      },
+      {
+       "s": "Agility",
+       "l": 73,
+       "rec": true
+      },
+      {
+       "s": "Agility",
+       "l": 73,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "Ghosts Ahoy",
+      "My Arm's Big Adventure",
+      "Fairytale I - Growing Pains",
+      "Making Friends with My Arm",
+      "Dream Mentor"
+     ],
+     "minCombat": null
+    },
+    {
+     "name": "Growing magic saplings",
+     "line1": "Farming 75, Magic 68, Combat level 85, Combat 85",
+     "rate": "≈1.2M/day recurring",
+     "elite": null,
+     "intensity": "-",
+     "detail": "308.4K per run, ~10 min hands-on, repeatable every 4h — the interval caps the income, extra hours don't help; short cycles assume collecting through a ~16h day. Requires Farming 75, Magic 68, Combat level 85, Combat 85. Quests: Dream Mentor. ",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Growing_magic_saplings",
+     "reqs": [
+      {
+       "s": "Farming",
+       "l": 75,
+       "rec": false
+      },
+      {
+       "s": "Magic",
+       "l": 68,
+       "rec": false
+      },
+      {
+       "s": "Combat",
+       "l": 85,
+       "rec": false
+      },
+      {
+       "s": "Combat",
+       "l": 85,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "Dream Mentor"
+     ],
+     "minCombat": null
+    },
+    {
+     "name": "Farming irit leaves",
+     "line1": "Farming 44, Magic 61 (rec), Agility 47 (rec), Agility 73 (rec), Agility 73",
+     "rate": "≈1.1M/day recurring",
+     "elite": null,
+     "intensity": "-",
+     "detail": "103.1K per run, ~6 min hands-on, repeatable every 2h — the interval caps the income, extra hours don't help; short cycles assume collecting through a ~16h day. Requires Farming 44, Magic 61 (rec), Agility 47 (rec), Agility 73 (rec), Agility 73. Quests: Ghosts Ahoy, My Arm's Big Adventure, Fairytale I - Growing Pains, Making Friends with My Arm, Dream Mentor. ",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Farming_irit_leaves",
+     "reqs": [
+      {
+       "s": "Farming",
+       "l": 44,
+       "rec": false
+      },
+      {
+       "s": "Magic",
+       "l": 61,
+       "rec": true
+      },
+      {
+       "s": "Agility",
+       "l": 47,
+       "rec": true
+      },
+      {
+       "s": "Agility",
+       "l": 73,
+       "rec": true
+      },
+      {
+       "s": "Agility",
+       "l": 73,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "Ghosts Ahoy",
+      "My Arm's Big Adventure",
+      "Fairytale I - Growing Pains",
+      "Making Friends with My Arm",
+      "Dream Mentor"
+     ],
+     "minCombat": null
+    },
+    {
+     "name": "Farming dwarf weed",
+     "line1": "Farming 79, Magic 61 (rec), Agility 47 (rec), Agility 73 (rec), Agility 73",
+     "rate": "≈1.1M/day recurring",
+     "elite": null,
+     "intensity": "-",
+     "detail": "102.7K per run, ~6 min hands-on, repeatable every 2h — the interval caps the income, extra hours don't help; short cycles assume collecting through a ~16h day. Requires Farming 79, Magic 61 (rec), Agility 47 (rec), Agility 73 (rec), Agility 73. Quests: Ghosts Ahoy, My Arm's Big Adventure, Fairytale I - Growing Pains, Making Friends with My Arm, Dream Mentor. ",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Farming_dwarf_weed",
+     "reqs": [
+      {
+       "s": "Farming",
+       "l": 79,
+       "rec": false
+      },
+      {
+       "s": "Magic",
+       "l": 61,
+       "rec": true
+      },
+      {
+       "s": "Agility",
+       "l": 47,
+       "rec": true
+      },
+      {
+       "s": "Agility",
+       "l": 73,
+       "rec": true
+      },
+      {
+       "s": "Agility",
+       "l": 73,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "Ghosts Ahoy",
+      "My Arm's Big Adventure",
+      "Fairytale I - Growing Pains",
+      "Making Friends with My Arm",
+      "Dream Mentor"
+     ],
+     "minCombat": null
+    },
+    {
+     "name": "Bird house trapping",
+     "line1": "Magic 49 (rec), Crafting 5-90, Construction 25, crafting 5-90, construction 25",
+     "rate": "≈1.0M/day recurring",
+     "elite": null,
+     "intensity": "-",
+     "detail": "53.2K per run, ~1 min hands-on, repeatable every 50min — the interval caps the income, extra hours don't help; short cycles assume collecting through a ~16h day. Requires Magic 49 (rec), Crafting 5-90, Construction 25, crafting 5-90, construction 25. Quests: Bone Voyage. ",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Bird_house_trapping",
+     "reqs": [
+      {
+       "s": "Magic",
+       "l": 49,
+       "rec": true
+      },
+      {
+       "s": "Construction",
+       "l": 25,
+       "rec": false
+      },
+      {
+       "s": "Construction",
+       "l": 25,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "Bone Voyage"
+     ],
+     "minCombat": null
+    },
+    {
+     "name": "Farming avantoe",
+     "line1": "Farming 50, Magic 61 (rec), Agility 47 (rec), Agility 73 (rec), Agility 73",
+     "rate": "≈976.1K/day recurring",
+     "elite": null,
+     "intensity": "-",
+     "detail": "91.5K per run, ~6 min hands-on, repeatable every 2h — the interval caps the income, extra hours don't help; short cycles assume collecting through a ~16h day. Requires Farming 50, Magic 61 (rec), Agility 47 (rec), Agility 73 (rec), Agility 73. Quests: Ghosts Ahoy, My Arm's Big Adventure, Fairytale I - Growing Pains, Making Friends with My Arm, Dream Mentor. ",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Farming_avantoe",
+     "reqs": [
+      {
+       "s": "Farming",
+       "l": 50,
+       "rec": false
+      },
+      {
+       "s": "Magic",
+       "l": 61,
+       "rec": true
+      },
+      {
+       "s": "Agility",
+       "l": 47,
+       "rec": true
+      },
+      {
+       "s": "Agility",
+       "l": 73,
+       "rec": true
+      },
+      {
+       "s": "Agility",
+       "l": 73,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "Ghosts Ahoy",
+      "My Arm's Big Adventure",
+      "Fairytale I - Growing Pains",
+      "Making Friends with My Arm",
+      "Dream Mentor"
+     ],
+     "minCombat": null
+    },
+    {
+     "name": "Farming lantadyme",
+     "line1": "Farming 73, Magic 61 (rec), Agility 47 (rec), Agility 73 (rec), Agility 73",
+     "rate": "≈960.6K/day recurring",
+     "elite": null,
+     "intensity": "-",
+     "detail": "90.1K per run, ~6 min hands-on, repeatable every 2h — the interval caps the income, extra hours don't help; short cycles assume collecting through a ~16h day. Requires Farming 73, Magic 61 (rec), Agility 47 (rec), Agility 73 (rec), Agility 73. Quests: Ghosts Ahoy, My Arm's Big Adventure, Fairytale I - Growing Pains, Making Friends with My Arm, Dream Mentor. ",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Farming_lantadyme",
+     "reqs": [
+      {
+       "s": "Farming",
+       "l": 73,
+       "rec": false
+      },
+      {
+       "s": "Magic",
+       "l": 61,
+       "rec": true
+      },
+      {
+       "s": "Agility",
+       "l": 47,
+       "rec": true
+      },
+      {
+       "s": "Agility",
+       "l": 73,
+       "rec": true
+      },
+      {
+       "s": "Agility",
+       "l": 73,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "Ghosts Ahoy",
+      "My Arm's Big Adventure",
+      "Fairytale I - Growing Pains",
+      "Making Friends with My Arm",
+      "Dream Mentor"
+     ],
+     "minCombat": null
+    },
+    {
+     "name": "Picking cactus spines",
+     "line1": "Farming 55 (rec)",
+     "rate": "≈425.9K/day recurring",
+     "elite": null,
+     "intensity": "-",
+     "detail": "26.6K per run, ~1 min hands-on, repeatable every 1h — the interval caps the income, extra hours don't help; short cycles assume collecting through a ~16h day. Requires Farming 55 (rec). ",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Picking_cactus_spines",
+     "reqs": [
+      {
+       "s": "Farming",
+       "l": 55,
+       "rec": true
+      }
+     ],
+     "quests": [],
+     "minCombat": null
+    },
+    {
+     "name": "Picking papayas",
+     "line1": "Farming 57 (rec), Farming 57",
+     "rate": "≈315.8K/day recurring",
+     "elite": null,
+     "intensity": "-",
+     "detail": "59.2K per run, ~3 min hands-on, repeatable every 3h — the interval caps the income, extra hours don't help; short cycles assume collecting through a ~16h day. Requires Farming 57 (rec), Farming 57. Quests: The Grand Tree, Mourning's End Part I. ",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Picking_papayas",
+     "reqs": [
+      {
+       "s": "Farming",
+       "l": 57,
+       "rec": true
+      },
+      {
+       "s": "Farming",
+       "l": 57,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "The Grand Tree",
+      "Mourning's End Part I"
+     ],
+     "minCombat": null
+    },
+    {
+     "name": "Brewing chef's delight(m)",
+     "line1": "Cooking 54",
+     "rate": "≈254.7K/day recurring",
+     "elite": null,
+     "intensity": "-",
+     "detail": "509.3K per run, ~25 min hands-on, repeatable every 48h — the interval caps the income, extra hours don't help; short cycles assume collecting through a ~16h day. Requires Cooking 54. Quests: Ghosts Ahoy, The Giant Dwarf, Cabin Fever, Children of the Sun. ",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Brewing_chef%27s_delight(m)",
+     "reqs": [
+      {
+       "s": "Cooking",
+       "l": 54,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "Ghosts Ahoy",
+      "The Giant Dwarf",
+      "Cabin Fever",
+      "Children of the Sun"
+     ],
+     "minCombat": null
+    },
+    {
+     "name": "Brewing greenman's ale(m)",
+     "line1": "Cooking 40",
+     "rate": "≈242.9K/day recurring",
+     "elite": null,
+     "intensity": "-",
+     "detail": "485.9K per run, ~25 min hands-on, repeatable every 48h — the interval caps the income, extra hours don't help; short cycles assume collecting through a ~16h day. Requires Cooking 40. Quests: Ghosts Ahoy, The Giant Dwarf, Cabin Fever, Children of the Sun. ",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Brewing_greenman%27s_ale(m)",
+     "reqs": [
+      {
+       "s": "Cooking",
+       "l": 40,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "Ghosts Ahoy",
+      "The Giant Dwarf",
+      "Cabin Fever",
+      "Children of the Sun"
+     ],
+     "minCombat": null
+    },
+    {
+     "name": "Picking coconuts",
+     "line1": "Farming 68 (rec), Farming 68",
+     "rate": "≈214.9K/day recurring",
+     "elite": null,
+     "intensity": "-",
+     "detail": "60.4K per run, ~3 min hands-on, repeatable every 4h — the interval caps the income, extra hours don't help; short cycles assume collecting through a ~16h day. Requires Farming 68 (rec), Farming 68. Quests: The Grand Tree, Mourning's End Part I. ",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Picking_coconuts",
+     "reqs": [
+      {
+       "s": "Farming",
+       "l": 68,
+       "rec": true
+      },
+      {
+       "s": "Farming",
+       "l": 68,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "The Grand Tree",
+      "Mourning's End Part I"
+     ],
+     "minCombat": null
+    },
+    {
+     "name": "Opening herb boxes",
+     "line1": "Minigame",
+     "rate": "≈96.1K/day recurring",
+     "elite": null,
+     "intensity": "-",
+     "detail": "96.1K per run, ~2 min hands-on, repeatable every 24h — the interval caps the income, extra hours don't help; short cycles assume collecting through a ~16h day. ",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Opening_herb_boxes",
+     "reqs": [],
+     "quests": [],
+     "minCombat": null
+    },
+    {
+     "name": "Planting Celastrus sapling",
+     "line1": "Farming 85",
+     "rate": "≈76.8K/day recurring",
+     "elite": null,
+     "intensity": "-",
+     "detail": "42.6K per run, ~1 min hands-on, repeatable every 13h — the interval caps the income, extra hours don't help; short cycles assume collecting through a ~16h day. Requires Farming 85. Quests: Fairytale I - Growing Pains. ",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Planting_Celastrus_sapling",
+     "reqs": [
+      {
+       "s": "Farming",
+       "l": 85,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "Fairytale I - Growing Pains"
+     ],
+     "minCombat": null
+    },
+    {
+     "name": "Dying blue wizard robes",
+     "line1": "Processing",
+     "rate": "≈63.0K/day recurring",
+     "elite": null,
+     "intensity": "-",
+     "detail": "63.0K per run, ~11 min hands-on, repeatable every 24h — the interval caps the income, extra hours don't help; short cycles assume collecting through a ~16h day. ",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Dying_blue_wizard_robes",
+     "reqs": [],
+     "quests": [],
+     "minCombat": null
     }
    ]
   }
