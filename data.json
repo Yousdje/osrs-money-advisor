@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-19T14:51:54Z",
+ "generated_at": "2026-07-19T16:00:49Z",
  "sections": [
   {
    "icon": "📈",
@@ -7,34 +7,34 @@
    "note": null,
    "items": [
     {
-     "name": "Menaphite remedy(4)",
-     "line1": "buy 2,026 → sell 2,145, +77/ea",
-     "rate": "≈23.7K/hr",
-     "detail": "Post-tax margin per unit at conservative percentile targets; ≈94.9K per 4h buy-limit window. Buy limit 2,000/4h, realistic fill 1,233/4h (10% of daily volume). Dependability 0.99 — closer to 1.00 means the margin recurs all day, not one lucky burst."
+     "name": "Large adamant keel parts",
+     "line1": "buy 46,217 → sell 49,177, +1,977/ea",
+     "rate": "≈26.7K/hr",
+     "detail": "Post-tax margin per unit at conservative percentile targets; ≈106.8K per 4h buy-limit window. Buy limit 100/4h, realistic fill 54/4h (10% of daily volume). Dependability 0.99 — closer to 1.00 means the margin recurs all day, not one lucky burst."
     },
     {
-     "name": "Redwood sapling",
-     "line1": "buy 19,500 → sell 20,709, +795/ea",
-     "rate": "≈19.9K/hr",
-     "detail": "Post-tax margin per unit at conservative percentile targets; ≈79.5K per 4h buy-limit window. Buy limit 100/4h, realistic fill 100/4h (10% of daily volume). Dependability 0.98 — closer to 1.00 means the margin recurs all day, not one lucky burst."
+     "name": "Annakarl teleport (tablet)",
+     "line1": "buy 2,638 → sell 2,798, +105/ea",
+     "rate": "≈24.9K/hr",
+     "detail": "Post-tax margin per unit at conservative percentile targets; ≈99.4K per 4h buy-limit window. Buy limit 10,000/4h, realistic fill 947/4h (10% of daily volume). Dependability 0.89 — closer to 1.00 means the margin recurs all day, not one lucky burst."
     },
     {
-     "name": "Camphor repair kit",
-     "line1": "buy 1,585 → sell 1,668, +50/ea",
-     "rate": "≈19.7K/hr",
-     "detail": "Post-tax margin per unit at conservative percentile targets; ≈78.8K per 4h buy-limit window. Buy limit 13,000/4h, realistic fill 1,577/4h (10% of daily volume). Dependability 0.98 — closer to 1.00 means the margin recurs all day, not one lucky burst."
+     "name": "Diamond dragon bolts",
+     "line1": "buy 2,937 → sell 3,107, +108/ea",
+     "rate": "≈23.1K/hr",
+     "detail": "Post-tax margin per unit at conservative percentile targets; ≈92.3K per 4h buy-limit window. Buy limit 11,000/4h, realistic fill 851/4h (10% of daily volume). Dependability 0.86 — closer to 1.00 means the margin recurs all day, not one lucky burst."
     },
     {
-     "name": "Super combat potion(2)",
-     "line1": "buy 6,504 → sell 6,840, +200/ea",
-     "rate": "≈19.2K/hr",
-     "detail": "Post-tax margin per unit at conservative percentile targets; ≈76.8K per 4h buy-limit window. Buy limit 2,000/4h, realistic fill 384/4h (10% of daily volume). Dependability 0.98 — closer to 1.00 means the margin recurs all day, not one lucky burst."
+     "name": "Mystic robe bottom (dark)",
+     "line1": "buy 47,184 → sell 49,723, +1,545/ea",
+     "rate": "≈20.1K/hr",
+     "detail": "Post-tax margin per unit at conservative percentile targets; ≈80.3K per 4h buy-limit window. Buy limit 70/4h, realistic fill 52/4h (10% of daily volume). Dependability 0.99 — closer to 1.00 means the margin recurs all day, not one lucky burst."
     },
     {
-     "name": "Super energy(4)",
-     "line1": "buy 1,952 → sell 2,048, +56/ea",
-     "rate": "≈17.9K/hr",
-     "detail": "Post-tax margin per unit at conservative percentile targets; ≈71.7K per 4h buy-limit window. Buy limit 2,000/4h, realistic fill 1,280/4h (10% of daily volume). Dependability 1.00 — closer to 1.00 means the margin recurs all day, not one lucky burst."
+     "name": "Ironwood seed",
+     "line1": "buy 38,004 → sell 40,000, +1,196/ea",
+     "rate": "≈19.4K/hr",
+     "detail": "Post-tax margin per unit at conservative percentile targets; ≈77.7K per 4h buy-limit window. Buy limit 200/4h, realistic fill 65/4h (10% of daily volume). Dependability 0.89 — closer to 1.00 means the margin recurs all day, not one lucky burst."
     }
    ]
   },
@@ -44,34 +44,34 @@
    "note": null,
    "items": [
     {
-     "name": "Prayer regeneration potion (3)→(4)",
+     "name": "Super strength (3)→(4)",
      "line1": "buy (3) doses, decant free at Bob Barter, sell as (4)",
-     "rate": "+4.7K/pot · ≈159.7K/hr",
-     "detail": "Buy (3) at 68,800 gp each, sell the (4) at 98,432 gp (margin is post-tax, incl. empty-vial credit). Realistic output 135 pots/4h (≈638.7K per 4h window), capped by both sides' volume."
+     "rate": "+49/pot · ≈18.5K/hr",
+     "detail": "Buy (3) at 2,404 gp each, sell the (4) at 3,320 gp (margin is post-tax, incl. empty-vial credit). Realistic output 1,500 pots/4h (≈74.0K per 4h window), capped by both sides' volume."
     },
     {
-     "name": "Extended anti-venom+ (3)→(4)",
+     "name": "Energy potion (3)→(4)",
      "line1": "buy (3) doses, decant free at Bob Barter, sell as (4)",
-     "rate": "+2.5K/pot · ≈29.5K/hr",
-     "detail": "Buy (3) at 15,064 gp each, sell the (4) at 23,000 gp (margin is post-tax, incl. empty-vial credit). Realistic output 48 pots/4h (≈117.9K per 4h window), capped by both sides' volume."
+     "rate": "+46/pot · ≈17.1K/hr",
+     "detail": "Buy (3) at 132 gp each, sell the (4) at 225 gp (margin is post-tax, incl. empty-vial credit). Realistic output 1,500 pots/4h (≈68.5K per 4h window), capped by both sides' volume."
     },
     {
      "name": "Extended anti-venom+ (1)→(4)",
      "line1": "buy (1) doses, decant free at Bob Barter, sell as (4)",
-     "rate": "+930/pot · ≈20.0K/hr",
-     "detail": "Buy (1) at 5,404 gp each, sell the (4) at 23,000 gp (margin is post-tax, incl. empty-vial credit). Realistic output 86 pots/4h (≈80.0K per 4h window), capped by both sides' volume."
+     "rate": "+510/pot · ≈11.0K/hr",
+     "detail": "Buy (1) at 5,404 gp each, sell the (4) at 22,571 gp (margin is post-tax, incl. empty-vial credit). Realistic output 86 pots/4h (≈43.9K per 4h window), capped by both sides' volume."
     },
     {
-     "name": "Super strength (3)→(4)",
+     "name": "Prayer potion (3)→(4)",
      "line1": "buy (3) doses, decant free at Bob Barter, sell as (4)",
-     "rate": "+46/pot · ≈17.1K/hr",
-     "detail": "Buy (3) at 2,403 gp each, sell the (4) at 3,315 gp (margin is post-tax, incl. empty-vial credit). Realistic output 1,500 pots/4h (≈68.5K per 4h window), capped by both sides' volume."
+     "rate": "+29/pot · ≈10.9K/hr",
+     "detail": "Buy (3) at 6,587 gp each, sell the (4) at 8,990 gp (margin is post-tax, incl. empty-vial credit). Realistic output 1,500 pots/4h (≈43.5K per 4h window), capped by both sides' volume."
     },
     {
-     "name": "Ranging potion (3)→(4)",
-     "line1": "buy (3) doses, decant free at Bob Barter, sell as (4)",
-     "rate": "+26/pot · ≈9.9K/hr",
-     "detail": "Buy (3) at 1,531 gp each, sell the (4) at 2,109 gp (margin is post-tax, incl. empty-vial credit). Realistic output 1,500 pots/4h (≈39.5K per 4h window), capped by both sides' volume."
+     "name": "Ranging potion (2)→(4)",
+     "line1": "buy (2) doses, decant free at Bob Barter, sell as (4)",
+     "rate": "+272/pot · ≈7.8K/hr",
+     "detail": "Buy (2) at 889 gp each, sell the (4) at 2,089 gp (margin is post-tax, incl. empty-vial credit). Realistic output 115 pots/4h (≈31.3K per 4h window), capped by both sides' volume."
     }
    ]
   },
@@ -81,9 +81,23 @@
    "note": null,
    "items": [
     {
+     "name": "Guthan's armour set (combine)",
+     "line1": "buy pieces, combine at the GE clerk, sell the set",
+     "rate": "+4.8K · ≈3.6K/hr",
+     "badge": null,
+     "detail": "Post-tax margin per conversion; thinnest leg trades 171/day, projected 3 conversions/4h (≈14.6K per window)."
+    },
+    {
+     "name": "Karil's armour set (combine)",
+     "line1": "buy pieces, combine at the GE clerk, sell the set",
+     "rate": "+12.8K · ≈3.2K/hr",
+     "badge": null,
+     "detail": "Post-tax margin per conversion; thinnest leg trades 100/day, projected 1 conversions/4h (≈12.8K per window)."
+    },
+    {
      "name": "Mixed hide armour set (combine)",
      "line1": "buy pieces, combine at the GE clerk, sell the set",
-     "rate": "+756 · ≈0/hr",
+     "rate": "+804 · ≈0/hr",
      "badge": "HIGH",
      "detail": "Post-tax margin per conversion; thinnest leg trades 510/day, projected 0 conversions/4h (≈0 per window). SPECULATIVE: near-zero volume — a mirage unless a buyer shows up."
     }
@@ -95,10 +109,22 @@
    "note": null,
    "items": [
     {
-     "name": "Onyx bolts (e)",
+     "name": "Amulet of glory(6)",
      "line1": "buy → cast High Level Alchemy (55 Magic + nature runes)",
-     "rate": "+415/alch · ≈498.0K/hr",
-     "detail": "Buy at 8,444 gp, alch for 9,000 gp (nature rune already deducted). Supply-capped at 4,800 casts/4h — buy limit and daily volume, not the 1,200/hr cast rate, are usually the bottleneck."
+     "rate": "+414/alch · ≈496.8K/hr",
+     "detail": "Buy at 10,020 gp, alch for 10,575 gp (nature rune already deducted). Supply-capped at 4,800 casts/4h — buy limit and daily volume, not the 1,200/hr cast rate, are usually the bottleneck."
+    },
+    {
+     "name": "Combat bracelet",
+     "line1": "buy → cast High Level Alchemy (55 Magic + nature runes)",
+     "rate": "+385/alch · ≈462.0K/hr",
+     "detail": "Buy at 12,098 gp, alch for 12,624 gp (nature rune already deducted). Supply-capped at 4,800 casts/4h — buy limit and daily volume, not the 1,200/hr cast rate, are usually the bottleneck."
+    },
+    {
+     "name": "Fire battlestaff",
+     "line1": "buy → cast High Level Alchemy (55 Magic + nature runes)",
+     "rate": "+380/alch · ≈456.0K/hr",
+     "detail": "Buy at 8,779 gp, alch for 9,300 gp (nature rune already deducted). Supply-capped at 4,800 casts/4h — buy limit and daily volume, not the 1,200/hr cast rate, are usually the bottleneck."
     },
     {
      "name": "Water battlestaff",
@@ -111,18 +137,6 @@
      "line1": "buy → cast High Level Alchemy (55 Magic + nature runes)",
      "rate": "+374/alch · ≈448.8K/hr",
      "detail": "Buy at 8,785 gp, alch for 9,300 gp (nature rune already deducted). Supply-capped at 4,800 casts/4h — buy limit and daily volume, not the 1,200/hr cast rate, are usually the bottleneck."
-    },
-    {
-     "name": "Combat bracelet",
-     "line1": "buy → cast High Level Alchemy (55 Magic + nature runes)",
-     "rate": "+368/alch · ≈441.6K/hr",
-     "detail": "Buy at 12,115 gp, alch for 12,624 gp (nature rune already deducted). Supply-capped at 4,800 casts/4h — buy limit and daily volume, not the 1,200/hr cast rate, are usually the bottleneck."
-    },
-    {
-     "name": "Dragon javelin tips",
-     "line1": "buy → cast High Level Alchemy (55 Magic + nature runes)",
-     "rate": "+331/alch · ≈397.2K/hr",
-     "detail": "Buy at 698 gp, alch for 1,170 gp (nature rune already deducted). Supply-capped at 4,800 casts/4h — buy limit and daily volume, not the 1,200/hr cast rate, are usually the bottleneck."
     }
    ]
   },
@@ -447,7 +461,7 @@
      "badge": "HIGH",
      "elite": null,
      "intensity": "high",
-     "detail": "Requires Smithing 85. Quests: The Giant Dwarf. Setup: Runite ore, Coal, Weight-reducing clothing, Coal bag, Ice gloves, Extended stamina potion, Stamina potion, Ring of Endurance, agility. Supplies ≈112.9K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Smithing 85. Quests: The Giant Dwarf. Setup: Runite ore, Coal, Weight-reducing clothing, Coal bag, Ice gloves, Extended stamina potion, Stamina potion, Ring of Endurance, agility. Supplies ≈111.0K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Smelting_runite_bars_at_Blast_Furnace",
      "reqs": [
       {
@@ -468,7 +482,7 @@
      "badge": "HIGH",
      "elite": null,
      "intensity": "high",
-     "detail": "Requires Smithing 70. Quests: The Giant Dwarf. Setup: Adamantite ore, Coal, Weight-reducing clothing, Coal bag, Ice gloves, Super energy, Energy potion, Stamina potion. Supplies ≈105.1K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Smithing 70. Quests: The Giant Dwarf. Setup: Adamantite ore, Coal, Weight-reducing clothing, Coal bag, Ice gloves, Super energy, Energy potion, Stamina potion. Supplies ≈104.5K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Smelting_adamantite_bars_at_Blast_Furnace",
      "reqs": [
       {
@@ -510,7 +524,7 @@
      "badge": "MODERATE",
      "elite": null,
      "intensity": "moderate",
-     "detail": "Requires Herblore 65. Quests: Zogre Flesh Eaters. Setup: Super restore(4), Nail beast nails, Unicorn horn dust, Snake weed, Druidic Ritual. Supplies ≈12.0K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Herblore 65. Quests: Zogre Flesh Eaters. Setup: Super restore(4), Nail beast nails, Unicorn horn dust, Snake weed, Druidic Ritual. Supplies ≈11.9K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_sanfew_serum(4)",
      "reqs": [
       {
@@ -521,6 +535,37 @@
      ],
      "quests": [
       "Zogre Flesh Eaters"
+     ],
+     "minCombat": null
+    },
+    {
+     "name": "Opening sinister chests",
+     "line1": "Agility 49 (rec), Magic 58 (rec), Agility 49",
+     "rate": "1.9M/hr",
+     "badge": "HIGH",
+     "elite": null,
+     "intensity": "high",
+     "detail": "Requires Agility 49 (rec), Magic 58 (rec), Agility 49. Quests: Watchtower. Setup: Tome of earth, Law runes, Slash, weapon, Wilderness sword, Sinister key, Locator orb, Superantipoison, Serpentine helm, Slashing, Armour, Ardougne Diary, Teleport to House, player-owned house, Yanille. Supplies ≈19.7K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Opening_sinister_chests",
+     "reqs": [
+      {
+       "s": "Agility",
+       "l": 49,
+       "rec": true
+      },
+      {
+       "s": "Magic",
+       "l": 58,
+       "rec": true
+      },
+      {
+       "s": "Agility",
+       "l": 49,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "Watchtower"
      ],
      "minCombat": null
     },
@@ -582,7 +627,7 @@
      "badge": "HIGH",
      "elite": null,
      "intensity": "high",
-     "detail": "Requires Herblore 50, Magic 70. Quests: A Kingdom Divided. Setup: Staff of earth. Supplies ≈40.5K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Herblore 50, Magic 70. Quests: A Kingdom Divided. Setup: Staff of earth. Supplies ≈38.9K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Degriming_grimy_irit_leaf",
      "reqs": [
       {
@@ -608,7 +653,7 @@
      "badge": "HIGH",
      "elite": null,
      "intensity": "high",
-     "detail": "Requires Thieving 84, Prayer 43+. Setup: Proselyte, Initiate armour, Monk's robes, Prayer potion, Monkfish, Looting bag, Medium Wilderness Diary, Hard Wilderness Diary. Supplies ≈25.6K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Thieving 84, Prayer 43+. Setup: Proselyte, Initiate armour, Monk's robes, Prayer potion, Monkfish, Looting bag, Medium Wilderness Diary, Hard Wilderness Diary. Supplies ≈25.3K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Stealing_from_Rogues%27_Castle_chests",
      "reqs": [
       {
@@ -658,7 +703,7 @@
      "badge": "HIGH",
      "elite": null,
      "intensity": "high",
-     "detail": "Requires Smithing 30 (rec). Quests: The Giant Dwarf. Setup: Iron ore, Coal, Weight-reducing clothing, Coal bag, Bucket of water, Ice gloves, Mining, Super energy, Energy potion, Stamina potion. Supplies ≈104.3K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Smithing 30 (rec). Quests: The Giant Dwarf. Setup: Iron ore, Coal, Weight-reducing clothing, Coal bag, Bucket of water, Ice gloves, Mining, Super energy, Energy potion, Stamina potion. Supplies ≈103.7K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Smelting_steel_bars_at_Blast_Furnace",
      "reqs": [
       {
@@ -710,7 +755,7 @@
      "badge": "HIGH",
      "elite": null,
      "intensity": "high",
-     "detail": "Requires Smithing 50 (rec). Quests: The Giant Dwarf. Setup: Mithril ore, Coal, Weight-reducing clothing, Coal bag, Bucket of water, Ice gloves, Mining, Super energy, Energy potion, Stamina potion. Supplies ≈104.6K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Smithing 50 (rec). Quests: The Giant Dwarf. Setup: Mithril ore, Coal, Weight-reducing clothing, Coal bag, Bucket of water, Ice gloves, Mining, Super energy, Energy potion, Stamina potion. Supplies ≈104.0K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Smelting_mithril_bars_at_Blast_Furnace",
      "reqs": [
       {
@@ -949,7 +994,7 @@
      "badge": "HIGH",
      "elite": null,
      "intensity": "high",
-     "detail": "Requires Herblore 54, Magic 70. Quests: A Kingdom Divided. Setup: Staff of earth. Supplies ≈56.6K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Herblore 54, Magic 70. Quests: A Kingdom Divided. Setup: Staff of earth. Supplies ≈57.8K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Degriming_grimy_kwuarm",
      "reqs": [
       {
@@ -975,7 +1020,7 @@
      "badge": "MODERATE",
      "elite": null,
      "intensity": "moderate",
-     "detail": "Requires Hunter 72, Fletching 62, Magic 54. Quests: Children of the Sun. Setup: Hunter's spear, teasing stick, Knife, Chisel, Axe, Weight-reducing clothing, Large fur pouch, large meat pouch, Fairy ring, Quetzal Transport System, Kandarin headgear, Log basket, Super energy, Stamina potion, Bonecrusher, Prayer. Supplies ≈44/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Hunter 72, Fletching 62, Magic 54. Quests: Children of the Sun. Setup: Hunter's spear, teasing stick, Knife, Chisel, Axe, Weight-reducing clothing, Large fur pouch, large meat pouch, Fairy ring, Quetzal Transport System, Kandarin headgear, Log basket, Super energy, Stamina potion, Bonecrusher, Prayer. Supplies ≈43/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Hunting_sunlight_antelopes",
      "reqs": [
       {
@@ -1006,7 +1051,7 @@
      "badge": "HIGH",
      "elite": null,
      "intensity": "high",
-     "detail": "Requires Herblore 50, Magic 70. Quests: A Kingdom Divided. Setup: Staff of earth. Supplies ≈143.1K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Herblore 50, Magic 70. Quests: A Kingdom Divided. Setup: Staff of earth. Supplies ≈141.2K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Degriming_grimy_ranarr_weed",
      "reqs": [
       {
@@ -1032,7 +1077,7 @@
      "badge": "MODERATE",
      "elite": null,
      "intensity": "moderate",
-     "detail": "Requires Hunter 91, Fletching 72, Prayer 43, Magic 54. Quests: Children of the Sun. Setup: Hunter's spear, teasing stick, Knife, Chisel, Guild hunter outfit, weight-reducing clothing, Large fur pouch, large meat pouch, Super energy, Stamina potion, Maple logs, Bonecrusher. Supplies ≈57/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Hunter 91, Fletching 72, Prayer 43, Magic 54. Quests: Children of the Sun. Setup: Hunter's spear, teasing stick, Knife, Chisel, Guild hunter outfit, weight-reducing clothing, Large fur pouch, large meat pouch, Super energy, Stamina potion, Maple logs, Bonecrusher. Supplies ≈56/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Hunting_moonlight_antelopes",
      "reqs": [
       {
@@ -1110,7 +1155,7 @@
      "badge": "MODERATE",
      "elite": null,
      "intensity": "moderate",
-     "detail": "Requires Herblore 90. Quests: Druidic Ritual. Setup: Prescription goggles. Supplies ≈9.4K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Herblore 90. Quests: Druidic Ritual. Setup: Prescription goggles. Supplies ≈9.3K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_super_combat_potions_(with_prescription_goggles)",
      "reqs": [
       {
@@ -1165,7 +1210,7 @@
      "badge": "MODERATE",
      "elite": null,
      "intensity": "moderate",
-     "detail": "Requires Runecraft 85, Mining 21 (rec), Hitpoints 70+. Quests: Enter the Abyss, Lost City, Heroes' Quest. Setup: Colossal pouch, Raiments of the eye, amulets of glory, Ring of dueling, Black pickaxe, weight-reducing clothing, Taverley teleport, games necklace. Supplies ≈28.5K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Runecraft 85, Mining 21 (rec), Hitpoints 70+. Quests: Enter the Abyss, Lost City, Heroes' Quest. Setup: Colossal pouch, Raiments of the eye, amulets of glory, Ring of dueling, Black pickaxe, weight-reducing clothing, Taverley teleport, games necklace. Supplies ≈28.0K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Crafting_cosmic_runes_through_the_Abyss",
      "reqs": [
       {
@@ -1224,7 +1269,7 @@
      "badge": "MODERATE",
      "elite": null,
      "intensity": "moderate",
-     "detail": "Requires Runecraft 85, Mining 21 (rec), Hitpoints 70+. Quests: Enter the Abyss, Lost City, Heroes' Quest. Setup: Colossal pouch, Raiments of the eye, amulets of glory, Ring of dueling, Black pickaxe, weight-reducing clothing, Taverley teleport, games necklace. Supplies ≈28.5K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Runecraft 85, Mining 21 (rec), Hitpoints 70+. Quests: Enter the Abyss, Lost City, Heroes' Quest. Setup: Colossal pouch, Raiments of the eye, amulets of glory, Ring of dueling, Black pickaxe, weight-reducing clothing, Taverley teleport, games necklace. Supplies ≈28.0K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Crafting_chaos_runes_through_the_Abyss",
      "reqs": [
       {
@@ -1257,7 +1302,7 @@
      "badge": "HIGH",
      "elite": null,
      "intensity": "high",
-     "detail": "Requires Herblore 50, Magic 70. Quests: A Kingdom Divided. Setup: Staff of earth. Supplies ≈10.3K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Herblore 50, Magic 70. Quests: A Kingdom Divided. Setup: Staff of earth. Supplies ≈9.0K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Degriming_grimy_harralander",
      "reqs": [
       {
@@ -1455,7 +1500,7 @@
      "badge": "MODERATE",
      "elite": null,
      "intensity": "moderate",
-     "detail": "Requires Runecraft 1 (rec), Crafting 99 (rec). Quests: Temple of the Eye. Setup: Pure essence, Essence pouch, Colossal pouch, Ring of the Elements, Stamina potion, Energy potion, Agility, Ring of dueling, Crafting cape, Graceful outfit, Raiments of the Eye. Supplies ≈647.6K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Runecraft 1 (rec), Crafting 99 (rec). Quests: Temple of the Eye. Setup: Pure essence, Essence pouch, Colossal pouch, Ring of the Elements, Stamina potion, Energy potion, Agility, Ring of dueling, Crafting cape, Graceful outfit, Raiments of the Eye. Supplies ≈644.5K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Crafting_air_runes_(high_level)",
      "reqs": [
       {
@@ -1477,11 +1522,11 @@
     {
      "name": "Making raw summer pies",
      "line1": "Cooking 95",
-     "rate": "916.6K/hr",
+     "rate": "934.0K/hr",
      "badge": "MODERATE",
      "elite": null,
      "intensity": "moderate",
-     "detail": "Requires Cooking 95. Supplies ≈409/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Cooking 95. Supplies ≈397/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_raw_summer_pies",
      "reqs": [
       {
@@ -1541,7 +1586,7 @@
      "badge": "HIGH",
      "elite": null,
      "intensity": "high",
-     "detail": "Requires Hunter 83+ (rec), Magic 50+ (rec), Hunter 83+, Magic 50+. Quests: Lost City, A Kingdom Divided. Setup: Guild hunter outfit, Weight-reducing clothing, Magic butterfly net, Butterfly net, Dramen staff, Lunar staff, Lumbridge & Draynor Diary, Impling jar, Stamina potion, Runes, Snare, Dark Lure, impling. Supplies ≈10.7K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Hunter 83+ (rec), Magic 50+ (rec), Hunter 83+, Magic 50+. Quests: Lost City, A Kingdom Divided. Setup: Guild hunter outfit, Weight-reducing clothing, Magic butterfly net, Butterfly net, Dramen staff, Lunar staff, Lumbridge & Draynor Diary, Impling jar, Stamina potion, Runes, Snare, Dark Lure, impling. Supplies ≈10.6K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Hunting_implings",
      "reqs": [
       {
@@ -1619,7 +1664,7 @@
      "badge": "MODERATE",
      "elite": null,
      "intensity": "moderate",
-     "detail": "Supplies ≈8.2K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Supplies ≈7.8K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Selling_archery_supplies",
      "reqs": [],
      "quests": [],
@@ -1701,7 +1746,7 @@
     {
      "name": "Charging and alchemising bracelets of ethereum",
      "line1": "Magic 55",
-     "rate": "839.1K/hr",
+     "rate": "796.8K/hr",
      "badge": "MODERATE",
      "elite": null,
      "intensity": "moderate",
@@ -1754,25 +1799,6 @@
      "minCombat": null
     },
     {
-     "name": "Making mahogany planks at the Woodcutting Guild",
-     "line1": "Woodcutting 60",
-     "rate": "761.2K/hr",
-     "badge": "MODERATE",
-     "elite": null,
-     "intensity": "moderate",
-     "detail": "Requires Woodcutting 60. Setup: Weight-reducing clothing. Supplies ≈387.2K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_mahogany_planks_at_the_Woodcutting_Guild",
-     "reqs": [
-      {
-       "s": "Woodcutting",
-       "l": 60,
-       "rec": false
-      }
-     ],
-     "quests": [],
-     "minCombat": null
-    },
-    {
      "name": "Mining and crushing infernal shale (Tick manipulation)",
      "line1": "Mining 78+, Prayer 43+ (rec), Prayer 43+",
      "rate": "753.0K/hr",
@@ -1804,13 +1830,32 @@
      "minCombat": null
     },
     {
+     "name": "Making mahogany planks at the Woodcutting Guild",
+     "line1": "Woodcutting 60",
+     "rate": "744.8K/hr",
+     "badge": "MODERATE",
+     "elite": null,
+     "intensity": "moderate",
+     "detail": "Requires Woodcutting 60. Setup: Weight-reducing clothing. Supplies ≈386.6K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_mahogany_planks_at_the_Woodcutting_Guild",
+     "reqs": [
+      {
+       "s": "Woodcutting",
+       "l": 60,
+       "rec": false
+      }
+     ],
+     "quests": [],
+     "minCombat": null
+    },
+    {
      "name": "Pickpocketing H.A.M. members",
      "line1": "Thieving 15 (rec), Magic 96 (rec), Construction 27+ (rec)",
      "rate": "733.6K/hr",
      "badge": "HIGH",
      "elite": null,
      "intensity": "high",
-     "detail": "Requires Thieving 15 (rec), Magic 96 (rec), Construction 27+ (rec). Setup: Spade, Graceful outfit, Stamina potion, Teleportation, Ardougne diary, H.A.M. robes, Arceuus spellbook, POH portal, Spirit tree & fairy ring, Ornate jewellery box, Ornate rejuvenation pool, player-owned house, Combat Achievements. Supplies ≈20.3K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Thieving 15 (rec), Magic 96 (rec), Construction 27+ (rec). Setup: Spade, Graceful outfit, Stamina potion, Teleportation, Ardougne diary, H.A.M. robes, Arceuus spellbook, POH portal, Spirit tree & fairy ring, Ornate jewellery box, Ornate rejuvenation pool, player-owned house, Combat Achievements. Supplies ≈20.0K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Pickpocketing_H.A.M._members",
      "reqs": [
       {
@@ -1887,7 +1932,7 @@
      "badge": "HIGH",
      "elite": null,
      "intensity": "high",
-     "detail": "Requires Herblore 70, Magic 70. Quests: A Kingdom Divided. Setup: Staff of earth. Supplies ≈36.1K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Herblore 70, Magic 70. Quests: A Kingdom Divided. Setup: Staff of earth. Supplies ≈36.2K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Degriming_grimy_dwarf_weed",
      "reqs": [
       {
@@ -1913,7 +1958,7 @@
      "badge": "HIGH",
      "elite": null,
      "intensity": "high",
-     "detail": "Requires Herblore 50, Magic 70. Quests: A Kingdom Divided. Setup: Staff of earth. Supplies ≈5.5K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Herblore 50, Magic 70. Quests: A Kingdom Divided. Setup: Staff of earth. Supplies ≈5.2K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Degriming_grimy_guam_leaf",
      "reqs": [
       {
@@ -2011,7 +2056,7 @@
      "badge": "HIGH",
      "elite": null,
      "intensity": "high",
-     "detail": "Requires Herblore 50, Magic 70. Quests: A Kingdom Divided. Setup: Staff of earth. Supplies ≈4.2K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Herblore 50, Magic 70. Quests: A Kingdom Divided. Setup: Staff of earth. Supplies ≈4.0K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Degriming_grimy_tarromin",
      "reqs": [
       {
@@ -2037,7 +2082,7 @@
      "badge": "HIGH",
      "elite": null,
      "intensity": "high",
-     "detail": "Requires Herblore 40. Quests: Druidic Ritual. Setup: Grimy irit leaf. Supplies ≈1.5K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Herblore 40. Quests: Druidic Ritual. Setup: Grimy irit leaf. Supplies ≈1.4K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Cleaning_grimy_irit_leaves",
      "reqs": [
       {
@@ -2058,7 +2103,7 @@
      "badge": "HIGH",
      "elite": null,
      "intensity": "high",
-     "detail": "Requires Crafting 8, Construction 25, Magic 45. Setup: Dust battlestaff, Player-owned house, Crafting table 2, Workshop. Supplies ≈16.0K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Crafting 8, Construction 25, Magic 45. Setup: Dust battlestaff, Player-owned house, Crafting table 2, Workshop. Supplies ≈16.1K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Crafting_clockwork_(teleport_method)",
      "reqs": [
       {
@@ -2087,7 +2132,7 @@
      "badge": "HIGH",
      "elite": null,
      "intensity": "high",
-     "detail": "Requires Runecraft 44 (rec), Mining 21 (rec), Hitpoints 70+. Quests: Enter the Abyss. Setup: Small pouch, Giant pouch, essence pouch, amulets of glory, Ring of dueling, pickaxe, food, weight-reducing clothing, Heroes' Quest, Taverley teleport, games necklace, Dragon Slayer II, mythical cape. Supplies ≈30.4K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Runecraft 44 (rec), Mining 21 (rec), Hitpoints 70+. Quests: Enter the Abyss. Setup: Small pouch, Giant pouch, essence pouch, amulets of glory, Ring of dueling, pickaxe, food, weight-reducing clothing, Heroes' Quest, Taverley teleport, games necklace, Dragon Slayer II, mythical cape. Supplies ≈30.0K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Crafting_nature_runes_through_the_Abyss",
      "reqs": [
       {
@@ -2234,7 +2279,7 @@
      "badge": "MODERATE",
      "elite": null,
      "intensity": "moderate",
-     "detail": "Requires Herblore 90. Quests: Druidic Ritual. Supplies ≈9.4K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Herblore 90. Quests: Druidic Ritual. Supplies ≈9.3K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_super_combat_potions",
      "reqs": [
       {
@@ -2274,7 +2319,7 @@
      "badge": "HIGH",
      "elite": null,
      "intensity": "high",
-     "detail": "Requires Herblore 50, Magic 70. Quests: A Kingdom Divided. Setup: Staff of earth. Supplies ≈5.0K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Herblore 50, Magic 70. Quests: A Kingdom Divided. Setup: Staff of earth. Supplies ≈7.8K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Degriming_grimy_marrentill",
      "reqs": [
       {
@@ -2300,7 +2345,7 @@
      "badge": "MODERATE",
      "elite": null,
      "intensity": "moderate",
-     "detail": "Requires Runecraft 54, Hitpoints 70+. Quests: Enter the Abyss, Heroes' Quest. Setup: Small pouch, Giant pouch, essence pouch, amulets of glory, Ring of dueling, Spotted cape, spottier cape, boots of lightness, graceful clothing, armour, weapons, Entrana, Raiments of the Eye, Taverley teleport, games necklace. Supplies ≈2.1K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Runecraft 54, Hitpoints 70+. Quests: Enter the Abyss, Heroes' Quest. Setup: Small pouch, Giant pouch, essence pouch, amulets of glory, Ring of dueling, Spotted cape, spottier cape, boots of lightness, graceful clothing, armour, weapons, Entrana, Raiments of the Eye, Taverley teleport, games necklace. Supplies ≈2.0K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Crafting_law_runes_through_the_Abyss",
      "reqs": [
       {
@@ -2327,7 +2372,7 @@
      "badge": "MODERATE",
      "elite": null,
      "intensity": "moderate",
-     "detail": "Requires Magic 76. Quests: Lunar Diplomacy. Setup: Staff of air, Lunar Spellbook. Supplies ≈401/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Magic 76. Quests: Lunar Diplomacy. Setup: Staff of air, Lunar Spellbook. Supplies ≈406/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Casting_Spin_Flax",
      "reqs": [
       {
@@ -2348,7 +2393,7 @@
      "badge": "MODERATE",
      "elite": null,
      "intensity": "moderate",
-     "detail": "Requires Smithing 70, Magic 43. Setup: Staff of fire, Starting bankroll to buy materials (recommended ~). Supplies ≈1.6K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Smithing 70, Magic 43. Setup: Staff of fire, Starting bankroll to buy materials (recommended ~). Supplies ≈1.7K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Smelting_adamantite_bars_(Superheat_Item)",
      "reqs": [
       {
@@ -2418,19 +2463,6 @@
      "quests": [
       "Pandemonium"
      ],
-     "minCombat": null
-    },
-    {
-     "name": "Crushing bird nests",
-     "line1": "Pestle and mortar, Bird nest (empty)",
-     "rate": "500.0K/hr",
-     "badge": "MODERATE",
-     "elite": null,
-     "intensity": "moderate",
-     "detail": "Setup: Pestle and mortar, Bird nest (empty). Supplies ≈4.6K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Crushing_bird_nests",
-     "reqs": [],
-     "quests": [],
      "minCombat": null
     },
     {
@@ -2512,7 +2544,7 @@
      "badge": "HIGH",
      "elite": null,
      "intensity": "high",
-     "detail": "Requires Herblore 25. Quests: Druidic Ritual. Supplies ≈5.3K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Herblore 25. Quests: Druidic Ritual. Supplies ≈5.2K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Cleaning_grimy_ranarr_weed",
      "reqs": [
       {
@@ -2659,7 +2691,7 @@
      "badge": "HIGH",
      "elite": null,
      "intensity": "high",
-     "detail": "Requires Herblore 20. Quests: Druidic Ritual. Setup: Grimy harralander. Supplies ≈372/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Herblore 20. Quests: Druidic Ritual. Setup: Grimy harralander. Supplies ≈322/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Cleaning_grimy_harralander",
      "reqs": [
       {
@@ -2695,7 +2727,7 @@
      "badge": "HIGH",
      "elite": null,
      "intensity": "high",
-     "detail": "Requires Smithing 15 (rec). Quests: The Giant Dwarf. Setup: Iron ore, Weight-reducing clothing, Bucket of water, Ice gloves, Mining, Super energy, Energy potion, Stamina potion. Supplies ≈104.2K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Smithing 15 (rec). Quests: The Giant Dwarf. Setup: Iron ore, Weight-reducing clothing, Bucket of water, Ice gloves, Mining, Super energy, Energy potion, Stamina potion. Supplies ≈103.6K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Smelting_iron_bars_at_Blast_Furnace",
      "reqs": [
       {
@@ -2747,7 +2779,7 @@
      "badge": "MODERATE",
      "elite": null,
      "intensity": "moderate",
-     "detail": "Requires Firemaking 50. Quests: Enlightened Journey. Setup: Weight-reducing clothing, Rings of dueling, Coins, Teak logs, Willow logs, Varrock, Castle Wars, Balloon transport system, Willow Logs, Yew Logs. Supplies ≈17.0K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Firemaking 50. Quests: Enlightened Journey. Setup: Weight-reducing clothing, Rings of dueling, Coins, Teak logs, Willow logs, Varrock, Castle Wars, Balloon transport system, Willow Logs, Yew Logs. Supplies ≈16.8K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_teak_planks",
      "reqs": [
       {
@@ -2807,13 +2839,26 @@
      "minCombat": null
     },
     {
+     "name": "Crushing bird nests",
+     "line1": "Pestle and mortar, Bird nest (empty)",
+     "rate": "335.0K/hr",
+     "badge": "MODERATE",
+     "elite": null,
+     "intensity": "moderate",
+     "detail": "Setup: Pestle and mortar, Bird nest (empty). Supplies ≈4.6K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Crushing_bird_nests",
+     "reqs": [],
+     "quests": [],
+     "minCombat": null
+    },
+    {
      "name": "Making weapon poison(++)",
      "line1": "Herblore 82",
      "rate": "309.8K/hr",
      "badge": "HIGH",
      "elite": null,
      "intensity": "high",
-     "detail": "Requires Herblore 82. Quests: Watchtower. Setup: Skavid map, Light source, Kandarin headgear, Ring of dueling. Supplies ≈430/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Herblore 82. Quests: Watchtower. Setup: Skavid map, Light source, Kandarin headgear, Ring of dueling. Supplies ≈443/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_weapon_poison(%2B%2B)",
      "reqs": [
       {
@@ -2872,19 +2917,6 @@
      "quests": [
       "Bone Voyage"
      ],
-     "minCombat": null
-    },
-    {
-     "name": "Recharging rings of wealth",
-     "line1": "Wilderness sword 4",
-     "rate": "292.1K/hr",
-     "badge": "MODERATE",
-     "elite": null,
-     "intensity": "moderate",
-     "detail": "Setup: Wilderness sword 4. Supplies ≈290.2K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Recharging_rings_of_wealth",
-     "reqs": [],
-     "quests": [],
      "minCombat": null
     },
     {
@@ -2986,7 +3018,7 @@
      "badge": "HIGH",
      "elite": null,
      "intensity": "high",
-     "detail": "Requires Herblore 70. Quests: Druidic Ritual. Setup: Grimy dwarf weed. Supplies ≈6.6M/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Herblore 70. Quests: Druidic Ritual. Setup: Grimy dwarf weed. Supplies ≈6.7M/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Cleaning_grimy_dwarf_weed",
      "reqs": [
       {
@@ -3007,7 +3039,7 @@
      "badge": "HIGH",
      "elite": null,
      "intensity": "high",
-     "detail": "Requires Herblore 3. Quests: Druidic Ritual. Setup: Grimy guam leaf. Supplies ≈193/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Herblore 3. Quests: Druidic Ritual. Setup: Grimy guam leaf. Supplies ≈184/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Cleaning_grimy_guam_leaves",
      "reqs": [
       {
@@ -3057,7 +3089,7 @@
      "badge": "HIGH",
      "elite": null,
      "intensity": "high",
-     "detail": "Requires Herblore 11. Quests: Druidic Ritual. Setup: Grimy Tarromin. Supplies ≈146/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Herblore 11. Quests: Druidic Ritual. Setup: Grimy Tarromin. Supplies ≈139/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Cleaning_grimy_tarromin",
      "reqs": [
       {
@@ -3106,13 +3138,26 @@
      "minCombat": null
     },
     {
+     "name": "Recharging rings of wealth",
+     "line1": "Wilderness sword 4",
+     "rate": "231.3K/hr",
+     "badge": "MODERATE",
+     "elite": null,
+     "intensity": "moderate",
+     "detail": "Setup: Wilderness sword 4. Supplies ≈290.2K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Recharging_rings_of_wealth",
+     "reqs": [],
+     "quests": [],
+     "minCombat": null
+    },
+    {
      "name": "Cleaning grimy marrentill",
      "line1": "Herblore 5",
      "rate": "225.0K/hr",
      "badge": "HIGH",
      "elite": null,
      "intensity": "high",
-     "detail": "Requires Herblore 5. Quests: Druidic Ritual. Setup: Grimy marrentill. Supplies ≈875.0K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Herblore 5. Quests: Druidic Ritual. Setup: Grimy marrentill. Supplies ≈1.4M/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Cleaning_grimy_marrentill",
      "reqs": [
       {
@@ -3150,30 +3195,6 @@
        "s": "Magic",
        "l": 25,
        "rec": false
-      }
-     ],
-     "quests": [],
-     "minCombat": null
-    },
-    {
-     "name": "Cutting raw yellowfin",
-     "line1": "Cooking 1+, Cooking 99+ (rec)",
-     "rate": "218.1K/hr",
-     "badge": "HIGH",
-     "elite": null,
-     "intensity": "high",
-     "detail": "Requires Cooking 1+, Cooking 99+ (rec). Setup: Chum spreader. Supplies ≈620/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Cutting_raw_yellowfin",
-     "reqs": [
-      {
-       "s": "Cooking",
-       "l": 1,
-       "rec": false
-      },
-      {
-       "s": "Cooking",
-       "l": 99,
-       "rec": true
       }
      ],
      "quests": [],
@@ -3432,7 +3453,7 @@
      "badge": "MODERATE",
      "elite": null,
      "intensity": "moderate",
-     "detail": "Requires Fletching 85. Supplies ≈1.0K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Fletching 85. Supplies ≈988/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Stringing_magic_longbows",
      "reqs": [
       {
@@ -3445,14 +3466,14 @@
      "minCombat": null
     },
     {
-     "name": "Making pastry dough",
-     "line1": "Processing",
-     "rate": "151.2K/hr",
+     "name": "Grinding unicorn horns",
+     "line1": "Pestle and mortar",
+     "rate": "152.1K/hr",
      "badge": "MODERATE",
      "elite": null,
      "intensity": "moderate",
-     "detail": "Supplies ≈70/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_pastry_dough",
+     "detail": "Setup: Pestle and mortar. Supplies ≈464/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Grinding_unicorn_horns",
      "reqs": [],
      "quests": [],
      "minCombat": null
@@ -3490,26 +3511,13 @@
      "minCombat": null
     },
     {
-     "name": "Grinding unicorn horns",
-     "line1": "Pestle and mortar",
-     "rate": "116.7K/hr",
-     "badge": "MODERATE",
-     "elite": null,
-     "intensity": "moderate",
-     "detail": "Setup: Pestle and mortar. Supplies ≈464/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Grinding_unicorn_horns",
-     "reqs": [],
-     "quests": [],
-     "minCombat": null
-    },
-    {
      "name": "Mining clay members",
      "line1": "Pickaxe, Chronicle, Ring of dueling, Varrock armour 1",
      "rate": "115.8K/hr",
      "badge": "MODERATE",
      "elite": null,
      "intensity": "moderate",
-     "detail": "Setup: Pickaxe, Chronicle, Ring of dueling, Varrock armour 1. Supplies ≈38.5K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Setup: Pickaxe, Chronicle, Ring of dueling, Varrock armour 1. Supplies ≈27.8K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Mining_clay_members",
      "reqs": [],
      "quests": [],
@@ -3522,7 +3530,7 @@
      "badge": "HIGH",
      "elite": null,
      "intensity": "high",
-     "detail": "Requires Fishing 90+, Hunter 44+. Quests: Bone Voyage, Skippy and the Mogres. Setup: Merfolk trident, trident of the seas, dragon harpoon, Fishbowl helmet, Diving apparatus, Flippers, Weight-reducing clothing, tackle box. Supplies ≈1.9K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Fishing 90+, Hunter 44+. Quests: Bone Voyage, Skippy and the Mogres. Setup: Merfolk trident, trident of the seas, dragon harpoon, Fishbowl helmet, Diving apparatus, Flippers, Weight-reducing clothing, tackle box. Supplies ≈1.8K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Drift_net_fishing",
      "reqs": [
       {
@@ -3551,13 +3559,54 @@
    "personal": true,
    "items": [
     {
+     "name": "Tanning black dragonhide",
+     "line1": "Weight-reducing clothing, Stamina potion, Black dragonhide",
+     "rate": "1.8M/hr",
+     "badge": "LOW",
+     "elite": null,
+     "intensity": "low",
+     "detail": "Setup: Weight-reducing clothing, Stamina potion, Black dragonhide. Supplies ≈3.6K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Tanning_black_dragonhide",
+     "reqs": [],
+     "quests": [],
+     "minCombat": null
+    },
+    {
+     "name": "Buying Relicym's balm",
+     "line1": "Weight-reducing clothing",
+     "rate": "1.3M/hr",
+     "badge": "LOW",
+     "elite": null,
+     "intensity": "low",
+     "detail": "Quests: Zogre Flesh Eaters. Setup: Weight-reducing clothing. Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Buying_Relicym%27s_balm",
+     "reqs": [],
+     "quests": [
+      "Zogre Flesh Eaters"
+     ],
+     "minCombat": null
+    },
+    {
+     "name": "Tanning green dragonhide",
+     "line1": "Weight-reducing clothing, Energy potion, Green dragonhide",
+     "rate": "1.2M/hr",
+     "badge": "LOW",
+     "elite": null,
+     "intensity": "low",
+     "detail": "Setup: Weight-reducing clothing, Energy potion, Green dragonhide. Supplies ≈1.6K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Tanning_green_dragonhide",
+     "reqs": [],
+     "quests": [],
+     "minCombat": null
+    },
+    {
      "name": "Hunting pyre foxes",
      "line1": "Hunter 57, Magic 54",
      "rate": "1.2M/hr",
      "badge": "LOW",
      "elite": null,
      "intensity": "low",
-     "detail": "Requires Hunter 57, Magic 54. Quests: Children of the Sun. Setup: Knife, Fletching knife, Axe, Large fur pouch, large meat pouch, Fairy ring, Quetzal Transport System, Log basket, Kandarin headgear, Bonecrusher, Prayer, Jerboa tail, Ring of dueling, Bank. Supplies ≈306/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Hunter 57, Magic 54. Quests: Children of the Sun. Setup: Knife, Fletching knife, Axe, Large fur pouch, large meat pouch, Fairy ring, Quetzal Transport System, Log basket, Kandarin headgear, Bonecrusher, Prayer, Jerboa tail, Ring of dueling, Bank. Supplies ≈275/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Hunting_pyre_foxes",
      "reqs": [
       {
@@ -3577,13 +3626,26 @@
      "minCombat": null
     },
     {
+     "name": "Tanning red dragonhide",
+     "line1": "Weight-reducing clothing, Energy potion, Red dragonhide",
+     "rate": "1.1M/hr",
+     "badge": "LOW",
+     "elite": null,
+     "intensity": "low",
+     "detail": "Setup: Weight-reducing clothing, Energy potion, Red dragonhide. Supplies ≈2.3K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Tanning_red_dragonhide",
+     "reqs": [],
+     "quests": [],
+     "minCombat": null
+    },
+    {
      "name": "Smithing rune items (Player-to-player trading)",
      "line1": "Smithing 99",
      "rate": "1.1M/hr",
      "badge": "LOW",
      "elite": null,
      "intensity": "low",
-     "detail": "Requires Smithing 99. Setup: Hammer, Smiths' Uniform. Supplies ≈36.8K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Smithing 99. Setup: Hammer, Smiths' Uniform. Supplies ≈36.9K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Smithing_rune_items_(Player-to-player_trading)",
      "reqs": [
       {
@@ -3687,19 +3749,6 @@
      "minCombat": null
     },
     {
-     "name": "Tanning green dragonhide",
-     "line1": "Weight-reducing clothing, Energy potion, Green dragonhide",
-     "rate": "992.2K/hr",
-     "badge": "LOW",
-     "elite": null,
-     "intensity": "low",
-     "detail": "Setup: Weight-reducing clothing, Energy potion, Green dragonhide. Supplies ≈1.6K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Tanning_green_dragonhide",
-     "reqs": [],
-     "quests": [],
-     "minCombat": null
-    },
-    {
      "name": "Crafting blood runes at Arceuus (no diary)",
      "line1": "Runecraft 77, Mining 38, Crafting 38, Agility 73+ (rec)",
      "rate": "980.3K/hr",
@@ -3734,37 +3783,37 @@
      "minCombat": null
     },
     {
-     "name": "Making cadantine potions",
-     "line1": "Herblore 66",
-     "rate": "912.0K/hr",
+     "name": "Tanning blue dragonhide",
+     "line1": "Weight-reducing clothing, Energy potion, Blue dragonhide",
+     "rate": "922.2K/hr",
      "badge": "LOW",
      "elite": null,
      "intensity": "low",
-     "detail": "Requires Herblore 66. Quests: Druidic Ritual. Supplies ≈2.7K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_cadantine_potions",
+     "detail": "Setup: Weight-reducing clothing, Energy potion, Blue dragonhide. Supplies ≈1.9K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Tanning_blue_dragonhide",
+     "reqs": [],
+     "quests": [],
+     "minCombat": null
+    },
+    {
+     "name": "Making snapdragon potions",
+     "line1": "Herblore 63",
+     "rate": "920.0K/hr",
+     "badge": "LOW",
+     "elite": null,
+     "intensity": "low",
+     "detail": "Requires Herblore 63. Quests: Druidic Ritual. Supplies ≈7.9K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_snapdragon_potions",
      "reqs": [
       {
        "s": "Herblore",
-       "l": 66,
+       "l": 63,
        "rec": false
       }
      ],
      "quests": [
       "Druidic Ritual"
      ],
-     "minCombat": null
-    },
-    {
-     "name": "Tanning blue dragonhide",
-     "line1": "Weight-reducing clothing, Energy potion, Blue dragonhide",
-     "rate": "901.2K/hr",
-     "badge": "LOW",
-     "elite": null,
-     "intensity": "low",
-     "detail": "Setup: Weight-reducing clothing, Energy potion, Blue dragonhide. Supplies ≈1.8K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Tanning_blue_dragonhide",
-     "reqs": [],
-     "quests": [],
      "minCombat": null
     },
     {
@@ -3795,22 +3844,9 @@
      "minCombat": null
     },
     {
-     "name": "Tanning red dragonhide",
-     "line1": "Weight-reducing clothing, Energy potion, Red dragonhide",
-     "rate": "827.8K/hr",
-     "badge": "LOW",
-     "elite": null,
-     "intensity": "low",
-     "detail": "Setup: Weight-reducing clothing, Energy potion, Red dragonhide. Supplies ≈2.4K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Tanning_red_dragonhide",
-     "reqs": [],
-     "quests": [],
-     "minCombat": null
-    },
-    {
      "name": "Making ranarr potions",
      "line1": "Herblore 30",
-     "rate": "811.2K/hr",
+     "rate": "881.4K/hr",
      "badge": "LOW",
      "elite": null,
      "intensity": "low",
@@ -3820,6 +3856,48 @@
       {
        "s": "Herblore",
        "l": 30,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "Druidic Ritual"
+     ],
+     "minCombat": null
+    },
+    {
+     "name": "Making toadflax potions",
+     "line1": "Herblore 34",
+     "rate": "840.0K/hr",
+     "badge": "LOW",
+     "elite": null,
+     "intensity": "low",
+     "detail": "Requires Herblore 34. Quests: Druidic Ritual. Supplies ≈2.1K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_toadflax_potions",
+     "reqs": [
+      {
+       "s": "Herblore",
+       "l": 34,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "Druidic Ritual"
+     ],
+     "minCombat": null
+    },
+    {
+     "name": "Making dwarf weed potions",
+     "line1": "Herblore 72",
+     "rate": "832.0K/hr",
+     "badge": "LOW",
+     "elite": null,
+     "intensity": "low",
+     "detail": "Requires Herblore 72. Quests: Druidic Ritual. Supplies ≈1.5K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_dwarf_weed_potions",
+     "reqs": [
+      {
+       "s": "Herblore",
+       "l": 72,
        "rec": false
       }
      ],
@@ -3901,18 +3979,18 @@
      "minCombat": null
     },
     {
-     "name": "Making toadflax potions",
-     "line1": "Herblore 34",
-     "rate": "760.0K/hr",
+     "name": "Making cadantine potions",
+     "line1": "Herblore 66",
+     "rate": "776.0K/hr",
      "badge": "LOW",
      "elite": null,
      "intensity": "low",
-     "detail": "Requires Herblore 34. Quests: Druidic Ritual. Supplies ≈2.1K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_toadflax_potions",
+     "detail": "Requires Herblore 66. Quests: Druidic Ritual. Supplies ≈2.7K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_cadantine_potions",
      "reqs": [
       {
        "s": "Herblore",
-       "l": 34,
+       "l": 66,
        "rec": false
       }
      ],
@@ -3922,14 +4000,14 @@
      "minCombat": null
     },
     {
-     "name": "Tanning black dragonhide",
-     "line1": "Weight-reducing clothing, Stamina potion, Black dragonhide",
-     "rate": "743.8K/hr",
+     "name": "Making ultracompost",
+     "line1": "Processing",
+     "rate": "766.8K/hr",
      "badge": "LOW",
      "elite": null,
      "intensity": "low",
-     "detail": "Setup: Weight-reducing clothing, Stamina potion, Black dragonhide. Supplies ≈3.6K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Tanning_black_dragonhide",
+     "detail": "Supplies ≈363/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_ultracompost",
      "reqs": [],
      "quests": [],
      "minCombat": null
@@ -3956,39 +4034,18 @@
      "minCombat": null
     },
     {
-     "name": "Making kwuarm potions",
-     "line1": "Herblore 55",
-     "rate": "712.0K/hr",
+     "name": "Making avantoe potions",
+     "line1": "Herblore 50",
+     "rate": "712.5K/hr",
      "badge": "LOW",
      "elite": null,
      "intensity": "low",
-     "detail": "Requires Herblore 55. Quests: Druidic Ritual. Supplies ≈2.3K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_kwuarm_potions",
+     "detail": "Requires Herblore 50. Quests: Druidic Ritual. Supplies ≈1.4K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_avantoe_potions",
      "reqs": [
       {
        "s": "Herblore",
-       "l": 55,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "Druidic Ritual"
-     ],
-     "minCombat": null
-    },
-    {
-     "name": "Making snapdragon potions",
-     "line1": "Herblore 63",
-     "rate": "708.0K/hr",
-     "badge": "LOW",
-     "elite": null,
-     "intensity": "low",
-     "detail": "Requires Herblore 63. Quests: Druidic Ritual. Supplies ≈7.9K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_snapdragon_potions",
-     "reqs": [
-      {
-       "s": "Herblore",
-       "l": 63,
+       "l": 50,
        "rec": false
       }
      ],
@@ -4004,7 +4061,7 @@
      "badge": "LOW",
      "elite": null,
      "intensity": "low",
-     "detail": "Requires Cooking 92 (rec). Setup: Cooking cape, Raw moonlight antelope, Hunters' rumour. Supplies ≈2.7K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Cooking 92 (rec). Setup: Cooking cape, Raw moonlight antelope, Hunters' rumour. Supplies ≈2.9K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Cooking_raw_moonlight_antelope",
      "reqs": [
       {
@@ -4014,6 +4071,27 @@
       }
      ],
      "quests": [],
+     "minCombat": null
+    },
+    {
+     "name": "Making irit potions",
+     "line1": "Herblore 45",
+     "rate": "684.0K/hr",
+     "badge": "LOW",
+     "elite": null,
+     "intensity": "low",
+     "detail": "Requires Herblore 45. Quests: Druidic Ritual. Supplies ≈1.6K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_irit_potions",
+     "reqs": [
+      {
+       "s": "Herblore",
+       "l": 45,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "Druidic Ritual"
+     ],
      "minCombat": null
     },
     {
@@ -4115,69 +4193,6 @@
      "minCombat": null
     },
     {
-     "name": "Making dwarf weed potions",
-     "line1": "Herblore 72",
-     "rate": "632.0K/hr",
-     "badge": "LOW",
-     "elite": null,
-     "intensity": "low",
-     "detail": "Requires Herblore 72. Quests: Druidic Ritual. Supplies ≈1.5K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_dwarf_weed_potions",
-     "reqs": [
-      {
-       "s": "Herblore",
-       "l": 72,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "Druidic Ritual"
-     ],
-     "minCombat": null
-    },
-    {
-     "name": "Making avantoe potions",
-     "line1": "Herblore 50",
-     "rate": "616.5K/hr",
-     "badge": "LOW",
-     "elite": null,
-     "intensity": "low",
-     "detail": "Requires Herblore 50. Quests: Druidic Ritual. Supplies ≈1.4K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_avantoe_potions",
-     "reqs": [
-      {
-       "s": "Herblore",
-       "l": 50,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "Druidic Ritual"
-     ],
-     "minCombat": null
-    },
-    {
-     "name": "Making irit potions",
-     "line1": "Herblore 45",
-     "rate": "616.0K/hr",
-     "badge": "LOW",
-     "elite": null,
-     "intensity": "low",
-     "detail": "Requires Herblore 45. Quests: Druidic Ritual. Supplies ≈1.6K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_irit_potions",
-     "reqs": [
-      {
-       "s": "Herblore",
-       "l": 45,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "Druidic Ritual"
-     ],
-     "minCombat": null
-    },
-    {
      "name": "Creating teleport tablets at Lectern (Lunar)",
      "line1": "Magic 69 (rec)",
      "rate": "616.0K/hr",
@@ -4199,19 +4214,6 @@
      "minCombat": null
     },
     {
-     "name": "Making ultracompost",
-     "line1": "Processing",
-     "rate": "604.8K/hr",
-     "badge": "LOW",
-     "elite": null,
-     "intensity": "low",
-     "detail": "Supplies ≈391/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_ultracompost",
-     "reqs": [],
-     "quests": [],
-     "minCombat": null
-    },
-    {
      "name": "Cooking raw marlin",
      "line1": "Cooking 99",
      "rate": "590.2K/hr",
@@ -4228,6 +4230,27 @@
       }
      ],
      "quests": [],
+     "minCombat": null
+    },
+    {
+     "name": "Making kwuarm potions",
+     "line1": "Herblore 55",
+     "rate": "548.0K/hr",
+     "badge": "LOW",
+     "elite": null,
+     "intensity": "low",
+     "detail": "Requires Herblore 55. Quests: Druidic Ritual. Supplies ≈2.4K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_kwuarm_potions",
+     "reqs": [
+      {
+       "s": "Herblore",
+       "l": 55,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "Druidic Ritual"
+     ],
      "minCombat": null
     },
     {
@@ -4269,18 +4292,18 @@
      "minCombat": null
     },
     {
-     "name": "Making lantadyme potions",
-     "line1": "Herblore 69",
-     "rate": "521.9K/hr",
+     "name": "Making harralander potions",
+     "line1": "Herblore 22",
+     "rate": "512.0K/hr",
      "badge": "LOW",
      "elite": null,
      "intensity": "low",
-     "detail": "Requires Herblore 69. Quests: Druidic Ritual. Supplies ≈1.6K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_lantadyme_potions",
+     "detail": "Requires Herblore 22. Quests: Druidic Ritual. Supplies ≈451/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_harralander_potions",
      "reqs": [
       {
        "s": "Herblore",
-       "l": 69,
+       "l": 22,
        "rec": false
       }
      ],
@@ -4296,7 +4319,7 @@
      "badge": "LOW",
      "elite": null,
      "intensity": "low",
-     "detail": "Requires Magic 40 (rec), Construction 67 (rec), Magic 40. Setup: Air staff, Amulet of glory, Ring of dueling, Soft clay, Law runes, Earth runes, Dust battlestaff, mahogany eagle lectern, marble lectern, player-owned house, study. Supplies ≈250/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Magic 40 (rec), Construction 67 (rec), Magic 40. Setup: Air staff, Amulet of glory, Ring of dueling, Soft clay, Law runes, Earth runes, Dust battlestaff, mahogany eagle lectern, marble lectern, player-owned house, study. Supplies ≈251/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Creating_teleport_to_house_tablets",
      "reqs": [
       {
@@ -4450,7 +4473,7 @@
      "badge": "LOW",
      "elite": null,
      "intensity": "low",
-     "detail": "Requires Cooking 84 (rec). Setup: Cooking cape, Raw anglerfish. Supplies ≈2.2K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Cooking 84 (rec). Setup: Cooking cape, Raw anglerfish. Supplies ≈2.3K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Cooking_raw_anglerfish",
      "reqs": [
       {
@@ -4463,34 +4486,13 @@
      "minCombat": null
     },
     {
-     "name": "Making harralander potions",
-     "line1": "Herblore 22",
-     "rate": "400.0K/hr",
-     "badge": "LOW",
-     "elite": null,
-     "intensity": "low",
-     "detail": "Requires Herblore 22. Quests: Druidic Ritual. Supplies ≈470/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_harralander_potions",
-     "reqs": [
-      {
-       "s": "Herblore",
-       "l": 22,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "Druidic Ritual"
-     ],
-     "minCombat": null
-    },
-    {
      "name": "Hunting herbiboars",
      "line1": "Hunter 80, Herblore 31+, Agility 60+",
      "rate": "398.7K/hr",
      "badge": "LOW",
      "elite": null,
      "intensity": "low",
-     "detail": "Requires Hunter 80, Herblore 31+, Agility 60+. Quests: Bone Voyage. Setup: Magic secateurs, Stamina potion, Graceful outfit, Silklined herb sack, Ring of endurance. Supplies ≈445/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Hunter 80, Herblore 31+, Agility 60+. Quests: Bone Voyage. Setup: Magic secateurs, Stamina potion, Graceful outfit, Silklined herb sack, Ring of endurance. Supplies ≈437/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Hunting_herbiboars",
      "reqs": [
       {
@@ -4542,7 +4544,7 @@
      "badge": "LOW",
      "elite": null,
      "intensity": "low",
-     "detail": "Requires Construction 80+ (rec), Herblore 81+ (rec). Quests: Priest in Peril, Nature Spirit, Fairytale II - Cure a Queen, Making Friends with My Arm. Setup: Silver sickle (b), Dramen staff, Lunar staff, Fairytale II - Cure a Queen, Karamja Gloves 3, gem mine, Armour, Defence, Reagent pouch, Fire of Dehumidification, Rejuvenation pool, Player-owned house. Supplies ≈759/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Construction 80+ (rec), Herblore 81+ (rec). Quests: Priest in Peril, Nature Spirit, Fairytale II - Cure a Queen, Making Friends with My Arm. Setup: Silver sickle (b), Dramen staff, Lunar staff, Fairytale II - Cure a Queen, Karamja Gloves 3, gem mine, Armour, Defence, Reagent pouch, Fire of Dehumidification, Rejuvenation pool, Player-owned house. Supplies ≈753/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Collecting_mort_myre_fungi",
      "reqs": [
       {
@@ -4571,7 +4573,7 @@
      "badge": "LOW",
      "elite": null,
      "intensity": "low",
-     "detail": "Requires Fletching 63. Setup: Chisel, Rubies. Supplies ≈879/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Fletching 63. Setup: Chisel, Rubies. Supplies ≈891/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Cutting_ruby_bolt_tips",
      "reqs": [
       {
@@ -4630,7 +4632,7 @@
      "badge": "LOW",
      "elite": null,
      "intensity": "low",
-     "detail": "Requires Cooking 80+ (rec). Quests: Family Crest. Setup: Cooking gauntlets, Raw shark, Easy Kourend & Kebos Diary, Hosidius Kitchen. Supplies ≈731/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Cooking 80+ (rec). Quests: Family Crest. Setup: Cooking gauntlets, Raw shark, Easy Kourend & Kebos Diary, Hosidius Kitchen. Supplies ≈750/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Cooking_raw_sharks",
      "reqs": [
       {
@@ -4697,9 +4699,49 @@
      "minCombat": null
     },
     {
+     "name": "Making lantadyme potions",
+     "line1": "Herblore 69",
+     "rate": "334.8K/hr",
+     "badge": "LOW",
+     "elite": null,
+     "intensity": "low",
+     "detail": "Requires Herblore 69. Quests: Druidic Ritual. Supplies ≈1.5K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_lantadyme_potions",
+     "reqs": [
+      {
+       "s": "Herblore",
+       "l": 69,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "Druidic Ritual"
+     ],
+     "minCombat": null
+    },
+    {
+     "name": "Smithing rune items",
+     "line1": "Smithing 99",
+     "rate": "327.6K/hr",
+     "badge": "LOW",
+     "elite": null,
+     "intensity": "low",
+     "detail": "Requires Smithing 99. Setup: Hammer, Smiths' Uniform. Supplies ≈36.9K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Smithing_rune_items",
+     "reqs": [
+      {
+       "s": "Smithing",
+       "l": 99,
+       "rec": false
+      }
+     ],
+     "quests": [],
+     "minCombat": null
+    },
+    {
      "name": "Spinning flax to bow strings",
      "line1": "Crafting 10",
-     "rate": "332.4K/hr",
+     "rate": "322.9K/hr",
      "badge": "LOW",
      "elite": null,
      "intensity": "low",
@@ -4715,25 +4757,6 @@
      "quests": [
       "Children of the Sun"
      ],
-     "minCombat": null
-    },
-    {
-     "name": "Smithing rune items",
-     "line1": "Smithing 99",
-     "rate": "327.6K/hr",
-     "badge": "LOW",
-     "elite": null,
-     "intensity": "low",
-     "detail": "Requires Smithing 99. Setup: Hammer, Smiths' Uniform. Supplies ≈36.8K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Smithing_rune_items",
-     "reqs": [
-      {
-       "s": "Smithing",
-       "l": 99,
-       "rec": false
-      }
-     ],
-     "quests": [],
      "minCombat": null
     },
     {
@@ -4772,7 +4795,7 @@
      "badge": "LOW",
      "elite": null,
      "intensity": "low",
-     "detail": "Setup: Arrow shaft, Feathers. Supplies ≈60/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Setup: Arrow shaft, Feathers. Supplies ≈75/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Fletching_headless_arrows",
      "reqs": [],
      "quests": [],
@@ -4804,7 +4827,7 @@
      "badge": "LOW",
      "elite": null,
      "intensity": "low",
-     "detail": "Requires Fishing 85+. Setup: Lobster pot, Dark fishing bait, dark crabs, Tanking, Lockpick, Assorted flowers, fun weapon, PKers, Slash, Edgeville lever, Saradomin brew, Wilderness Elite Diary, Rada's blessing. Supplies ≈55/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Fishing 85+. Setup: Lobster pot, Dark fishing bait, dark crabs, Tanking, Lockpick, Assorted flowers, fun weapon, PKers, Slash, Edgeville lever, Saradomin brew, Wilderness Elite Diary, Rada's blessing. Supplies ≈56/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Catching_dark_crabs",
      "reqs": [
       {
@@ -4823,7 +4846,7 @@
      "badge": "LOW",
      "elite": null,
      "intensity": "low",
-     "detail": "Requires Fishing 87 (rec), Cooking 72 (rec). Quests: Regicide. Setup: Fishing rod, Fishing bait, Knife, Pearl fishing rod, Rada's blessing, Angler's outfit, Fishing, Spirit flakes, Dragon harpoon, High Priestess Zul-Harcinqa. Supplies ≈4/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Fishing 87 (rec), Cooking 72 (rec). Quests: Regicide. Setup: Fishing rod, Fishing bait, Knife, Pearl fishing rod, Rada's blessing, Angler's outfit, Fishing, Spirit flakes, Dragon harpoon, High Priestess Zul-Harcinqa. Supplies ≈5/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Catching_sacred_eels",
      "reqs": [
       {
@@ -4902,7 +4925,7 @@
      "badge": "LOW",
      "elite": null,
      "intensity": "low",
-     "detail": "Requires Smithing 34. Quests: The Tourist Trap. Setup: Steel bar, Hammer. Supplies ≈583/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Smithing 34. Quests: The Tourist Trap. Setup: Steel bar, Hammer. Supplies ≈589/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Smithing_steel_dart_tips",
      "reqs": [
       {
@@ -5026,7 +5049,7 @@
      "badge": "LOW",
      "elite": null,
      "intensity": "low",
-     "detail": "Requires Smithing 35, Sailing 87. Quests: Dwarf Cannon, Song of the Elves, Shilo Village, Sleeping Giants, Pandemonium. Setup: Ammo mould, Steel bar, Double ammo mould. Supplies ≈145/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Smithing 35, Sailing 87. Quests: Dwarf Cannon, Song of the Elves, Shilo Village, Sleeping Giants, Pandemonium. Setup: Ammo mould, Steel bar, Double ammo mould. Supplies ≈147/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Smithing_steel_cannonballs",
      "reqs": [
       {
@@ -5056,7 +5079,7 @@
      "badge": "LOW",
      "elite": null,
      "intensity": "low",
-     "detail": "Requires Crafting 23. Setup: Bracelet mould, Weight-reducing clothing. Supplies ≈319/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Crafting 23. Setup: Bracelet mould, Weight-reducing clothing. Supplies ≈318/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Crafting_sapphire_bracelets",
      "reqs": [
       {
@@ -5172,15 +5195,21 @@
      "minCombat": null
     },
     {
-     "name": "Making pie shells",
-     "line1": "Processing",
-     "rate": "205.0K/hr",
+     "name": "Crafting emerald bracelets",
+     "line1": "Crafting 30",
+     "rate": "208.8K/hr",
      "badge": "LOW",
      "elite": null,
      "intensity": "low",
-     "detail": "Supplies ≈174/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_pie_shells",
-     "reqs": [],
+     "detail": "Requires Crafting 30. Setup: Bracelet mould, Weight-reducing clothing. Supplies ≈500/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Crafting_emerald_bracelets",
+     "reqs": [
+      {
+       "s": "Crafting",
+       "l": 30,
+       "rec": false
+      }
+     ],
      "quests": [],
      "minCombat": null
     },
@@ -5191,7 +5220,7 @@
      "badge": "LOW",
      "elite": null,
      "intensity": "low",
-     "detail": "Requires Crafting 7. Setup: Bracelet mould, Weight-reducing clothing. Supplies ≈91/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Crafting 7. Setup: Bracelet mould, Weight-reducing clothing. Supplies ≈89/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Crafting_gold_bracelets",
      "reqs": [
       {
@@ -5201,6 +5230,27 @@
       }
      ],
      "quests": [],
+     "minCombat": null
+    },
+    {
+     "name": "Making guam potions",
+     "line1": "Herblore 3",
+     "rate": "195.9K/hr",
+     "badge": "LOW",
+     "elite": null,
+     "intensity": "low",
+     "detail": "Requires Herblore 3. Quests: Druidic Ritual. Supplies ≈265/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_guam_potions",
+     "reqs": [
+      {
+       "s": "Herblore",
+       "l": 3,
+       "rec": false
+      }
+     ],
+     "quests": [
+      "Druidic Ritual"
+     ],
      "minCombat": null
     },
     {
@@ -5270,7 +5320,7 @@
      "badge": "LOW",
      "elite": null,
      "intensity": "low",
-     "detail": "Requires Fishing 80 (rec), Herblore 25 (rec), Herblore 25. Setup: Rada's blessing, Angler's outfit, TzHaar Fight Cave, Priest in Peril, Heroes' Quest. Supplies ≈4/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Fishing 80 (rec), Herblore 25 (rec), Herblore 25. Setup: Rada's blessing, Angler's outfit, TzHaar Fight Cave, Priest in Peril, Heroes' Quest. Supplies ≈5/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Catching_infernal_eels",
      "reqs": [
       {
@@ -5299,7 +5349,7 @@
      "badge": "LOW",
      "elite": null,
      "intensity": "low",
-     "detail": "Requires Cooking 30+ (rec). Quests: Tai Bwo Wannai Trio. Setup: Cooking cape, coins, Raw karambwan, Varrock armour 3, Cooking, Cooks' Guild. Supplies ≈290/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Cooking 30+ (rec). Quests: Tai Bwo Wannai Trio. Setup: Cooking cape, coins, Raw karambwan, Varrock armour 3, Cooking, Cooks' Guild. Supplies ≈284/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Cooking_raw_karambwan",
      "reqs": [
       {
@@ -5363,7 +5413,7 @@
      "badge": "LOW",
      "elite": null,
      "intensity": "low",
-     "detail": "Requires Crafting 42. Setup: Bracelet mould, Weight-reducing clothing. Supplies ≈970/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Crafting 42. Setup: Bracelet mould, Weight-reducing clothing. Supplies ≈980/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Crafting_ruby_bracelets",
      "reqs": [
       {
@@ -5382,7 +5432,7 @@
      "badge": "LOW",
      "elite": null,
      "intensity": "low",
-     "detail": "Requires Fletching 62+. Setup: Hammer. Supplies ≈265/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Fletching 62+. Setup: Hammer. Supplies ≈231/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_adamant_brutal_arrows",
      "reqs": [
       {
@@ -5413,27 +5463,6 @@
      "quests": [
       "Tai Bwo Wannai Trio",
       "Fairytale II - Cure a Queen"
-     ],
-     "minCombat": null
-    },
-    {
-     "name": "Making guam potions",
-     "line1": "Herblore 3",
-     "rate": "159.8K/hr",
-     "badge": "LOW",
-     "elite": null,
-     "intensity": "low",
-     "detail": "Requires Herblore 3. Quests: Druidic Ritual. Supplies ≈253/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
-     "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Making_guam_potions",
-     "reqs": [
-      {
-       "s": "Herblore",
-       "l": 3,
-       "rec": false
-      }
-     ],
-     "quests": [
-      "Druidic Ritual"
      ],
      "minCombat": null
     },
@@ -5525,7 +5554,7 @@
      "badge": "LOW",
      "elite": null,
      "intensity": "low",
-     "detail": "Requires Crafting 38. Setup: Bracelet mould, Weight-reducing clothing. Supplies ≈2.6K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Crafting 38. Setup: Bracelet mould, Weight-reducing clothing. Supplies ≈2.5K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Crafting_topaz_bracelets",
      "reqs": [
       {
@@ -5615,7 +5644,7 @@
      "badge": "LOW",
      "elite": null,
      "intensity": "low",
-     "detail": "Requires Smithing 30+. Setup: Coal, iron ore, energy potion. Supplies ≈389/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Smithing 30+. Setup: Coal, iron ore, energy potion. Supplies ≈396/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Smelting_steel_bars",
      "reqs": [
       {
@@ -5674,7 +5703,7 @@
      "badge": "LOW",
      "elite": null,
      "intensity": "low",
-     "detail": "Requires Crafting 34+. Setup: {{#switch. Supplies ≈970/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Crafting 34+. Setup: {{#switch. Supplies ≈980/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Crafting_ruby_jewellery",
      "reqs": [
       {
@@ -5712,7 +5741,7 @@
      "badge": "LOW",
      "elite": null,
      "intensity": "low",
-     "detail": "Requires Crafting 27. Setup: {{#switch. Supplies ≈502/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Crafting 27. Setup: {{#switch. Supplies ≈500/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Crafting_emerald_jewellery",
      "reqs": [
       {
@@ -5731,7 +5760,7 @@
      "badge": "LOW",
      "elite": null,
      "intensity": "low",
-     "detail": "Requires Smithing 54. Quests: The Tourist Trap. Setup: Mithril bar, Hammer. Supplies ≈948/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Smithing 54. Quests: The Tourist Trap. Setup: Mithril bar, Hammer. Supplies ≈965/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Smithing_mithril_dart_tips",
      "reqs": [
       {
@@ -5792,7 +5821,7 @@
      "badge": "LOW",
      "elite": null,
      "intensity": "low",
-     "detail": "Requires Fishing 63. Quests: Desert Treasure II - The Fallen Empire. Setup: Fishing rod, Fish barrel, Rada's blessing 4, Elite Combat Achievements, Strangled tablet, Ring of shadows, Crafting cape. Supplies ≈4/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Fishing 63. Quests: Desert Treasure II - The Fallen Empire. Setup: Fishing rod, Fish barrel, Rada's blessing 4, Elite Combat Achievements, Strangled tablet, Ring of shadows, Crafting cape. Supplies ≈5/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Stranglewood_fishing",
      "reqs": [
       {
@@ -6776,7 +6805,7 @@
      "badge": "HIGH",
      "elite": null,
      "intensity": "high",
-     "detail": "Requires Strength 80+ (rec), Attack 80+ (rec), Prayer 70+ (rec), Strength 80+, Attack 80+. Setup: Ursine chainmace, Mithril dart, Black d'hide chaps, Inquisitor's hauberk, Amulet of strength, Helm of Neitiznot, Mythical cape, Avernic defender (l), Ultor ring, Dragon boots, Barrows gloves, Monkfish, Divine super combat potion, Blighted super restore, Sanfew serum, Stamina potion, slayer, Turael, Spria, Krystilia, slayer helmet. Supplies ≈303.7K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
+     "detail": "Requires Strength 80+ (rec), Attack 80+ (rec), Prayer 70+ (rec), Strength 80+, Attack 80+. Setup: Ursine chainmace, Mithril dart, Black d'hide chaps, Inquisitor's hauberk, Amulet of strength, Helm of Neitiznot, Mythical cape, Avernic defender (l), Ultor ring, Dragon boots, Barrows gloves, Monkfish, Divine super combat potion, Blighted super restore, Sanfew serum, Stamina potion, slayer, Turael, Spria, Krystilia, slayer helmet. Supplies ≈302.9K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Killing_Venenatis",
      "reqs": [
       {
@@ -6923,7 +6952,7 @@
      "badge": "HIGH",
      "elite": true,
      "intensity": "high",
-     "detail": "Requires Ranged 80+ (rec), Prayer 37. Quests: Dwarf Cannon, Animal Magnetism, Haunted Mine. Setup: Venator bow, Craw's bow, Webweaver bow, Dizana's quiver, Ava's Assembler, Elite Void Knight equipment, Venator ring, ring of the gods (i), Dwarf multicannon, Burning amulet, Looting bag, Herb sack, Rune pouch, Salve amulet (ei), Blighted, Blighted super restores, divine bastion potion, Prayer regeneration potion, Medium Wilderness Diary, Hard Western Provinces Diary. Supplies ≈171.6K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
+     "detail": "Requires Ranged 80+ (rec), Prayer 37. Quests: Dwarf Cannon, Animal Magnetism, Haunted Mine. Setup: Venator bow, Craw's bow, Webweaver bow, Dizana's quiver, Ava's Assembler, Elite Void Knight equipment, Venator ring, ring of the gods (i), Dwarf multicannon, Burning amulet, Looting bag, Herb sack, Rune pouch, Salve amulet (ei), Blighted, Blighted super restores, divine bastion potion, Prayer regeneration potion, Medium Wilderness Diary, Hard Western Provinces Diary. Supplies ≈173.2K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Killing_zombie_pirates_(Max_efficiency)",
      "reqs": [
       {
@@ -7017,7 +7046,7 @@
      "badge": "HIGH",
      "elite": null,
      "intensity": "high",
-     "detail": "Requires Attack 80+, Strength 85+, Defence 80+, Hitpoints 80+, Ranged 85+, Magic 70+, Prayer 70+, Slayer 69. Quests: Monkey Madness II. Setup: Arclight, Toxic Blowpipe, Barrows equipment, Shark, Divine super combat potion, Prayer potion, Divine ranging potion, King's Ransom, Piety, Shadow of the storm, slayer, Slayer helm. Supplies ≈222.6K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
+     "detail": "Requires Attack 80+, Strength 85+, Defence 80+, Hitpoints 80+, Ranged 85+, Magic 70+, Prayer 70+, Slayer 69. Quests: Monkey Madness II. Setup: Arclight, Toxic Blowpipe, Barrows equipment, Shark, Divine super combat potion, Prayer potion, Divine ranging potion, King's Ransom, Piety, Shadow of the storm, slayer, Slayer helm. Supplies ≈222.5K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Killing_demonic_gorillas",
      "reqs": [
       {
@@ -7235,7 +7264,7 @@
      "badge": "HIGH",
      "elite": null,
      "intensity": "high",
-     "detail": "Requires Strength 80+ (rec), Attack 80+ (rec), Prayer 70+ (rec), Strength 80+, Attack 80+. Setup: Ursine chainmace, Mithril dart, Torva platelegs, Amulet of strength, Torva full helm, Infernal cape (l), Avernic defender (l), Fighter torso (l), Berserker ring (i), Dragon boots, Barrows gloves, Monkfish, Divine super combat potion, Blighted super restore, Sanfew serum, Stamina potion, Wilderness Hard Diary, slayer, Krystilia, slayer helmet. Supplies ≈399.6K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
+     "detail": "Requires Strength 80+ (rec), Attack 80+ (rec), Prayer 70+ (rec), Strength 80+, Attack 80+. Setup: Ursine chainmace, Mithril dart, Torva platelegs, Amulet of strength, Torva full helm, Infernal cape (l), Avernic defender (l), Fighter torso (l), Berserker ring (i), Dragon boots, Barrows gloves, Monkfish, Divine super combat potion, Blighted super restore, Sanfew serum, Stamina potion, Wilderness Hard Diary, slayer, Krystilia, slayer helmet. Supplies ≈399.2K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Killing_Spindel",
      "reqs": [
       {
@@ -7344,7 +7373,7 @@
      "badge": "HIGH",
      "elite": null,
      "intensity": "high",
-     "detail": "Requires Strength 70+, Attack 80+ (rec), Defence 80+ (rec), Magic 75+ (rec), Prayer 70+ (rec), Attack 80+. Quests: Troll Stronghold. Setup: '''For recommended equipment and recommended inventory, see this page:''' * [[General Graardor/Strategies#Equipment]], Eadgar's Ruse, Trollheim Teleport. Supplies ≈400.5K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
+     "detail": "Requires Strength 70+, Attack 80+ (rec), Defence 80+ (rec), Magic 75+ (rec), Prayer 70+ (rec), Attack 80+. Quests: Troll Stronghold. Setup: '''For recommended equipment and recommended inventory, see this page:''' * [[General Graardor/Strategies#Equipment]], Eadgar's Ruse, Trollheim Teleport. Supplies ≈395.6K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Killing_General_Graardor",
      "reqs": [
       {
@@ -7390,7 +7419,7 @@
      "badge": "HIGH",
      "elite": null,
      "intensity": "high",
-     "detail": "Requires Defence 45+, Ranged 90+, Prayer 43+, Agility 65+,. Quests: Monkey Madness II. Setup: Black dragonhide armour, Craw's bow, bracelet of ethereum, Amulet of avarice, Looting bag, Ring of wealth, royal seed pod, Rigour. Supplies ≈518.2K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
+     "detail": "Requires Defence 45+, Ranged 90+, Prayer 43+, Agility 65+,. Quests: Monkey Madness II. Setup: Black dragonhide armour, Craw's bow, bracelet of ethereum, Amulet of avarice, Looting bag, Ring of wealth, royal seed pod, Rigour. Supplies ≈512.6K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Killing_revenants_(Craw%27s_bow)",
      "reqs": [
       {
@@ -7421,7 +7450,7 @@
      "badge": "HIGH",
      "elite": null,
      "intensity": "high",
-     "detail": "Requires Attack 82+ (rec), Strength 85 (rec), Defence 80+ (rec), Hitpoints 85+ (rec), Ranged 90 (rec), Magic 94+ (rec), Prayer 77+ (rec), Attack 82+, Strength 85, Defence 80+, Hitpoints 85+. Quests: Beneath Cursed Sands. Setup: Osmumten's fang, Bandos godsword, Dragon dagger, Toxic blowpipe, Dragon crossbow, Bow of faerdhinen, Crystal armour, Toxic blowpipe, Trident of the swamp, Super combat potion, Ranging potion, Saradomin brew, Super restore, Rune pouch, King's Ransom, Piety, Rigour, Augury, Dragon Slayer II, Ava's assembler, Recipe for Disaster, Barrows gloves, Ferocious gloves, Mage Arena II, God capes. Supplies ≈329.2K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
+     "detail": "Requires Attack 82+ (rec), Strength 85 (rec), Defence 80+ (rec), Hitpoints 85+ (rec), Ranged 90 (rec), Magic 94+ (rec), Prayer 77+ (rec), Attack 82+, Strength 85, Defence 80+, Hitpoints 85+. Quests: Beneath Cursed Sands. Setup: Osmumten's fang, Bandos godsword, Dragon dagger, Toxic blowpipe, Dragon crossbow, Bow of faerdhinen, Crystal armour, Toxic blowpipe, Trident of the swamp, Super combat potion, Ranging potion, Saradomin brew, Super restore, Rune pouch, King's Ransom, Piety, Rigour, Augury, Dragon Slayer II, Ava's assembler, Recipe for Disaster, Barrows gloves, Ferocious gloves, Mage Arena II, God capes. Supplies ≈325.9K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Tombs_of_Amascut_(Expert)",
      "reqs": [
       {
@@ -7492,7 +7521,7 @@
      "badge": "HIGH",
      "elite": null,
      "intensity": "high",
-     "detail": "Requires Combat level 100+ (rec), Agility 70, Ranged 80+ (rec), Defence 80+ (rec), Hitpoints 70+ (rec), Prayer 44+ (rec), Combat 100+ (rec). Quests: Troll Stronghold. Setup: Ranged armour, Blessed dragonhide armour, Black d'hide armour, Armadyl armour, Ranged weapon, Twisted Bow, Armadyl Crossbow, Toxic blowpipe, Dragon arrows, Diamond dragon bolts (e), Ring of suffering, Pegasian boots, Saradomin Brew, Super restore potion, Stamina potion, Ranging potion, Trollheim tablet, Teleport to House, Rune pouch, Nature Rune, Mud Rune, Fire Rune, Bones to Peaches, High Alchemy, Ecumenical Key, Commander Zilyana/Strategies, God Wars Dungeon, rope. Supplies ≈366.6K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
+     "detail": "Requires Combat level 100+ (rec), Agility 70, Ranged 80+ (rec), Defence 80+ (rec), Hitpoints 70+ (rec), Prayer 44+ (rec), Combat 100+ (rec). Quests: Troll Stronghold. Setup: Ranged armour, Blessed dragonhide armour, Black d'hide armour, Armadyl armour, Ranged weapon, Twisted Bow, Armadyl Crossbow, Toxic blowpipe, Dragon arrows, Diamond dragon bolts (e), Ring of suffering, Pegasian boots, Saradomin Brew, Super restore potion, Stamina potion, Ranging potion, Trollheim tablet, Teleport to House, Rune pouch, Nature Rune, Mud Rune, Fire Rune, Bones to Peaches, High Alchemy, Ecumenical Key, Commander Zilyana/Strategies, God Wars Dungeon, rope. Supplies ≈363.5K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Killing_Commander_Zilyana",
      "reqs": [
       {
@@ -7543,7 +7572,7 @@
      "badge": "HIGH",
      "elite": null,
      "intensity": "high",
-     "detail": "Requires Ranged 90+ (rec), Defence 80+ (rec), Prayer 74+ (rec), Ranged 90+. Quests: Dragon Slayer II. Setup: Dragon hunter crossbow, Ruby dragon bolts (e), Diamond dragon bolts (e), Dragonfire ward, Elite Void Knight equipment, void knight equipment, void ranger helm, Ava's assembler, Salve amulet(ei), Pegasian boots, Archers ring (i), Ornate rejuvenation pool, rune pouch, Moonclan Teleport, Player-owned house, elite Fremennik Diary, Fremennik sea boots 4, elite Fremennik Diary, Enchanted lyre, The Fremennik Trials, Enchanted lyre(i). Supplies ≈768.1K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
+     "detail": "Requires Ranged 90+ (rec), Defence 80+ (rec), Prayer 74+ (rec), Ranged 90+. Quests: Dragon Slayer II. Setup: Dragon hunter crossbow, Ruby dragon bolts (e), Diamond dragon bolts (e), Dragonfire ward, Elite Void Knight equipment, void knight equipment, void ranger helm, Ava's assembler, Salve amulet(ei), Pegasian boots, Archers ring (i), Ornate rejuvenation pool, rune pouch, Moonclan Teleport, Player-owned house, elite Fremennik Diary, Fremennik sea boots 4, elite Fremennik Diary, Enchanted lyre, The Fremennik Trials, Enchanted lyre(i). Supplies ≈766.4K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Killing_Vorkath_(Dragon_hunter_crossbow)",
      "reqs": [
       {
@@ -7634,7 +7663,7 @@
      "badge": "HIGH",
      "elite": null,
      "intensity": "high",
-     "detail": "Requires Combat level 90, Hitpoints 60, Ranged 70, Magic 94, Defence 70, Combat 90 (rec), Hitpoints 60 (rec), Ranged 70 (rec), Defence 70 (rec). Quests: Monkey Madness II. Setup: Craw's bow, Black dragonhide armour, Shark, Cooked Karambwan, Divine ranging potion, Prayer potion, Stamina potion. Supplies ≈464.1K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
+     "detail": "Requires Combat level 90, Hitpoints 60, Ranged 70, Magic 94, Defence 70, Combat 90 (rec), Hitpoints 60 (rec), Ranged 70 (rec), Defence 70 (rec). Quests: Monkey Madness II. Setup: Craw's bow, Black dragonhide armour, Shark, Cooked Karambwan, Divine ranging potion, Prayer potion, Stamina potion. Supplies ≈463.9K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Killing_Callisto",
      "reqs": [
       {
@@ -7695,7 +7724,7 @@
      "badge": "HIGH",
      "elite": null,
      "intensity": "high",
-     "detail": "Requires Defence 45+, Ranged 80+, Prayer 43+, Agility 89+. Quests: Monkey Madness II. Setup: Black dragonhide armour, Magic shortbow, bracelet of ethereum, Amulet of avarice, Looting bag, Ring of wealth, royal seed pod, Rigour. Supplies ≈205.0K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
+     "detail": "Requires Defence 45+, Ranged 80+, Prayer 43+, Agility 89+. Quests: Monkey Madness II. Setup: Black dragonhide armour, Magic shortbow, bracelet of ethereum, Amulet of avarice, Looting bag, Ring of wealth, royal seed pod, Rigour. Supplies ≈202.1K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Killing_revenants_(Magic_shortbow)",
      "reqs": [
       {
@@ -7731,7 +7760,7 @@
      "badge": "HIGH",
      "elite": null,
      "intensity": "high",
-     "detail": "Requires Slayer 91, Attack 85+ (rec), Prayer 70+ (rec), Attack 85+. Setup: '''For recommended equipment and recommended inventory, see this page:''' * [[Cerberus/Strategies#Equipment|Cerberus Strategies (Equipment)]], King's Ransom, Piety, Hellhound. Supplies ≈381.3K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
+     "detail": "Requires Slayer 91, Attack 85+ (rec), Prayer 70+ (rec), Attack 85+. Setup: '''For recommended equipment and recommended inventory, see this page:''' * [[Cerberus/Strategies#Equipment|Cerberus Strategies (Equipment)]], King's Ransom, Piety, Hellhound. Supplies ≈381.0K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Killing_Cerberus",
      "reqs": [
       {
@@ -7814,7 +7843,7 @@
      "badge": "HIGH",
      "elite": null,
      "intensity": "high",
-     "detail": "Requires Ranged 90+ (rec), Attack 80+ (rec), Prayer 74+ (rec), Ranged 90+, Attack 80+. Quests: Dragon Slayer II. Setup: Toxic blowpipe, amethyst dart, Bandos godsword, Elite Void Knight equipment, void knight equipment, void melee helm, Void ranger helm, Ava's assembler, Fire cape, infernal cape, Salve amulet(ei), Pegasian boots, primordial boots, Archers ring (i), berserker ring (i), ornate rejuvenation pool, rune pouch, Moonclan Teleport, Player-owned house, Fremennik sea boots 4. Supplies ≈765.9K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
+     "detail": "Requires Ranged 90+ (rec), Attack 80+ (rec), Prayer 74+ (rec), Ranged 90+, Attack 80+. Quests: Dragon Slayer II. Setup: Toxic blowpipe, amethyst dart, Bandos godsword, Elite Void Knight equipment, void knight equipment, void melee helm, Void ranger helm, Ava's assembler, Fire cape, infernal cape, Salve amulet(ei), Pegasian boots, primordial boots, Archers ring (i), berserker ring (i), ornate rejuvenation pool, rune pouch, Moonclan Teleport, Player-owned house, Fremennik sea boots 4. Supplies ≈760.3K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Killing_Vorkath_(Toxic_blowpipe)",
      "reqs": [
       {
@@ -8186,7 +8215,7 @@
      "badge": "MODERATE",
      "elite": null,
      "intensity": "moderate",
-     "detail": "Requires Magic 82+ (rec), Prayer 40+ (rec). Setup: Accursed sceptre, Bloodbark body, Bloodbark legs, Amulet of glory, Cream hat, Zamorak cape, Mystic boots, Tormented bracelet, Book of darkness, Blighted manta ray, Blighted super restore, Antidote++, slayer, Turael, Spria, Mazchna, Krystilia, slayer helmet (i). Supplies ≈337.4K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
+     "detail": "Requires Magic 82+ (rec), Prayer 40+ (rec). Setup: Accursed sceptre, Bloodbark body, Bloodbark legs, Amulet of glory, Cream hat, Zamorak cape, Mystic boots, Tormented bracelet, Book of darkness, Blighted manta ray, Blighted super restore, Antidote++, slayer, Turael, Spria, Mazchna, Krystilia, slayer helmet (i). Supplies ≈337.0K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Killing_Scorpia",
      "reqs": [
       {
@@ -8210,7 +8239,7 @@
      "badge": "HIGH",
      "elite": null,
      "intensity": "high",
-     "detail": "Requires Slayer 93+, Combat level 90+, Magic 94+, Combat 90+. Setup: abyssal whip, shark, divine super combat potion, prayer potion, Thermonuclear smoke devil/Strategies, King's Ransom, Piety. Supplies ≈230.5K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
+     "detail": "Requires Slayer 93+, Combat level 90+, Magic 94+, Combat 90+. Setup: abyssal whip, shark, divine super combat potion, prayer potion, Thermonuclear smoke devil/Strategies, King's Ransom, Piety. Supplies ≈230.1K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Killing_the_Thermonuclear_smoke_devil",
      "reqs": [
       {
@@ -8331,7 +8360,7 @@
      "badge": "MODERATE",
      "elite": null,
      "intensity": "moderate",
-     "detail": "Requires Attack 60+, Prayer 37. Quests: Haunted Mine. Setup: Dragon scimitar, Dragon defender, Ardougne cloak 2, Monk's robes, Berserker ring (i), Barrows gloves, Climbing boots, Looting bag, Salve amulet (e), Blighted, Blighted super restores, Medium Wilderness Diary. Supplies ≈15.8K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
+     "detail": "Requires Attack 60+, Prayer 37. Quests: Haunted Mine. Setup: Dragon scimitar, Dragon defender, Ardougne cloak 2, Monk's robes, Berserker ring (i), Barrows gloves, Climbing boots, Looting bag, Salve amulet (e), Blighted, Blighted super restores, Medium Wilderness Diary. Supplies ≈15.6K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Killing_zombie_pirates_(Budget)",
      "reqs": [
       {
@@ -8357,7 +8386,7 @@
      "badge": "HIGH",
      "elite": null,
      "intensity": "high",
-     "detail": "Requires Hitpoints 60+, Ranged 75+, Magic 70, Prayer 43, Magic 70 (rec). Quests: Monkey Madness II. Setup: Webweaver bow, Necklace of anguish, Masori body (f), Ava's accumulator, Black d'hide chaps, Snakeskin bandana, Snakeskin boots, Rada's blessing 4, Black d'hide vambraces, Shark, Cooked Karambwan, Divine ranging potion, Prayer potion, Stamina potion. Supplies ≈405.1K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
+     "detail": "Requires Hitpoints 60+, Ranged 75+, Magic 70, Prayer 43, Magic 70 (rec). Quests: Monkey Madness II. Setup: Webweaver bow, Necklace of anguish, Masori body (f), Ava's accumulator, Black d'hide chaps, Snakeskin bandana, Snakeskin boots, Rada's blessing 4, Black d'hide vambraces, Shark, Cooked Karambwan, Divine ranging potion, Prayer potion, Stamina potion. Supplies ≈404.8K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Killing_Artio",
      "reqs": [
       {
@@ -8398,7 +8427,7 @@
      "badge": "HIGH",
      "elite": null,
      "intensity": "high",
-     "detail": "Requires Hitpoints 60+, Ranged 75+, Prayer 43. Quests: Monkey Madness II. Setup: Webweaver bow, Necklace of anguish, Masori body (f), Ava's accumulator, Black d'hide chaps, Snakeskin bandana, Snakeskin boots, Rada's blessing 4, Black d'hide vambraces, Shark, Cooked Karambwan, Divine ranging potion, Prayer potion, Stamina potion. Supplies ≈348.1K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
+     "detail": "Requires Hitpoints 60+, Ranged 75+, Prayer 43. Quests: Monkey Madness II. Setup: Webweaver bow, Necklace of anguish, Masori body (f), Ava's accumulator, Black d'hide chaps, Snakeskin bandana, Snakeskin boots, Rada's blessing 4, Black d'hide vambraces, Shark, Cooked Karambwan, Divine ranging potion, Prayer potion, Stamina potion. Supplies ≈347.7K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Killing_Chaos_Elemental",
      "reqs": [
       {
@@ -8429,7 +8458,7 @@
      "badge": "HIGH",
      "elite": null,
      "intensity": "high",
-     "detail": "Requires Hitpoints 70+, Attack 80+ (rec), Defence 90+ (rec), Magic 75+ (rec), Prayer 70+ (rec), Attack 80+. Quests: Troll Stronghold. Setup: '''For recommended equipment and recommended inventory, see this page:''' * [[K'ril Tsutsaroth/Strategies#Equipment|K'ril Tsutsaroth Strategies (Equipment)]], Ranged armour, Eadgar's Ruse, Trollheim Teleport. Supplies ≈385.2K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
+     "detail": "Requires Hitpoints 70+, Attack 80+ (rec), Defence 90+ (rec), Magic 75+ (rec), Prayer 70+ (rec), Attack 80+. Quests: Troll Stronghold. Setup: '''For recommended equipment and recommended inventory, see this page:''' * [[K'ril Tsutsaroth/Strategies#Equipment|K'ril Tsutsaroth Strategies (Equipment)]], Ranged armour, Eadgar's Ruse, Trollheim Teleport. Supplies ≈386.4K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Killing_K%27ril_Tsutsaroth",
      "reqs": [
       {
@@ -8547,7 +8576,7 @@
      "badge": "HIGH",
      "elite": null,
      "intensity": "high",
-     "detail": "Requires Slayer 60, Hitpoints 80+ (rec), Ranged 80+ (rec), Magic 55 (rec), Prayer 37 (rec), Hitpoints 80+. Quests: The Fremennik Exiles. Setup: Runes, High Level Alchemy, Mirror shield, V's shield, Slayer helmet (i), Herb sack, Rune Pouch. Supplies ≈193.9K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
+     "detail": "Requires Slayer 60, Hitpoints 80+ (rec), Ranged 80+ (rec), Magic 55 (rec), Prayer 37 (rec), Hitpoints 80+. Quests: The Fremennik Exiles. Setup: Runes, High Level Alchemy, Mirror shield, V's shield, Slayer helmet (i), Herb sack, Rune Pouch. Supplies ≈193.5K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Killing_basilisk_knights_(Slayer)",
      "reqs": [
       {
@@ -8593,7 +8622,7 @@
      "badge": "MODERATE",
      "elite": null,
      "intensity": "moderate",
-     "detail": "Requires Slayer 70, Attack 75+ (rec), Strength 75+ (rec), Defence 75+ (rec), Magic 55+ (rec), Herblore 93 (rec), Attack 75+, Strength 75+. Quests: Song of the Elves. Setup: leaf-bladed weapons, Broad-tipped ammunition, Magic Dart, Cooked karambwan, High Level Alchemy, Fairy ring, slayer ring. Supplies ≈65.2K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
+     "detail": "Requires Slayer 70, Attack 75+ (rec), Strength 75+ (rec), Defence 75+ (rec), Magic 55+ (rec), Herblore 93 (rec), Attack 75+, Strength 75+. Quests: Song of the Elves. Setup: leaf-bladed weapons, Broad-tipped ammunition, Magic Dart, Cooked karambwan, High Level Alchemy, Fairy ring, slayer ring. Supplies ≈64.6K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Killing_kurasks",
      "reqs": [
       {
@@ -8649,7 +8678,7 @@
      "badge": "HIGH",
      "elite": null,
      "intensity": "high",
-     "detail": "Requires Slayer 75, Combat level 90+, Prayer 43+, Prayer 70+ (rec), Defence 70+ (rec), Combat 90+, Prayer 70+. Quests: Priest in Peril. Setup: Abyssal Whip, Dusk, Toxic Blowpipe, Dawn, crystal halberd, Saradomin godsword, dragon claws, Slayer helmet (i), Melee equipment, Ranged equipment, Shark, Divine super combat potion, Prayer potion, Divine ranging potion, rock hammer, Grotesque Guardians/Strategies, brittle key, gargoyle, slayer task, King's Ransom, Knight Waves Training Grounds, Piety. Supplies ≈347.0K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
+     "detail": "Requires Slayer 75, Combat level 90+, Prayer 43+, Prayer 70+ (rec), Defence 70+ (rec), Combat 90+, Prayer 70+. Quests: Priest in Peril. Setup: Abyssal Whip, Dusk, Toxic Blowpipe, Dawn, crystal halberd, Saradomin godsword, dragon claws, Slayer helmet (i), Melee equipment, Ranged equipment, Shark, Divine super combat potion, Prayer potion, Divine ranging potion, rock hammer, Grotesque Guardians/Strategies, brittle key, gargoyle, slayer task, King's Ransom, Knight Waves Training Grounds, Piety. Supplies ≈345.9K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Killing_the_Grotesque_Guardians",
      "reqs": [
       {
@@ -8700,7 +8729,7 @@
      "badge": "HIGH",
      "elite": null,
      "intensity": "high",
-     "detail": "Requires Attack 90+, Prayer 70+, Slayer 95. Setup: dragon hunter lance, Slayer helmet, boots of brimstone. Supplies ≈282.3K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
+     "detail": "Requires Attack 90+, Prayer 70+, Slayer 95. Setup: dragon hunter lance, Slayer helmet, boots of brimstone. Supplies ≈279.4K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Killing_hydras",
      "reqs": [
       {
@@ -8729,7 +8758,7 @@
      "badge": "HIGH",
      "elite": null,
      "intensity": "high",
-     "detail": "Requires Ranged 61+, Prayer 37+. Setup: Ranged gear, Burning amulet, Lava maze, Prayer potion, Blighted super restore, Food. Supplies ≈37.2K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
+     "detail": "Requires Ranged 61+, Prayer 37+. Setup: Ranged gear, Burning amulet, Lava maze, Prayer potion, Blighted super restore, Food. Supplies ≈36.9K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Killing_the_Chaos_Fanatic",
      "reqs": [
       {
@@ -8794,7 +8823,7 @@
      "badge": "MODERATE",
      "elite": null,
      "intensity": "moderate",
-     "detail": "Requires Slayer 66, Attack 80+ (rec), Prayer 70+ (rec), Magic 55, Attack 80+. Quests: Bone Voyage, Elemental Workshop I. Setup: Barrows equipment, Justiciar armour, Zamorakian hasta, Osmumten's fang, Elemental shield, Mind shield, Dragonfire shield, Dragonfire Ward, Ancient wyvern shield, Runes, High Level Alchemy. Supplies ≈228.2K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
+     "detail": "Requires Slayer 66, Attack 80+ (rec), Prayer 70+ (rec), Magic 55, Attack 80+. Quests: Bone Voyage, Elemental Workshop I. Setup: Barrows equipment, Justiciar armour, Zamorakian hasta, Osmumten's fang, Elemental shield, Mind shield, Dragonfire shield, Dragonfire Ward, Ancient wyvern shield, Runes, High Level Alchemy. Supplies ≈227.2K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Killing_Spitting_Wyvern",
      "reqs": [
       {
@@ -8836,7 +8865,7 @@
      "badge": "MODERATE",
      "elite": null,
      "intensity": "moderate",
-     "detail": "Requires Ranged 75+, Prayer 70+ (rec). Setup: Lizardman shaman/Strategies, Hard Kourend & Kebos Diary. Supplies ≈810.1K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
+     "detail": "Requires Ranged 75+, Prayer 70+ (rec). Setup: Lizardman shaman/Strategies, Hard Kourend & Kebos Diary. Supplies ≈806.9K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Killing_Lizardman_Shamans_(Settlement_or_Temple)",
      "reqs": [
       {
@@ -8886,7 +8915,7 @@
      "badge": "MODERATE",
      "elite": null,
      "intensity": "moderate",
-     "detail": "Requires Combat level 80+ (rec), Ranged 60+ (rec), Combat 80+ (rec). Quests: Dragon Slayer II. Setup: Melee, Ranged gear, anti-dragon shield, dragonfire shield, Fastest bank teleports, Karamja Gloves 3, Mythical cape, Broad bolts, Ranged, Extended antifire, Antifire potion, food, lobsters. Supplies ≈406/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
+     "detail": "Requires Combat level 80+ (rec), Ranged 60+ (rec), Combat 80+ (rec). Quests: Dragon Slayer II. Setup: Melee, Ranged gear, anti-dragon shield, dragonfire shield, Fastest bank teleports, Karamja Gloves 3, Mythical cape, Broad bolts, Ranged, Extended antifire, Antifire potion, food, lobsters. Supplies ≈446/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Killing_green_dragons_(Myths_Guild)",
      "reqs": [
       {
@@ -8917,7 +8946,7 @@
      "badge": "MODERATE",
      "elite": null,
      "intensity": "moderate",
-     "detail": "Requires Combat level 80+ (rec), Ranged 60+ (rec), Prayer 25 (rec), Combat 80+ (rec). Setup: Dragon scimitar, Rune crossbow, Melee, Rune equipment, Ranged gear, anti-dragon shield, dragonfire shield, Amulet of glory, Looting bag, Broad bolts, Ranged, Extended antifire, Antifire potion, food, lobsters. Supplies ≈83.3K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
+     "detail": "Requires Combat level 80+ (rec), Ranged 60+ (rec), Prayer 25 (rec), Combat 80+ (rec). Setup: Dragon scimitar, Rune crossbow, Melee, Rune equipment, Ranged gear, anti-dragon shield, dragonfire shield, Amulet of glory, Looting bag, Broad bolts, Ranged, Extended antifire, Antifire potion, food, lobsters. Supplies ≈82.8K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Killing_green_dragons",
      "reqs": [
       {
@@ -8951,7 +8980,7 @@
      "badge": "HIGH",
      "elite": null,
      "intensity": "high",
-     "detail": "Requires Slayer 62, Ranged 70+ (rec), Magic 70+ (rec), Magic 55 (rec), Prayer 37 (rec). Quests: Priest in Peril, Fairytale II - Cure a Queen. Setup: Runes, High Level Alchemy, Boots of brimstone, Boots of stone, Granite boots, Elite Kourend & Kebos Diary, Ring of the gods (i), Slayer helmet (i), Herb sack, Rune Pouch, Player-owned house, superior garden, Fairy ring (Construction). Supplies ≈261.2K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
+     "detail": "Requires Slayer 62, Ranged 70+ (rec), Magic 70+ (rec), Magic 55 (rec), Prayer 37 (rec). Quests: Priest in Peril, Fairytale II - Cure a Queen. Setup: Runes, High Level Alchemy, Boots of brimstone, Boots of stone, Granite boots, Elite Kourend & Kebos Diary, Ring of the gods (i), Slayer helmet (i), Herb sack, Rune Pouch, Player-owned house, superior garden, Fairy ring (Construction). Supplies ≈265.9K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Killing_Wyrms_(Slayer)",
      "reqs": [
       {
@@ -8993,7 +9022,7 @@
      "badge": "HIGH",
      "elite": null,
      "intensity": "high",
-     "detail": "Requires Slayer 84, Ranged 70+ (rec), Magic 55 (rec), Prayer 40 (rec), Prayer 74 (rec). Quests: Priest in Peril, Fairytale II - Cure a Queen. Setup: Runes, High Level Alchemy, Boots of brimstone, Boots of stone, Granite boots, Elite Kourend & Kebos Diary, Ring of the gods (i), Slayer helmet (i), Herb sack, Rune Pouch, Player-owned house, superior garden, Fairy ring (Construction). Supplies ≈321.5K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
+     "detail": "Requires Slayer 84, Ranged 70+ (rec), Magic 55 (rec), Prayer 40 (rec), Prayer 74 (rec). Quests: Priest in Peril, Fairytale II - Cure a Queen. Setup: Runes, High Level Alchemy, Boots of brimstone, Boots of stone, Granite boots, Elite Kourend & Kebos Diary, Ring of the gods (i), Slayer helmet (i), Herb sack, Rune Pouch, Player-owned house, superior garden, Fairy ring (Construction). Supplies ≈326.4K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Killing_Drakes",
      "reqs": [
       {
@@ -9071,7 +9100,7 @@
      "badge": "MODERATE",
      "elite": null,
      "intensity": "moderate",
-     "detail": "Requires Hitpoints 80+ (rec), Attack 80+ (rec), Ranged 80+ (rec), Magic 75+ (rec), Prayer 43+ (rec), Attack 80+. Setup: weaponry, armour, Anti-dragon shield, Dragonfire shield, Games necklace, Divine ranging potion, Divine magic potion, Divine super combat potion, Extended antifire, Antifire, Prayer potion, Saradomin brew, Super restore, teleport, monkfish, Broad bolts, Ranged, Player-owned house, chapel, Prayer, Tai Bwo Wannai Trio, Zamorakian hasta, Melee. Supplies ≈240.2K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
+     "detail": "Requires Hitpoints 80+ (rec), Attack 80+ (rec), Ranged 80+ (rec), Magic 75+ (rec), Prayer 43+ (rec), Attack 80+. Setup: weaponry, armour, Anti-dragon shield, Dragonfire shield, Games necklace, Divine ranging potion, Divine magic potion, Divine super combat potion, Extended antifire, Antifire, Prayer potion, Saradomin brew, Super restore, teleport, monkfish, Broad bolts, Ranged, Player-owned house, chapel, Prayer, Tai Bwo Wannai Trio, Zamorakian hasta, Melee. Supplies ≈239.3K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Killing_mithril_dragons",
      "reqs": [
       {
@@ -9115,7 +9144,7 @@
      "badge": "MODERATE",
      "elite": null,
      "intensity": "moderate",
-     "detail": "Requires Combat level 90+ (rec), Ranged 70+ (rec), Magic 47 (rec), Agility 70 (rec), Combat 90+ (rec). Setup: dragonfire, Dragonfire shield, Melee, Anti-dragon shield, Ranged, Magic, Melee gear, Ranged gear, Magic gear, combat class, Dusty key, Agility, Falador Teleport, Falador teleport, Broad bolts, Antifire potion, Extended antifire, food, lobsters. Supplies ≈6.8K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
+     "detail": "Requires Combat level 90+ (rec), Ranged 70+ (rec), Magic 47 (rec), Agility 70 (rec), Combat 90+ (rec). Setup: dragonfire, Dragonfire shield, Melee, Anti-dragon shield, Ranged, Magic, Melee gear, Ranged gear, Magic gear, combat class, Dusty key, Agility, Falador Teleport, Falador teleport, Broad bolts, Antifire potion, Extended antifire, food, lobsters. Supplies ≈6.7K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Killing_blue_dragons",
      "reqs": [
       {
@@ -9154,7 +9183,7 @@
      "badge": "MODERATE",
      "elite": null,
      "intensity": "moderate",
-     "detail": "Requires Prayer 70+ (rec). Setup: Aranea boots, slash weapon, knife, King's Ransom, Piety, Xeric's talisman, Book of the dead, Spirit tree, Forthos Dungeon. Supplies ≈192.6K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
+     "detail": "Requires Prayer 70+ (rec). Setup: Aranea boots, slash weapon, knife, King's Ransom, Piety, Xeric's talisman, Book of the dead, Spirit tree, Forthos Dungeon. Supplies ≈192.2K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Killing_Sarachnis",
      "reqs": [
       {
@@ -9301,7 +9330,7 @@
      "badge": "HIGH",
      "elite": null,
      "intensity": "high",
-     "detail": "Requires Attack 80+ (rec), Strength 80+ (rec), Defence 80+ (rec), Ranged 80+ (rec), Prayer 70+ (rec), Hitpoints 85+ (rec). Setup: Fairy ring, Kalphite Lair. Supplies ≈318.6K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
+     "detail": "Requires Attack 80+ (rec), Strength 80+ (rec), Defence 80+ (rec), Ranged 80+ (rec), Prayer 70+ (rec), Hitpoints 85+ (rec). Setup: Fairy ring, Kalphite Lair. Supplies ≈317.2K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Killing_the_Kalphite_Queen",
      "reqs": [
       {
@@ -9384,7 +9413,7 @@
      "badge": "HIGH",
      "elite": null,
      "intensity": "high",
-     "detail": "Requires Ranged 80+ (rec), Prayer 37+ (rec), Prayer 37+. Setup: Rune crossbow, Book of law, Twisted buckler, Diamond bolts (e), Extended antifire, Antifire potion, Divine ranging potion, Prayer potion, Prayer, altar, Armadyl armour. Supplies ≈75.1K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
+     "detail": "Requires Ranged 80+ (rec), Prayer 37+ (rec), Prayer 37+. Setup: Rune crossbow, Book of law, Twisted buckler, Diamond bolts (e), Extended antifire, Antifire potion, Divine ranging potion, Prayer potion, Prayer, altar, Armadyl armour. Supplies ≈75.4K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Killing_brutal_red_dragons",
      "reqs": [
       {
@@ -9413,7 +9442,7 @@
      "badge": "MODERATE",
      "elite": null,
      "intensity": "moderate",
-     "detail": "Requires Slayer 83, Attack 70+ (rec), Agility 70 (rec), Prayer 43+ (rec), Attack 70+. Quests: Troll Stronghold. Setup: Proselyte armour, weapon, God book, God cape, Super attack, Super strength, Super combat potion, Super restore, Prayer potion, food, Rope, Holy wrench, teleport, Eadgar's Ruse, Trollheim Teleport. Supplies ≈89.8K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
+     "detail": "Requires Slayer 83, Attack 70+ (rec), Agility 70 (rec), Prayer 43+ (rec), Attack 70+. Quests: Troll Stronghold. Setup: Proselyte armour, weapon, God book, God cape, Super attack, Super strength, Super combat potion, Super restore, Prayer potion, food, Rope, Holy wrench, teleport, Eadgar's Ruse, Trollheim Teleport. Supplies ≈89.9K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Killing_spiritual_mages",
      "reqs": [
       {
@@ -9454,7 +9483,7 @@
      "badge": "HIGH",
      "elite": null,
      "intensity": "high",
-     "detail": "Requires Ranged 80+ (rec), Defence 70 (rec). Setup: dragonfire, Anti-dragon shield, Ranged gear, Armadyl crossbow, Dragon crossbow, Rune crossbow, Karil's crossbow, Crystal bow, Broad bolts, Dusty key, Taverley Dungeon, Antipoison, food, Falador teleport. Supplies ≈23.5K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
+     "detail": "Requires Ranged 80+ (rec), Defence 70 (rec). Setup: dragonfire, Anti-dragon shield, Ranged gear, Armadyl crossbow, Dragon crossbow, Rune crossbow, Karil's crossbow, Crystal bow, Broad bolts, Dusty key, Taverley Dungeon, Antipoison, food, Falador teleport. Supplies ≈23.1K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Killing_black_dragons",
      "reqs": [
       {
@@ -9545,7 +9574,7 @@
      "badge": "HIGH",
      "elite": null,
      "intensity": "high",
-     "detail": "Requires Attack 80+ (rec), Ranged 70+ (rec), Hitpoints 70+ (rec), Prayer 44+ (rec), Attack 80+. Setup: weaponry, armour, Anti-dragon shield, Dragonfire shield, Ranging potion, Super combat potion, Extended antifire, Antifire, Superantipoison, Prayer potion, Prayer, teleport, monkfish, Broad bolts, Ranged, Tai Bwo Wannai Trio, Zamorakian hasta, Melee. Supplies ≈338.2K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
+     "detail": "Requires Attack 80+ (rec), Ranged 70+ (rec), Hitpoints 70+ (rec), Prayer 44+ (rec), Attack 80+. Setup: weaponry, armour, Anti-dragon shield, Dragonfire shield, Ranging potion, Super combat potion, Extended antifire, Antifire, Superantipoison, Prayer potion, Prayer, teleport, monkfish, Broad bolts, Ranged, Tai Bwo Wannai Trio, Zamorakian hasta, Melee. Supplies ≈335.7K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Killing_the_King_Black_Dragon",
      "reqs": [
       {
@@ -9584,7 +9613,7 @@
      "badge": "HIGH",
      "elite": null,
      "intensity": "high",
-     "detail": "Requires Magic 50+ (rec), Prayer 40+ (rec), Magic 50+, Prayer 40+. Quests: Underground Pass. Setup: Magic gear, Amulet of glory, Games necklace, prayer potion, super energy, stamina potion, Runes, Iban Blast, Iban's staff, lobsters. Supplies ≈24.4K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
+     "detail": "Requires Magic 50+ (rec), Prayer 40+ (rec), Magic 50+, Prayer 40+. Quests: Underground Pass. Setup: Magic gear, Amulet of glory, Games necklace, prayer potion, super energy, stamina potion, Runes, Iban Blast, Iban's staff, lobsters. Supplies ≈24.1K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Killing_the_Crazy_archaeologist",
      "reqs": [
       {
@@ -9700,7 +9729,7 @@
      "badge": "HIGH",
      "elite": null,
      "intensity": "high",
-     "detail": "Requires Ranged 70+ (rec), Prayer 37+ (rec), Prayer 37+. Setup: dragonfire, Anti-dragon shield, Extended antifire, antifire potion, Ranged gear, Armadyl crossbow, Rune crossbow, Games necklace, Ring of dueling, food, lobsters, Prayer potion, Prayer, Broad bolts, Player-owned house, chapel. Supplies ≈44.5K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
+     "detail": "Requires Ranged 70+ (rec), Prayer 37+ (rec), Prayer 37+. Setup: dragonfire, Anti-dragon shield, Extended antifire, antifire potion, Ranged gear, Armadyl crossbow, Rune crossbow, Games necklace, Ring of dueling, food, lobsters, Prayer potion, Prayer, Broad bolts, Player-owned house, chapel. Supplies ≈44.6K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Killing_brutal_green_dragons",
      "reqs": [
       {
@@ -9729,7 +9758,7 @@
      "badge": "HIGH",
      "elite": null,
      "intensity": "high",
-     "detail": "Requires Combat level 60+, Prayer 43+, Combat 60+. Setup: Rat bone weapons, Prayer boosting gear, Scurrius/Strategies. Supplies ≈147.7K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
+     "detail": "Requires Combat level 60+, Prayer 43+, Combat 60+. Setup: Rat bone weapons, Prayer boosting gear, Scurrius/Strategies. Supplies ≈147.3K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Killing_Scurrius",
      "reqs": [
       {
@@ -9833,7 +9862,7 @@
      "badge": "MODERATE",
      "elite": null,
      "intensity": "moderate",
-     "detail": "Requires Attack 50+, Strength 50+, Defence 50+, Prayer 43+, Woodcutting 57+. Setup: Bronze axe, rune chainbody, rune platelegs, rune kiteshield, leather chaps, leather cowl, black sq shield, Rune scimitar, Amulet of power, red cape, leather boots, leather gloves. Supplies ≈6.0K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
+     "detail": "Requires Attack 50+, Strength 50+, Defence 50+, Prayer 43+, Woodcutting 57+. Setup: Bronze axe, rune chainbody, rune platelegs, rune kiteshield, leather chaps, leather cowl, black sq shield, Rune scimitar, Amulet of power, red cape, leather boots, leather gloves. Supplies ≈5.9K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Killing_Bryophyta_(free-to-play)",
      "reqs": [
       {
@@ -10073,7 +10102,7 @@
      "badge": "LOW",
      "elite": null,
      "intensity": "low",
-     "detail": "Requires Slayer 77, Prayer 37+, Construction 45, Ranged 85+ (rec). Setup: Dragon hunter crossbow, twisted buckler, dragonfire ward, odium ward, book of law, twisted bow, Diamond bolts (e), amethyst arrow, Elite Void Knight equipment, Void Knight equipment, Black dragonhide armour, Armadyl armour, Masori armour, Xeric's talisman, Teleport to House, ring of dueling, Extended antifire, Divine ranging potion, Prayer potion, Prayer. Supplies ≈165.4K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
+     "detail": "Requires Slayer 77, Prayer 37+, Construction 45, Ranged 85+ (rec). Setup: Dragon hunter crossbow, twisted buckler, dragonfire ward, odium ward, book of law, twisted bow, Diamond bolts (e), amethyst arrow, Elite Void Knight equipment, Void Knight equipment, Black dragonhide armour, Armadyl armour, Masori armour, Xeric's talisman, Teleport to House, ring of dueling, Extended antifire, Divine ranging potion, Prayer potion, Prayer. Supplies ≈166.6K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Killing_brutal_black_dragons",
      "reqs": [
       {
@@ -10107,7 +10136,7 @@
      "badge": "LOW",
      "elite": null,
      "intensity": "low",
-     "detail": "Requires Ranged 85+ (rec), Prayer 77+ (rec). Setup: Spade, Twisted bow, ranged, Falador shield 3, Kandarin headgear 1, light source, Dwarven Multicannon, Falador shield, Kandarin headgear, Making Friends with My Arm. Supplies ≈235.9K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
+     "detail": "Requires Ranged 85+ (rec), Prayer 77+ (rec). Setup: Spade, Twisted bow, ranged, Falador shield 3, Kandarin headgear 1, light source, Dwarven Multicannon, Falador shield, Kandarin headgear, Making Friends with My Arm. Supplies ≈236.0K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Killing_the_Giant_Mole_(Twisted_bow)",
      "reqs": [
       {
@@ -10131,7 +10160,7 @@
      "badge": "LOW",
      "elite": null,
      "intensity": "low",
-     "detail": "Requires Slayer 72, Attack 80+ (rec), Ranged 80+ (rec), Prayer 44+ (rec), Magic 55, Attack 80+. Quests: Elemental Workshop I, Elemental Workshop II, Fairytale II - Cure a Queen, Lost City. Setup: weaponry, gear, Elemental shield, Mind shield, Dragonfire shield, Dragonfire Ward, Ancient wyvern shield, food, Cooked karambwan, Ranged, Cooked karambwan, Melee, Prayer potion, Divine ranging potion, Super set, Divine super combat potion, Dramen staff, Lunar staff, Runes, High Level Alchemy, Giantsoul amulet, Player-owned house, Rimmington, Fairy ring, Asgarnian Ice Dungeon. Supplies ≈75.7K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
+     "detail": "Requires Slayer 72, Attack 80+ (rec), Ranged 80+ (rec), Prayer 44+ (rec), Magic 55, Attack 80+. Quests: Elemental Workshop I, Elemental Workshop II, Fairytale II - Cure a Queen, Lost City. Setup: weaponry, gear, Elemental shield, Mind shield, Dragonfire shield, Dragonfire Ward, Ancient wyvern shield, food, Cooked karambwan, Ranged, Cooked karambwan, Melee, Prayer potion, Divine ranging potion, Super set, Divine super combat potion, Dramen staff, Lunar staff, Runes, High Level Alchemy, Giantsoul amulet, Player-owned house, Rimmington, Fairy ring, Asgarnian Ice Dungeon. Supplies ≈75.0K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Killing_skeletal_wyverns",
      "reqs": [
       {
@@ -10219,7 +10248,7 @@
      "badge": "LOW",
      "elite": null,
      "intensity": "low",
-     "detail": "Requires Slayer 75, Attack 70/80+ (rec), Magic 55, Attack 70/80+. Quests: Priest in Peril. Setup: Granite hammer, Food, Rock hammer, Slayer helmet, Nose peg, Aberrant spectre, Runes, High Level Alchemy, Ancient mace, Saradomin godsword, Prayer, Piety, Protect from Melee, ivy, shortcut, Slayer ring, Ectophial, Kharyrll Teleport, Salve Graveyard Teleport, Player-owned house, Armour stand, Blood moon armour, degradation, Portal Chamber, Kharyrll, superior garden, Fairy ring (Construction). Supplies ≈46.5K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
+     "detail": "Requires Slayer 75, Attack 70/80+ (rec), Magic 55, Attack 70/80+. Quests: Priest in Peril. Setup: Granite hammer, Food, Rock hammer, Slayer helmet, Nose peg, Aberrant spectre, Runes, High Level Alchemy, Ancient mace, Saradomin godsword, Prayer, Piety, Protect from Melee, ivy, shortcut, Slayer ring, Ectophial, Kharyrll Teleport, Salve Graveyard Teleport, Player-owned house, Armour stand, Blood moon armour, degradation, Portal Chamber, Kharyrll, superior garden, Fairy ring (Construction). Supplies ≈46.3K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Killing_gargoyles",
      "reqs": [
       {
@@ -10362,7 +10391,7 @@
      "badge": "LOW",
      "elite": null,
      "intensity": "low",
-     "detail": "Requires Combat level 40+ (rec), Prayer 25 (rec), Combat 40+ (rec). Setup: gear, Amulet of glory, Games necklace, food. Supplies ≈702/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
+     "detail": "Requires Combat level 40+ (rec), Prayer 25 (rec), Combat 40+ (rec). Setup: gear, Amulet of glory, Games necklace, food. Supplies ≈690/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Killing_black_unicorns",
      "reqs": [
       {
@@ -10467,7 +10496,7 @@
      "badge": "LOW",
      "elite": null,
      "intensity": "low",
-     "detail": "Requires Combat level 60+ (rec), combat 60+ (rec). Setup: Emergency teleport, armour, a weapon. Supplies ≈7.8K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
+     "detail": "Requires Combat level 60+ (rec), combat 60+ (rec). Setup: Emergency teleport, armour, a weapon. Supplies ≈7.7K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Killing_chaos_dwarves",
      "reqs": [
       {
@@ -10691,7 +10720,7 @@
      "badge": "HIGH",
      "elite": null,
      "intensity": "high",
-     "detail": "Requires Mining 70+. Quests: Song of the Elves. Setup: Varrock armour 1, Dragon pickaxe, crystal pickaxe, Celestial ring, celestial signet, regen bracelet. Supplies ≈32.9K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Mining 70+. Quests: Song of the Elves. Setup: Varrock armour 1, Dragon pickaxe, crystal pickaxe, Celestial ring, celestial signet, regen bracelet. Supplies ≈32.0K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Killing_Zalcano",
      "reqs": [
       {
@@ -10753,7 +10782,7 @@
      "badge": "MODERATE",
      "elite": null,
      "intensity": "moderate",
-     "detail": "Requires Mining 70+. Quests: Song of the Elves. Setup: Varrock armour 1, Dragon pickaxe, crystal pickaxe, Celestial ring, celestial signet, regen bracelet. Supplies ≈32.9K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
+     "detail": "Requires Mining 70+. Quests: Song of the Elves. Setup: Varrock armour 1, Dragon pickaxe, crystal pickaxe, Celestial ring, celestial signet, regen bracelet. Supplies ≈32.0K/hr (seeds/materials — already deducted from the rate, but you front them). Processing rates are re-derived from live prices (post-tax, volume-capped); other rates are the wiki's long-run averages.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Killing_Zalcano_(Experience)",
      "reqs": [
       {
@@ -10933,7 +10962,7 @@
      "badge": "MODERATE",
      "elite": null,
      "intensity": "moderate",
-     "detail": "Requires Firemaking 80 (rec), Attack 80+ (rec), Firemaking 80, Attack 80+. Quests: Shades of Mort'ton, In Aid of the Myreque. Setup: Combat, equipment, Salve amulet (e), Morytania legs 3, Morytania legs 4, Shade key, Gold coffin, The Lair of Tarn Razorlor, Protect from Melee, Piety. Supplies ≈113.0K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
+     "detail": "Requires Firemaking 80 (rec), Attack 80+ (rec), Firemaking 80, Attack 80+. Quests: Shades of Mort'ton, In Aid of the Myreque. Setup: Combat, equipment, Salve amulet (e), Morytania legs 3, Morytania legs 4, Shade key, Gold coffin, The Lair of Tarn Razorlor, Protect from Melee, Piety. Supplies ≈112.4K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Killing_urium_shades",
      "reqs": [
       {
@@ -11038,7 +11067,7 @@
      "badge": "HIGH",
      "elite": null,
      "intensity": "high",
-     "detail": "Requires Prayer 43+ (rec), Attack 70+ (rec), Magic 50+ (rec), Ranged 50+ (rec), Attack 70+. Quests: Priest in Peril. Setup: Combat, equipment, Spade, Barrows teleport (tablet), Ectophial, Teleport to house (tablet), Ring of dueling, Super restore, Monkfish, Harralander tar, black salamander, Super set, Super combat, Ranging potion, Magic potion, Holy wrench, Morytania legs 3, player-owned house, Ornate rejuvenation pool, runes, Barrows chest, In Aid of the Myreque, Burgh de Rott, Shades of Mort'ton, Minigame teleport. Supplies ≈25.4K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
+     "detail": "Requires Prayer 43+ (rec), Attack 70+ (rec), Magic 50+ (rec), Ranged 50+ (rec), Attack 70+. Quests: Priest in Peril. Setup: Combat, equipment, Spade, Barrows teleport (tablet), Ectophial, Teleport to house (tablet), Ring of dueling, Super restore, Monkfish, Harralander tar, black salamander, Super set, Super combat, Ranging potion, Magic potion, Holy wrench, Morytania legs 3, player-owned house, Ornate rejuvenation pool, runes, Barrows chest, In Aid of the Myreque, Burgh de Rott, Shades of Mort'ton, Minigame teleport. Supplies ≈24.9K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Barrows",
      "reqs": [
       {
@@ -11157,7 +11186,7 @@
      "badge": "HIGH",
      "elite": null,
      "intensity": "high",
-     "detail": "Requires Ranged 50+ (rec). Setup: Magic shortbow (i), Venator bow, Magic comp bow, Scorching bow, Dark bow, Elite Void Knight equipment, Ava's accumulator, Necklace of anguish, Ring of suffering (ri), ring of recoil, Elemental shield, mind shield, Cape of accomplishment, Cooking cape, Quest cape, Imcando hammer, Elite Western Provinces Diary, Crystal halberd, Dinh's bulwark. Supplies ≈24.0K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
+     "detail": "Requires Ranged 50+ (rec). Setup: Magic shortbow (i), Venator bow, Magic comp bow, Scorching bow, Dark bow, Elite Void Knight equipment, Ava's accumulator, Necklace of anguish, Ring of suffering (ri), ring of recoil, Elemental shield, mind shield, Cape of accomplishment, Cooking cape, Quest cape, Imcando hammer, Elite Western Provinces Diary, Crystal halberd, Dinh's bulwark. Supplies ≈24.2K/hr (seeds/materials — already deducted from the rate, but you front them). Rate is the wiki's long-run drop-table average.",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Barbarian_assault_high_gambles",
      "reqs": [
       {
@@ -11183,7 +11212,7 @@
      "rate": "≈2.4M/day recurring",
      "elite": null,
      "intensity": "-",
-     "detail": "150.2K per run, ~5 min hands-on, repeatable every 1h — the interval caps the income, extra hours don't help; short cycles assume collecting through a ~16h day. Supplies ≈108.2K per run (seeds/materials — already deducted from the rate, but you front them). Per-run profit assumes every patch/spot the guide lists (quest- and diary-gated ones included) — fewer unlocked means proportionally less. Requires Farming 71 (rec). Quests: Fairytale I - Growing Pains, Watchtower, Enlightened Journey, Children of the Sun. ",
+     "detail": "150.2K per run, ~5 min hands-on, repeatable every 1h — the interval caps the income, extra hours don't help; short cycles assume collecting through a ~16h day. Supplies ≈110.6K per run (seeds/materials — already deducted from the rate, but you front them). Per-run profit assumes every patch/spot the guide lists (quest- and diary-gated ones included) — fewer unlocked means proportionally less. Requires Farming 71 (rec). Quests: Fairytale I - Growing Pains, Watchtower, Enlightened Journey, Children of the Sun. ",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Farming_cotton_bolls",
      "reqs": [
       {
@@ -11206,7 +11235,7 @@
      "rate": "≈1.7M/day recurring",
      "elite": null,
      "intensity": "-",
-     "detail": "105.5K per run, ~6 min hands-on, repeatable every 1h — the interval caps the income, extra hours don't help; short cycles assume collecting through a ~16h day. Supplies ≈8.7K per run (seeds/materials — already deducted from the rate, but you front them). Per-run profit assumes every patch/spot the guide lists (quest- and diary-gated ones included) — fewer unlocked means proportionally less. Requires Farming 16, Farming 80+ (rec). Quests: Fairytale I - Growing Pains, Watchtower, Enlightened Journey, Children of the Sun. ",
+     "detail": "105.5K per run, ~6 min hands-on, repeatable every 1h — the interval caps the income, extra hours don't help; short cycles assume collecting through a ~16h day. Supplies ≈8.5K per run (seeds/materials — already deducted from the rate, but you front them). Per-run profit assumes every patch/spot the guide lists (quest- and diary-gated ones included) — fewer unlocked means proportionally less. Requires Farming 16, Farming 80+ (rec). Quests: Fairytale I - Growing Pains, Watchtower, Enlightened Journey, Children of the Sun. ",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Farming_Yanillian_hops",
      "reqs": [
       {
@@ -11234,7 +11263,7 @@
      "rate": "≈1.7M/day recurring",
      "elite": null,
      "intensity": "-",
-     "detail": "155.1K per run, ~6 min hands-on, repeatable every 1h30 — the interval caps the income, extra hours don't help; short cycles assume collecting through a ~16h day. Supplies ≈31.6K per run (seeds/materials — already deducted from the rate, but you front them). Per-run profit assumes every patch/spot the guide lists (quest- and diary-gated ones included) — fewer unlocked means proportionally less. Requires Farming 56, Magic 61 (rec), Agility 47 (rec), Agility 73 (rec), Agility 73. Quests: Ghosts Ahoy, My Arm's Big Adventure, Fairytale I - Growing Pains, Making Friends with My Arm, Dream Mentor. ",
+     "detail": "155.1K per run, ~6 min hands-on, repeatable every 1h30 — the interval caps the income, extra hours don't help; short cycles assume collecting through a ~16h day. Supplies ≈29.6K per run (seeds/materials — already deducted from the rate, but you front them). Per-run profit assumes every patch/spot the guide lists (quest- and diary-gated ones included) — fewer unlocked means proportionally less. Requires Farming 56, Magic 61 (rec), Agility 47 (rec), Agility 73 (rec), Agility 73. Quests: Ghosts Ahoy, My Arm's Big Adventure, Fairytale I - Growing Pains, Making Friends with My Arm, Dream Mentor. ",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Farming_kwuarm",
      "reqs": [
       {
@@ -11323,7 +11352,7 @@
      "rate": "≈1.6M/day recurring",
      "elite": null,
      "intensity": "-",
-     "detail": "80.8K per run, ~5 min hands-on, repeatable every 50min — the interval caps the income, extra hours don't help; short cycles assume collecting through a ~16h day. Supplies ≈5.1K per run (seeds/materials — already deducted from the rate, but you front them). Per-run profit assumes every patch/spot the guide lists (quest- and diary-gated ones included) — fewer unlocked means proportionally less. Requires Farming 13, Farming 80+ (rec). Quests: Fairytale I - Growing Pains, Watchtower, Enlightened Journey. ",
+     "detail": "80.8K per run, ~5 min hands-on, repeatable every 50min — the interval caps the income, extra hours don't help; short cycles assume collecting through a ~16h day. Supplies ≈4.9K per run (seeds/materials — already deducted from the rate, but you front them). Per-run profit assumes every patch/spot the guide lists (quest- and diary-gated ones included) — fewer unlocked means proportionally less. Requires Farming 13, Farming 80+ (rec). Quests: Fairytale I - Growing Pains, Watchtower, Enlightened Journey. ",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Farming_jute_fibre",
      "reqs": [
       {
@@ -11350,7 +11379,7 @@
      "rate": "≈1.5M/day recurring",
      "elite": null,
      "intensity": "-",
-     "detail": "144.8K per run, ~6 min hands-on, repeatable every 1h30 — the interval caps the income, extra hours don't help; short cycles assume collecting through a ~16h day. Supplies ≈513.0K per run (seeds/materials — already deducted from the rate, but you front them). Per-run profit assumes every patch/spot the guide lists (quest- and diary-gated ones included) — fewer unlocked means proportionally less. Requires Farming 62, Magic 61 (rec), Agility 47 (rec), Agility 73 (rec), Agility 73. Quests: Ghosts Ahoy, My Arm's Big Adventure, Fairytale I - Growing Pains, Making Friends with My Arm, Dream Mentor. ",
+     "detail": "144.8K per run, ~6 min hands-on, repeatable every 1h30 — the interval caps the income, extra hours don't help; short cycles assume collecting through a ~16h day. Supplies ≈514.1K per run (seeds/materials — already deducted from the rate, but you front them). Per-run profit assumes every patch/spot the guide lists (quest- and diary-gated ones included) — fewer unlocked means proportionally less. Requires Farming 62, Magic 61 (rec), Agility 47 (rec), Agility 73 (rec), Agility 73. Quests: Ghosts Ahoy, My Arm's Big Adventure, Fairytale I - Growing Pains, Making Friends with My Arm, Dream Mentor. ",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Farming_snapdragon",
      "reqs": [
       {
@@ -11438,7 +11467,7 @@
      "rate": "≈1.5M/day recurring",
      "elite": null,
      "intensity": "-",
-     "detail": "138.5K per run, ~6 min hands-on, repeatable every 1h30 — the interval caps the income, extra hours don't help; short cycles assume collecting through a ~16h day. Supplies ≈66.8K per run (seeds/materials — already deducted from the rate, but you front them). Per-run profit assumes every patch/spot the guide lists (quest- and diary-gated ones included) — fewer unlocked means proportionally less. Requires Farming 67, Magic 61 (rec), Agility 47 (rec), Agility 73 (rec), Agility 73. Quests: Ghosts Ahoy, My Arm's Big Adventure, Fairytale I - Growing Pains, Making Friends with My Arm, Dream Mentor. ",
+     "detail": "138.5K per run, ~6 min hands-on, repeatable every 1h30 — the interval caps the income, extra hours don't help; short cycles assume collecting through a ~16h day. Supplies ≈70.3K per run (seeds/materials — already deducted from the rate, but you front them). Per-run profit assumes every patch/spot the guide lists (quest- and diary-gated ones included) — fewer unlocked means proportionally less. Requires Farming 67, Magic 61 (rec), Agility 47 (rec), Agility 73 (rec), Agility 73. Quests: Ghosts Ahoy, My Arm's Big Adventure, Fairytale I - Growing Pains, Making Friends with My Arm, Dream Mentor. ",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Farming_cadantine",
      "reqs": [
       {
@@ -11561,7 +11590,7 @@
      "rate": "≈1.2M/day recurring",
      "elite": null,
      "intensity": "-",
-     "detail": "117.1K per run, ~6 min hands-on, repeatable every 1h30 — the interval caps the income, extra hours don't help; short cycles assume collecting through a ~16h day. Supplies ≈551.8K per run (seeds/materials — already deducted from the rate, but you front them). Per-run profit assumes every patch/spot the guide lists (quest- and diary-gated ones included) — fewer unlocked means proportionally less. Requires Farming 65, Magic 61 (rec), Agility 47 (rec), Agility 73 (rec), Agility 73. Quests: Ghosts Ahoy, My Arm's Big Adventure, Fairytale I - Growing Pains, Making Friends with My Arm, Dream Mentor. ",
+     "detail": "117.1K per run, ~6 min hands-on, repeatable every 1h30 — the interval caps the income, extra hours don't help; short cycles assume collecting through a ~16h day. Supplies ≈551.9K per run (seeds/materials — already deducted from the rate, but you front them). Per-run profit assumes every patch/spot the guide lists (quest- and diary-gated ones included) — fewer unlocked means proportionally less. Requires Farming 65, Magic 61 (rec), Agility 47 (rec), Agility 73 (rec), Agility 73. Quests: Ghosts Ahoy, My Arm's Big Adventure, Fairytale I - Growing Pains, Making Friends with My Arm, Dream Mentor. ",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Farming_huasca",
      "reqs": [
       {
@@ -11669,7 +11698,7 @@
      "rate": "≈1.1M/day recurring",
      "elite": null,
      "intensity": "-",
-     "detail": "104.2K per run, ~6 min hands-on, repeatable every 1h30 — the interval caps the income, extra hours don't help; short cycles assume collecting through a ~16h day. Supplies ≈9.3K per run (seeds/materials — already deducted from the rate, but you front them). Per-run profit assumes every patch/spot the guide lists (quest- and diary-gated ones included) — fewer unlocked means proportionally less. Requires Farming 73, Magic 61 (rec), Agility 47 (rec), Agility 73 (rec), Agility 73. Quests: Ghosts Ahoy, My Arm's Big Adventure, Fairytale I - Growing Pains, Making Friends with My Arm, Dream Mentor. ",
+     "detail": "104.2K per run, ~6 min hands-on, repeatable every 1h30 — the interval caps the income, extra hours don't help; short cycles assume collecting through a ~16h day. Supplies ≈8.4K per run (seeds/materials — already deducted from the rate, but you front them). Per-run profit assumes every patch/spot the guide lists (quest- and diary-gated ones included) — fewer unlocked means proportionally less. Requires Farming 73, Magic 61 (rec), Agility 47 (rec), Agility 73 (rec), Agility 73. Quests: Ghosts Ahoy, My Arm's Big Adventure, Fairytale I - Growing Pains, Making Friends with My Arm, Dream Mentor. ",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Farming_lantadyme",
      "reqs": [
       {
@@ -11713,7 +11742,7 @@
      "rate": "≈1.1M/day recurring",
      "elite": null,
      "intensity": "-",
-     "detail": "102.3K per run, ~6 min hands-on, repeatable every 1h30 — the interval caps the income, extra hours don't help; short cycles assume collecting through a ~16h day. Supplies ≈16.8K per run (seeds/materials — already deducted from the rate, but you front them). Per-run profit assumes every patch/spot the guide lists (quest- and diary-gated ones included) — fewer unlocked means proportionally less. Requires Farming 79, Magic 61 (rec), Agility 47 (rec), Agility 73 (rec), Agility 73. Quests: Ghosts Ahoy, My Arm's Big Adventure, Fairytale I - Growing Pains, Making Friends with My Arm, Dream Mentor. ",
+     "detail": "102.3K per run, ~6 min hands-on, repeatable every 1h30 — the interval caps the income, extra hours don't help; short cycles assume collecting through a ~16h day. Supplies ≈13.6K per run (seeds/materials — already deducted from the rate, but you front them). Per-run profit assumes every patch/spot the guide lists (quest- and diary-gated ones included) — fewer unlocked means proportionally less. Requires Farming 79, Magic 61 (rec), Agility 47 (rec), Agility 73 (rec), Agility 73. Quests: Ghosts Ahoy, My Arm's Big Adventure, Fairytale I - Growing Pains, Making Friends with My Arm, Dream Mentor. ",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Farming_dwarf_weed",
      "reqs": [
       {
@@ -11757,7 +11786,7 @@
      "rate": "≈1.1M/day recurring",
      "elite": null,
      "intensity": "-",
-     "detail": "102.1K per run, ~6 min hands-on, repeatable every 1h30 — the interval caps the income, extra hours don't help; short cycles assume collecting through a ~16h day. Supplies ≈10.9K per run (seeds/materials — already deducted from the rate, but you front them). Per-run profit assumes every patch/spot the guide lists (quest- and diary-gated ones included) — fewer unlocked means proportionally less. Requires Farming 50, Magic 61 (rec), Agility 47 (rec), Agility 73 (rec), Agility 73. Quests: Ghosts Ahoy, My Arm's Big Adventure, Fairytale I - Growing Pains, Making Friends with My Arm, Dream Mentor. ",
+     "detail": "102.1K per run, ~6 min hands-on, repeatable every 1h30 — the interval caps the income, extra hours don't help; short cycles assume collecting through a ~16h day. Supplies ≈11.8K per run (seeds/materials — already deducted from the rate, but you front them). Per-run profit assumes every patch/spot the guide lists (quest- and diary-gated ones included) — fewer unlocked means proportionally less. Requires Farming 50, Magic 61 (rec), Agility 47 (rec), Agility 73 (rec), Agility 73. Quests: Ghosts Ahoy, My Arm's Big Adventure, Fairytale I - Growing Pains, Making Friends with My Arm, Dream Mentor. ",
      "url": "https://oldschool.runescape.wiki/w/Money_making_guide/Farming_avantoe",
      "reqs": [
       {
