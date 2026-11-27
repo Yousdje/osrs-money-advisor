@@ -14,7 +14,7 @@
 const UPSTREAM = "https://sync.runescape.wiki/runelite/player/";
 const RM_PROFILE = "https://apps.runescape.com/runemetrics/profile/profile?activities=0&user=";
 const RM_QUESTS = "https://apps.runescape.com/runemetrics/quests?user=";
-const UA = { "User-Agent": "rs-money-advisor dashboard proxy (contact: yousdje@gmail.com)" };
+const UA = { "User-Agent": "rs-money-advisor dashboard proxy (contact: yousdje@proton.me)" };
 const CORS = {
   "Access-Control-Allow-Origin": "*",
   "Access-Control-Allow-Methods": "GET",
